@@ -4,8 +4,9 @@ import requests
 
 def get_free_games() -> dict:
     games = {'free_now': [], 'free_next': []}
-    url = 'https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?country=CN'
-    resp = requests.get(url)
+    base_store_url = 'https://store.epicgames.com/p/'
+    api_url = 'https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?country=CN'
+    resp = requests.get(api_url)
     for element in resp.json()['data']['Catalog']['searchStore']['elements']:
         if promotions := element['promotions']:
             game = {}
@@ -13,6 +14,8 @@ def get_free_games() -> dict:
             game['images'] = element['keyImages']
             game['origin_price'] = element['price']['totalPrice']['fmtPrice']['originalPrice']
             game['discount_price'] = element['price']['totalPrice']['fmtPrice']['discountPrice']
+            game['store_url'] = base_store_url + \
+                element['catalogNs']['mappings'][0]['pageSlug']
             if offers := promotions['promotionalOffers']:
                 game['start_date'] = offers[0]['promotionalOffers'][0]['startDate']
                 game['end_date'] = offers[0]['promotionalOffers'][0]['endDate']
@@ -46,11 +49,13 @@ def generate_markdown(games: dict, filename: str):
 
     for game in games['free_now']:
         content += f'''
-  - ### {game['title']}
+  - ### [{game['title']}]({game['store_url']} "{game['title']}")
 
-  原价: {game['origin_price']}
+    原价: {game['origin_price']}
 
-  [![{game['title']}]({images[game['title']]})]({images[game['title']]})
+    购买链接: [{game['store_url']}]({game['store_url']} "{game['title']}")
+
+    ![{game['title']}]({images[game['title']]})
 
 '''
 
@@ -61,11 +66,13 @@ def generate_markdown(games: dict, filename: str):
 
     for game in games['free_next']:
         content += f'''
-  - ### {game['title']}
+  - ### [{game['title']}]({game['store_url']} "{game['title']}")
 
-  原价: {game['origin_price']}
+    原价: {game['origin_price']}
 
-  [![{game['title']}]({images[game['title']]})]({images[game['title']]})
+    购买链接: [{game['store_url']}]({game['store_url']} "{game['title']}")
+
+    ![{game['title']}]({images[game['title']]})
 
 '''
 
