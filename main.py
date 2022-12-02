@@ -24,16 +24,60 @@ def get_free_games() -> dict:
     return games
 
 
-def generate_json(data: dict, filename: str):
+def generate_json(games: dict, filename: str):
     with open(filename, 'w') as f:
-        json.dump(data, f)
-        # json.dump(obj=data, fp=f, ensure_ascii=False, indent=4)
+        json.dump(games, f)
+        # json.dump(obj=games, fp=f, ensure_ascii=False, indent=4)
 
 
-def generate_markdown(data: dict, filename: str):
-    pass
+def generate_markdown(games: dict, filename: str):
+    images = {}
+    for data in games.values():
+        for game in data:
+            for image in game['images']:
+                if image['type'] == 'OfferImageWide':
+                    images[game['title']] = image['url']
+
+    content = '''# Epic 每周限免
+
+- ## 本周限免
+
+***
+
+'''
+
+    for game in games['free_now']:
+        content += f'''
+  - ### [{game['title']}][]
+
+  原价: {game['origin_price']}
+
+  [![{game['title']}]({images[game['title']]})]({images[game['title']]})
+
+'''
+
+    content += f'''
+- ## 下周限免
+
+***
+
+'''
+
+    for game in games['free_next']:
+        content += f'''
+  - ### [{game['title']}][]
+
+  原价: {game['origin_price']}
+
+  [![{game['title']}]({images[game['title']]})]({images[game['title']]})
+
+'''
+
+    with open(filename, 'w') as f:
+        f.write(content)
 
 
 if __name__ == '__main__':
     games = get_free_games()
     generate_json(games, './epic_free_games.json')
+    generate_markdown(games, './README.md')
