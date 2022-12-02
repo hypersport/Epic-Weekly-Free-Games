@@ -42,13 +42,11 @@ def generate_markdown(games: dict, filename: str):
 
 - ## 本周限免
 
-***
-
 '''
 
     for game in games['free_now']:
         content += f'''
-  - ### [{game['title']}][]
+  - ### {game['title']}
 
   原价: {game['origin_price']}
 
@@ -59,13 +57,11 @@ def generate_markdown(games: dict, filename: str):
     content += f'''
 - ## 下周限免
 
-***
-
 '''
 
     for game in games['free_next']:
         content += f'''
-  - ### [{game['title']}][]
+  - ### {game['title']}
 
   原价: {game['origin_price']}
 
