@@ -10,7 +10,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  Calendar-Publisher:
+  Free-Games-Publisher:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -36,9 +36,3 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-      # - name: Release Files
-        # uses: elgohr/Github-Release-Action@master
-        # env:
-          # GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
-        # with:
-          # args: WorldCup2022Calendar
