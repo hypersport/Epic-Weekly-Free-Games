@@ -1,9 +1,11 @@
 import json
 import requests
+from datetime import datetime
 
 
 def get_free_games() -> dict:
-    games = {'free_now': [], 'free_next': []}
+    timestamp = datetime.timestamp(datetime.now())
+    games = {'timestamp': timestamp, 'free_now': [], 'free_next': []}
     base_store_url = 'https://store.epicgames.com/p/'
     api_url = 'https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?country=CN'
     resp = requests.get(api_url)
@@ -35,11 +37,11 @@ def generate_json(games: dict, filename: str):
 
 def generate_markdown(games: dict, filename: str):
     images = {}
-    for data in games.values():
-        for game in data:
-            for image in game['images']:
-                if image['type'] == 'OfferImageWide':
-                    images[game['title']] = image['url']
+    data = games['free_now'] + games['free_next']
+    for game in data:
+        for image in game['images']:
+            if image['type'] == 'OfferImageWide':
+                images[game['title']] = image['url']
 
     content = '''# Epic 每周限免
 
