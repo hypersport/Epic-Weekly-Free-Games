@@ -35,7 +35,7 @@
 
   - ### [Saints Row IV Re-Elected](https://store.epicgames.com/p/saints-row-iv-re-elected "Saints Row IV Re-Elected")
 
-    原价: 0
+    原价: CN¥65.00
 
     购买链接: [https://store.epicgames.com/p/saints-row-iv-re-elected](https://store.epicgames.com/p/saints-row-iv-re-elected "Saints Row IV Re-Elected")
 
