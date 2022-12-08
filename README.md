@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Fort Triumph](https://store.epicgames.com/p/fort-triumph "Fort Triumph")
+
+    原价: CN¥70.00
+
+    购买链接: [https://store.epicgames.com/p/fort-triumph](https://store.epicgames.com/p/fort-triumph "Fort Triumph")
+
+    ![Fort Triumph](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_FortTriumph_CookieByteEntertainment_S1_2560x1440-a0b5e1aeb62c1ee5550d97886ab475a3)
+
+
   - ### [Wildcat Gun Machine](https://store.epicgames.com/p/wildcat-gun-machine-c66c4e "Wildcat Gun Machine")
 
     原价: CN¥50.00
