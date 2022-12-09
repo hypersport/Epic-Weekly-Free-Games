@@ -6,7 +6,7 @@ from datetime import datetime
 def get_free_games() -> dict:
     timestamp = datetime.timestamp(datetime.now())
     games = {'timestamp': timestamp, 'free_now': [], 'free_next': []}
-    base_store_url = 'https://store.epicgames.com/p/'
+    base_store_url = 'https://store.epicgames.com'
     api_url = 'https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?country=CN'
     resp = requests.get(api_url)
     for element in resp.json()['data']['Catalog']['searchStore']['elements']:
@@ -16,8 +16,7 @@ def get_free_games() -> dict:
             game['images'] = element['keyImages']
             game['origin_price'] = element['price']['totalPrice']['fmtPrice']['originalPrice']
             game['discount_price'] = element['price']['totalPrice']['fmtPrice']['discountPrice']
-            game['store_url'] = base_store_url + \
-                element['catalogNs']['mappings'][0]['pageSlug']
+            game['store_url'] = f"{base_store_url}/p/{element['catalogNs']['mappings'][0]['pageSlug']}" if element['catalogNs']['mappings'] else base_store_url
             if offers := promotions['promotionalOffers']:
                 game['start_date'] = offers[0]['promotionalOffers'][0]['startDate']
                 game['end_date'] = offers[0]['promotionalOffers'][0]['endDate']
@@ -40,8 +39,9 @@ def generate_markdown(games: dict, filename: str):
     data = games['free_now'] + games['free_next']
     for game in data:
         for image in game['images']:
-            if image['type'] == 'OfferImageWide':
+            if image['type'] in ['OfferImageWide', 'DieselStoreFrontWide']:
                 images[game['title']] = image['url']
+                break
 
     content = '''# Epic 每周限免
 
