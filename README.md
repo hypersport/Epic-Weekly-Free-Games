@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Horizon Chase Turbo](https://store.epicgames.com "Horizon Chase Turbo")
+  - ### [Costume Quest 2](https://store.epicgames.com "Costume Quest 2")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Horizon Chase Turbo")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Costume Quest 2")
 
-    ![Horizon Chase Turbo](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day2-wrapped-desktop-carousel-image_1920x1080-d544d2d3e7c0b51b01a6b716532e23e3)
+    ![Costume Quest 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day3-wrapped-desktop-carousel-image_1920x1080-064e776fcdc7ff5e14217ca7a0c09614)
 
 
 - ## 下周限免
@@ -21,5 +21,5 @@
 
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game")
 
-    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day3-wrapped-desktop-carousel-image_1920x1080-c5917eb29ea508c34070365917bbff31)
+    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day4-wrapped-desktop-carousel-image_1920x1080-9e289d8bde66fe2d36f7720de2db6d30)
 
