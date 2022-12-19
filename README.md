@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Sable](https://store.epicgames.com "Sable")
+  - ### [Them's Fightin' Herds](https://store.epicgames.com "Them's Fightin' Herds")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Sable")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Them's Fightin' Herds")
 
-    ![Sable](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day4-wrapped-desktop-carousel-image_1920x1080-a829790d1039cbb5579dd72a4b1ec1d6)
+    ![Them's Fightin' Herds](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day5-wrapped-desktop-carousel-image_1920x1080-9ad0950e0a6c590cc37e8d036ace846b)
 
 
 - ## 下周限免
@@ -21,5 +21,5 @@
 
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game")
 
-    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day5-wrapped-desktop-carousel-image_1920x1080-64a04f25077744a037b0fd09bc771030)
+    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day6-wrapped-desktop-carousel-image_1920x1080-c89096c7c3aef712ddd9486fc0033d3a)
 
