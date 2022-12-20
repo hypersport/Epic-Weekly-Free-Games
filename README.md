@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Them's Fightin' Herds](https://store.epicgames.com "Them's Fightin' Herds")
+  - ### [Wolfenstein: The New Order](https://store.epicgames.com "Wolfenstein: The New Order")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Them's Fightin' Herds")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Wolfenstein: The New Order")
 
-    ![Them's Fightin' Herds](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day5-wrapped-desktop-carousel-image_1920x1080-9ad0950e0a6c590cc37e8d036ace846b)
+    ![Wolfenstein: The New Order](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day6-wrapped-desktop-carousel-image1_1920x1080-34e06f4262434459dc9f4d9916d6e6bf)
 
 
 - ## 下周限免
@@ -21,5 +21,5 @@
 
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game")
 
-    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day6-wrapped-desktop-carousel-image_1920x1080-c89096c7c3aef712ddd9486fc0033d3a)
+    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day7-wrapped-desktop-carousel-image_1920x1080-96c98f39545940978aa0cbd91cb1fe7e)
 
