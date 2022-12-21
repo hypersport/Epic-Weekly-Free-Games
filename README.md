@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Wolfenstein: The New Order](https://store.epicgames.com "Wolfenstein: The New Order")
+  - ### [LEGO® Builder's Journey](https://store.epicgames.com "LEGO® Builder's Journey")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Wolfenstein: The New Order")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LEGO® Builder's Journey")
 
-    ![Wolfenstein: The New Order](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day6-wrapped-desktop-carousel-image1_1920x1080-34e06f4262434459dc9f4d9916d6e6bf)
+    ![LEGO® Builder's Journey](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day7-wrapped-desktop-carousel-image1_1920x1080-b038ba02f28c8155ed78a442b2720f1b)
 
 
 - ## 下周限免
@@ -21,5 +21,5 @@
 
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game")
 
-    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day7-wrapped-desktop-carousel-image_1920x1080-96c98f39545940978aa0cbd91cb1fe7e)
+    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day8-wrapped-desktop-carousel-image1_1920x1080-1efd61a43a3a3d4abc32a214dd64d687)
 
