@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [DEATH STRANDING DIRECTOR'S CUT](https://store.epicgames.com "DEATH STRANDING DIRECTOR'S CUT")
+  - ### [F.I.S.T.: Forged In Shadow Torch](https://store.epicgames.com "F.I.S.T.: Forged In Shadow Torch")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "DEATH STRANDING DIRECTOR'S CUT")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "F.I.S.T.: Forged In Shadow Torch")
 
-    ![DEATH STRANDING DIRECTOR'S CUT](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day11-wrapped-desktop-carousel-image1_1920x1080-68e36a4cd78c379046f4af800e075edc)
+    ![F.I.S.T.: Forged In Shadow Torch](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day12-wrapped-desktop-carousel-image1_1920x1080-d7452e091aa286dad369e66bbac8cd2d)
 
 
 - ## 下周限免
@@ -21,5 +21,5 @@
 
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game")
 
-    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day12-wrapped-desktop-carousel-image_1920x1080-6d7b616222043d04544000f26181b9dd)
+    ![Mystery Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Copyof15days-day13-wrapped-desktop-carousel-image_1920x1080-c5054a6cb6e17d0c72ff7cca26ae390f)
 
