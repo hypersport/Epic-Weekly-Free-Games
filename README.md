@@ -42,11 +42,11 @@
     ![Shadow Tactics - Aiko's Choice](https://cdn1.epicgames.com/spt-assets/24f4bf69387246819ea43509effb6ba4/shadow-tactics--aikos-choice-offer-phujx.jpg)
 
 
-  - ### [Kerbal Space Program](https://store.epicgames.com "Kerbal Space Program")
+  - ### [Kerbal Space Program](https://store.epicgames.com/p/kerbal-space-program "Kerbal Space Program")
 
     原价: CN¥112.00
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Kerbal Space Program")
+    购买链接: [https://store.epicgames.com/p/kerbal-space-program](https://store.epicgames.com/p/kerbal-space-program "Kerbal Space Program")
 
     ![Kerbal Space Program](https://cdn1.epicgames.com/offer/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S1_2560x1440-380681e19358cb3d1e1162ce755e5e01)
 
