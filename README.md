@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Gamedec - Definitive Edition](https://store.epicgames.com/p/gamedec "Gamedec - Definitive Edition")
+
+    原价: CN¥148.00
+
+    购买链接: [https://store.epicgames.com/p/gamedec](https://store.epicgames.com/p/gamedec "Gamedec - Definitive Edition")
+
+    ![Gamedec - Definitive Edition](https://cdn1.epicgames.com/offer/b8abdf9f9bc64ed6b4128a71fd47607f/EGS_GamedecDefinitiveEdition_AnsharStudios_S1_2560x1440-3d18c3f9ffe2ba4ca88305479f99d1be)
+
+
   - ### [First Class Trouble](https://store.epicgames.com/p/first-class-trouble "First Class Trouble")
 
     原价: CN¥48.00
