@@ -3,27 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Shadow Tactics - Aiko's Choice](https://store.epicgames.com/p/shadow-tactics-aikos-choice-5678c1 "Shadow Tactics - Aiko's Choice")
-
-    原价: CN¥69.00
-
-    购买链接: [https://store.epicgames.com/p/shadow-tactics-aikos-choice-5678c1](https://store.epicgames.com/p/shadow-tactics-aikos-choice-5678c1 "Shadow Tactics - Aiko's Choice")
-
-    ![Shadow Tactics - Aiko's Choice](https://cdn1.epicgames.com/spt-assets/24f4bf69387246819ea43509effb6ba4/shadow-tactics--aikos-choice-offer-phujx.jpg)
-
-
-  - ### [Kerbal Space Program](https://store.epicgames.com/p/kerbal-space-program "Kerbal Space Program")
-
-    原价: CN¥112.00
-
-    购买链接: [https://store.epicgames.com/p/kerbal-space-program](https://store.epicgames.com/p/kerbal-space-program "Kerbal Space Program")
-
-    ![Kerbal Space Program](https://cdn1.epicgames.com/offer/ca0530b485754032be50cb6f27be0c2c/EGS_KerbalSpaceProgram_Squad_S1_2560x1440-380681e19358cb3d1e1162ce755e5e01)
-
-
-- ## 下周限免
-
-
   - ### [Gamedec - Definitive Edition](https://store.epicgames.com/p/gamedec "Gamedec - Definitive Edition")
 
     原价: CN¥148.00
@@ -40,4 +19,25 @@
     购买链接: [https://store.epicgames.com/p/first-class-trouble](https://store.epicgames.com/p/first-class-trouble "First Class Trouble")
 
     ![First Class Trouble](https://cdn1.epicgames.com/salesEvent/salesEvent/egs-firstclasstrouble-invisiblewalls-s1-2560x1440-061767b6ed3f_2560x1440-5949bbfd7f9dd488810526905e93a0f1)
+
+
+  - ### [Divine Knockout](https://store.epicgames.com/p/divine-knockout "Divine Knockout")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/divine-knockout](https://store.epicgames.com/p/divine-knockout "Divine Knockout")
+
+    ![Divine Knockout](https://cdn1.epicgames.com/offer/1200aeb2f87c48349594d96554e2833d/DKO-LandscapeImage-2560x1440-Logo_2560x1440-0eff33cf210ca980da3a21556de35635)
+
+
+- ## 下周限免
+
+
+  - ### [Epistory - Typing Chronicles](https://store.epicgames.com/p/epistory-typing-adventure-445794 "Epistory - Typing Chronicles")
+
+    原价: CN¥74.00
+
+    购买链接: [https://store.epicgames.com/p/epistory-typing-adventure-445794](https://store.epicgames.com/p/epistory-typing-adventure-445794 "Epistory - Typing Chronicles")
+
+    ![Epistory - Typing Chronicles](https://cdn1.epicgames.com/spt-assets/2fe270709f944fc398851454cf476f95/epistory-typing-adventure-1t9zx.jpg)
 
