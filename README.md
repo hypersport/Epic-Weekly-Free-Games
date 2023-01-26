@@ -3,18 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Epistory - Typing Chronicles](https://store.epicgames.com/p/epistory-typing-chronicles-445794 "Epistory - Typing Chronicles")
-
-    原价: CN¥74.00
-
-    购买链接: [https://store.epicgames.com/p/epistory-typing-chronicles-445794](https://store.epicgames.com/p/epistory-typing-chronicles-445794 "Epistory - Typing Chronicles")
-
-    ![Epistory - Typing Chronicles](https://cdn1.epicgames.com/spt-assets/2fe270709f944fc398851454cf476f95/epistory-typing-adventure-1t9zx.jpg)
-
-
-- ## 下周限免
-
-
   - ### [Borderlands 3 Season Pass](https://store.epicgames.com/p/borderlands-3 "Borderlands 3 Season Pass")
 
     原价: CN¥179.00
@@ -40,4 +28,25 @@
     购买链接: [https://store.epicgames.com/p/hell-is-others-789262](https://store.epicgames.com/p/hell-is-others-789262 "Hell is Others")
 
     ![Hell is Others](https://cdn1.epicgames.com/spt-assets/0de2d0d8870f457eaf7c6bf8c64f7f9e/hell-is-others-86xt2.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [City of Gangsters](https://store.epicgames.com/p/city-of-gangsters-6c2974 "City of Gangsters")
+
+    原价: CN¥118.00
+
+    购买链接: [https://store.epicgames.com/p/city-of-gangsters-6c2974](https://store.epicgames.com/p/city-of-gangsters-6c2974 "City of Gangsters")
+
+    ![City of Gangsters](https://cdn1.epicgames.com/spt-assets/148df842b2b14082be6b004f59a2765b/city-of-gangsters-offer-16sbj.jpg)
+
+
+  - ### [Dishonored®: Death of the Outsider™](https://store.epicgames.com/p/dishonored-death-of-the-outsider "Dishonored®: Death of the Outsider™")
+
+    原价: CN¥125.00
+
+    购买链接: [https://store.epicgames.com/p/dishonored-death-of-the-outsider](https://store.epicgames.com/p/dishonored-death-of-the-outsider "Dishonored®: Death of the Outsider™")
+
+    ![Dishonored®: Death of the Outsider™](https://cdn1.epicgames.com/offer/87c84bc5f43d4fe69ad8f3ccde0594b0/EGS_DishonoredDeathoftheOutsider_ArkaneStudios_S1_2560x1440-7384b1e04742564e240e5e92722f82d6)
 
