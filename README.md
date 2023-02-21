@@ -21,5 +21,5 @@
 
     购买链接: [https://store.epicgames.com/p/duskers-672fdc](https://store.epicgames.com/p/duskers-672fdc "Duskers")
 
-    ![Duskers](https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-1y0k9.png)
+    ![Duskers](https://cdn1.epicgames.com/spt-assets/63398ad79bbc48bb8fda573695ad0873/duskers-oqf9l.png)
 
