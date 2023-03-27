@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Borderlands 3 Season Pass](https://store.epicgames.com/p/borderlands-3 "Borderlands 3 Season Pass")
+
+    原价: CN¥179.00
+
+    购买链接: [https://store.epicgames.com/p/borderlands-3](https://store.epicgames.com/p/borderlands-3 "Borderlands 3 Season Pass")
+
+    ![Borderlands 3 Season Pass](https://cdn1.epicgames.com/offer/catnip/Diesel_productv2_borderlands-3_season-pass_BL3_SEASONPASS_Hero-3840x2160-4411e63a005a43811a2bc516ae7ec584598fd4aa-3840x2160-b8988ebb0f3d9159671e8968af991f30_3840x2160-b8988ebb0f3d9159671e8968af991f30)
+
+
   - ### [Tunche](https://store.epicgames.com/p/tunche "Tunche")
 
     原价: CN¥69.00
