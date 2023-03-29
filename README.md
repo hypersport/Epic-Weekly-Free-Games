@@ -41,3 +41,12 @@
 
     ![Tunche](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S1_2560x1440-1f0c9b8e43a9525d762ed823a05f19ca)
 
+
+  - ### [The Silent Age](https://store.epicgames.com/p/the-silent-age-eb6972 "The Silent Age")
+
+    原价: CN¥30.00
+
+    购买链接: [https://store.epicgames.com/p/the-silent-age-eb6972](https://store.epicgames.com/p/the-silent-age-eb6972 "The Silent Age")
+
+    ![The Silent Age](https://cdn1.epicgames.com/spt-assets/11e5900e5dea4d70a35239c81bcda19e/the-silent-age-offer-k0ttj.png)
+
