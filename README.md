@@ -3,22 +3,22 @@
 - ## 本周限免
 
 
-  - ### [World of Warships — Starter Pack: Ishizuchi](https://store.epicgames.com/p/world-of-warships "World of Warships — Starter Pack: Ishizuchi")
+  - ### [Tunche](https://store.epicgames.com/p/tunche "Tunche")
 
-    原价: CN¥146.70
+    原价: CN¥69.00
 
-    购买链接: [https://store.epicgames.com/p/world-of-warships](https://store.epicgames.com/p/world-of-warships "World of Warships — Starter Pack: Ishizuchi")
+    购买链接: [https://store.epicgames.com/p/tunche](https://store.epicgames.com/p/tunche "Tunche")
 
-    ![World of Warships — Starter Pack: Ishizuchi](https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackIshizuchi_Wargaming_AddOn_S1_2560x1440-748ff6360c9ce80ff44a21355e4ab335)
+    ![Tunche](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S1_2560x1440-1f0c9b8e43a9525d762ed823a05f19ca)
 
 
-  - ### [Chess Ultra](https://store.epicgames.com/p/chess-ultra-91bba3 "Chess Ultra")
+  - ### [The Silent Age](https://store.epicgames.com/p/the-silent-age-eb6972 "The Silent Age")
 
-    原价: CN¥39.00
+    原价: CN¥30.00
 
-    购买链接: [https://store.epicgames.com/p/chess-ultra-91bba3](https://store.epicgames.com/p/chess-ultra-91bba3 "Chess Ultra")
+    购买链接: [https://store.epicgames.com/p/the-silent-age-eb6972](https://store.epicgames.com/p/the-silent-age-eb6972 "The Silent Age")
 
-    ![Chess Ultra](https://cdn1.epicgames.com/spt-assets/f8581083c427408285529920a8afbdac/chess-ultra-offer-1b0t8.jpg)
+    ![The Silent Age](https://cdn1.epicgames.com/spt-assets/11e5900e5dea4d70a35239c81bcda19e/the-silent-age-offer-k0ttj.png)
 
 
 - ## 下周限免
@@ -42,11 +42,20 @@
     ![Tunche](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Tunche_LeapGameStudios_S1_2560x1440-1f0c9b8e43a9525d762ed823a05f19ca)
 
 
-  - ### [The Silent Age](https://store.epicgames.com/p/the-silent-age-eb6972 "The Silent Age")
+  - ### [Dying Light Enhanced Edition](https://store.epicgames.com/p/dying-light "Dying Light Enhanced Edition")
 
-    原价: CN¥30.00
+    原价: CN¥109.00
 
-    购买链接: [https://store.epicgames.com/p/the-silent-age-eb6972](https://store.epicgames.com/p/the-silent-age-eb6972 "The Silent Age")
+    购买链接: [https://store.epicgames.com/p/dying-light](https://store.epicgames.com/p/dying-light "Dying Light Enhanced Edition")
 
-    ![The Silent Age](https://cdn1.epicgames.com/spt-assets/11e5900e5dea4d70a35239c81bcda19e/the-silent-age-offer-k0ttj.png)
+    ![Dying Light Enhanced Edition](https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/StoreHorizontal2560x14401_2560x1440-31926a8652d0c3b888809a778e138a3c)
+
+
+  - ### [Blazing Sails](https://store.epicgames.com/p/blazing-sails "Blazing Sails")
+
+    原价: CN¥58.00
+
+    购买链接: [https://store.epicgames.com/p/blazing-sails](https://store.epicgames.com/p/blazing-sails "Blazing Sails")
+
+    ![Blazing Sails](https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S1_2560x1440-fd7a7b3d357555880cb7969634553c5b)
 
