@@ -51,11 +51,11 @@
     ![Dying Light Enhanced Edition](https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/StoreHorizontal2560x14401_2560x1440-31926a8652d0c3b888809a778e138a3c)
 
 
-  - ### [Blazing Sails](https://store.epicgames.com/p/blazing-sails "Blazing Sails")
+  - ### [shapez](https://store.epicgames.com/p/shapez-0929c9 "shapez")
 
-    原价: CN¥58.00
+    原价: CN¥35.00
 
-    购买链接: [https://store.epicgames.com/p/blazing-sails](https://store.epicgames.com/p/blazing-sails "Blazing Sails")
+    购买链接: [https://store.epicgames.com/p/shapez-0929c9](https://store.epicgames.com/p/shapez-0929c9 "shapez")
 
-    ![Blazing Sails](https://cdn1.epicgames.com/offer/aee7dd76aa6746578f476dc47f8d1d7f/EGS_BlazingSails_GetUpGames_S1_2560x1440-fd7a7b3d357555880cb7969634553c5b)
+    ![shapez](https://cdn1.epicgames.com/spt-assets/6aac3071aeae452990a71aac0a1fbc30/shapez-1iyyz.png)
 
