@@ -3,36 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Borderlands 3 Season Pass](https://store.epicgames.com/p/borderlands-3 "Borderlands 3 Season Pass")
-
-    原价: CN¥179.00
-
-    购买链接: [https://store.epicgames.com/p/borderlands-3](https://store.epicgames.com/p/borderlands-3 "Borderlands 3 Season Pass")
-
-    ![Borderlands 3 Season Pass](https://cdn1.epicgames.com/offer/catnip/Diesel_productv2_borderlands-3_season-pass_BL3_SEASONPASS_Hero-3840x2160-4411e63a005a43811a2bc516ae7ec584598fd4aa-3840x2160-b8988ebb0f3d9159671e8968af991f30_3840x2160-b8988ebb0f3d9159671e8968af991f30)
-
-
-  - ### [Second Extinction™](https://store.epicgames.com/p/second-extinction "Second Extinction™")
-
-    原价: CN¥80.00
-
-    购买链接: [https://store.epicgames.com/p/second-extinction](https://store.epicgames.com/p/second-extinction "Second Extinction™")
-
-    ![Second Extinction™](https://cdn1.epicgames.com/offer/fcd3387b58864614b66952d0430d2b9a/EGS_SecondExtinction_SystemicReaction_S1_2560x1440-4a9d265c505b45c75b65916c366f5fca)
-
-
-  - ### [MORDHAU](https://store.epicgames.com/p/mordhau "MORDHAU")
-
-    原价: CN¥93.00
-
-    购买链接: [https://store.epicgames.com/p/mordhau](https://store.epicgames.com/p/mordhau "MORDHAU")
-
-    ![MORDHAU](https://cdn1.epicgames.com/offer/2bda08f9230144a19e98373cc4a6ac2d/EGS_MORDHAU_Triterniondoo_S1_2560x1440-572876bb8bcb903e5c33235b7eba8797)
-
-
-- ## 下周限免
-
-
   - ### [Beyond Blue](https://store.epicgames.com/p/beyond-blue "Beyond Blue")
 
     原价: CN¥60.00
@@ -49,4 +19,25 @@
     购买链接: [https://store.epicgames.com/p/never-alone-kisima-ingitchuna](https://store.epicgames.com/p/never-alone-kisima-ingitchuna "Never Alone (Kisima Ingitchuna)")
 
     ![Never Alone (Kisima Ingitchuna)](https://cdn1.epicgames.com/offer/b13f6a1e5121469d8a825947b759339d/EGS_NeverAloneKisimaIngitchuna_UpperOneGamesELineMedia_S1_2560x1440-97a1d9c3e47e439ea05e900feaa4a892)
+
+
+- ## 下周限免
+
+
+  - ### [Breathedge](https://store.epicgames.com/p/breathedge "Breathedge")
+
+    原价: CN¥92.00
+
+    购买链接: [https://store.epicgames.com/p/breathedge](https://store.epicgames.com/p/breathedge "Breathedge")
+
+    ![Breathedge](https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg)
+
+
+  - ### [Poker Club](https://store.epicgames.com/p/poker-club-6e18ee "Poker Club")
+
+    原价: CN¥60.00
+
+    购买链接: [https://store.epicgames.com/p/poker-club-6e18ee](https://store.epicgames.com/p/poker-club-6e18ee "Poker Club")
+
+    ![Poker Club](https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/poker-club-offer-2b7to.jpg)
 
