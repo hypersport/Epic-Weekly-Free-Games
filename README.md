@@ -3,27 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Beyond Blue](https://store.epicgames.com/p/beyond-blue "Beyond Blue")
-
-    原价: CN¥60.00
-
-    购买链接: [https://store.epicgames.com/p/beyond-blue](https://store.epicgames.com/p/beyond-blue "Beyond Blue")
-
-    ![Beyond Blue](https://cdn1.epicgames.com/bd9fd28ca1214868922f2ab41d6d3b65/offer/EGS_BeyondBlue_ELineMedia_S1-2560x1440-5d205f1273f6b805db82bc525a1432b9.jpg)
-
-
-  - ### [Never Alone (Kisima Ingitchuna)](https://store.epicgames.com/p/never-alone-kisima-ingitchuna "Never Alone (Kisima Ingitchuna)")
-
-    原价: CN¥52.00
-
-    购买链接: [https://store.epicgames.com/p/never-alone-kisima-ingitchuna](https://store.epicgames.com/p/never-alone-kisima-ingitchuna "Never Alone (Kisima Ingitchuna)")
-
-    ![Never Alone (Kisima Ingitchuna)](https://cdn1.epicgames.com/offer/b13f6a1e5121469d8a825947b759339d/EGS_NeverAloneKisimaIngitchuna_UpperOneGamesELineMedia_S1_2560x1440-97a1d9c3e47e439ea05e900feaa4a892)
-
-
-- ## 下周限免
-
-
   - ### [Breathedge](https://store.epicgames.com/p/breathedge "Breathedge")
 
     原价: CN¥92.00
@@ -40,4 +19,34 @@
     购买链接: [https://store.epicgames.com/p/poker-club-6e18ee](https://store.epicgames.com/p/poker-club-6e18ee "Poker Club")
 
     ![Poker Club](https://cdn1.epicgames.com/spt-assets/560813614bba464385b56f43524d17f0/poker-club-offer-2b7to.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [Horizon Chase Turbo](https://store.epicgames.com/p/horizon-chase-turbo "Horizon Chase Turbo")
+
+    原价: CN¥69.00
+
+    购买链接: [https://store.epicgames.com/p/horizon-chase-turbo](https://store.epicgames.com/p/horizon-chase-turbo "Horizon Chase Turbo")
+
+    ![Horizon Chase Turbo](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_HorizonChaseTurbo_AQUIRIS_S1_2560x1440-1e6041993df289505da364dfe77dd561)
+
+
+  - ### [Kao the Kangaroo](https://store.epicgames.com/p/kao-the-kangaroo-62abe3 "Kao the Kangaroo")
+
+    原价: CN¥149.00
+
+    购买链接: [https://store.epicgames.com/p/kao-the-kangaroo-62abe3](https://store.epicgames.com/p/kao-the-kangaroo-62abe3 "Kao the Kangaroo")
+
+    ![Kao the Kangaroo](https://cdn1.epicgames.com/spt-assets/4a2dcb55ecca496aaaf328f60263bb56/kao-the-kangaroo-offer-5k0vx.jpg)
+
+
+  - ### [Against All Odds](https://store.epicgames.com/p/against-all-odds-409105 "Against All Odds")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/against-all-odds-409105](https://store.epicgames.com/p/against-all-odds-409105 "Against All Odds")
+
+    ![Against All Odds](https://cdn1.epicgames.com/spt-assets/a2f2a8a46ff648928b50bcc776bf9857/slaughter-league-offer-3kel0.jpg)
 
