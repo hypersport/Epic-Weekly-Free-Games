@@ -39,7 +39,7 @@ def generate_markdown(games: dict, filename: str):
     data = games['free_now'] + games['free_next']
     for game in data:
         for image in game['images']:
-            if image['type'] in ['OfferImageWide', 'DieselStoreFrontWide']:
+            if image['type'] in ['OfferImageWide', 'VaultClosed']:
                 images[game['title']] = image['url']
                 break
 
