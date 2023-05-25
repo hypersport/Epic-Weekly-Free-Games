@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [DEATH STRANDING](https://store.epicgames.com "DEATH STRANDING")
+  - ### [Fallout: New Vegas - Ultimate Edition](https://store.epicgames.com "Fallout: New Vegas - Ultimate Edition")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "DEATH STRANDING")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Fallout: New Vegas - Ultimate Edition")
 
-    ![DEATH STRANDING](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/DSLandscape_1920x1080-b4ff4164a3ce7c8c1901e8fdd53303b2)
+    ![Fallout: New Vegas - Ultimate Edition](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/fnv-land_2560x1440-ea034ab626174189b6edc7d38e7c05c4)
 
 
 - ## 下周限免
