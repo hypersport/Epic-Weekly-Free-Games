@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Fallout: New Vegas - Ultimate Edition](https://store.epicgames.com "Fallout: New Vegas - Ultimate Edition")
+  - ### [Midnight Ghost Hunt](https://store.epicgames.com "Midnight Ghost Hunt")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Fallout: New Vegas - Ultimate Edition")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Midnight Ghost Hunt")
 
-    ![Fallout: New Vegas - Ultimate Edition](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/fnv-land_2560x1440-ea034ab626174189b6edc7d38e7c05c4)
+    ![Midnight Ghost Hunt](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_MidnightGhostHunt_VaultedSkyGames_S1_2560x1440-05551e661e36a253a7ecd4ead27b58bc)
 
 
 - ## 下周限免
