@@ -3,18 +3,6 @@
 - ## 本周限免
 
 
-  - ### [PAYDAY 2](https://store.epicgames.com "PAYDAY 2")
-
-    原价: 0
-
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "PAYDAY 2")
-
-    ![PAYDAY 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/mammoth-h1nvv_2560x1440-ac346d6ece5ec356561e112fbddb2dc1)
-
-
-- ## 下周限免
-
-
   - ### [Guacamelee! Super Turbo Championship Edition](https://store.epicgames.com/p/guacamelee-stce-7cdbc8 "Guacamelee! Super Turbo Championship Edition")
 
     原价: CN¥58.00
@@ -31,4 +19,25 @@
     购买链接: [https://store.epicgames.com/p/guacamelee-2-ac4977](https://store.epicgames.com/p/guacamelee-2-ac4977 "Guacamelee! 2")
 
     ![Guacamelee! 2](https://cdn1.epicgames.com/spt-assets/b05acd7d28d34f6d93a961b0e53ddf0b/guacamelee-2-1lym2.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [Idle Champions of the Forgotten Realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+
+    ![Idle Champions of the Forgotten Realms](https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/IdleChampions_FreeGamesPromo_2560x14401_2560x1440-8ce28f11dab0dcafa37bfedfac54931d)
+
+
+  - ### [theHunter: Call of the Wild™](https://store.epicgames.com/p/thehunter-call-of-the-wild "theHunter: Call of the Wild™")
+
+    原价: CN¥70.00
+
+    购买链接: [https://store.epicgames.com/p/thehunter-call-of-the-wild](https://store.epicgames.com/p/thehunter-call-of-the-wild "theHunter: Call of the Wild™")
+
+    ![theHunter: Call of the Wild™](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_theHunterCalloftheWild_ExpansiveWorlds_S1_2560x1440-69120885e0b3acfb87f34ac0bad68ec6)
 
