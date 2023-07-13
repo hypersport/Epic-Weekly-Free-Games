@@ -3,16 +3,25 @@
 - ## 本周限免
 
 
-  - ### [GRIME](https://store.epicgames.com/p/grime "GRIME")
+  - ### [Train Valley 2](https://store.epicgames.com/p/train-valley-2-3606da "Train Valley 2")
 
-    原价: CN¥87.00
+    原价: CN¥47.00
 
-    购买链接: [https://store.epicgames.com/p/grime](https://store.epicgames.com/p/grime "GRIME")
+    购买链接: [https://store.epicgames.com/p/train-valley-2-3606da](https://store.epicgames.com/p/train-valley-2-3606da "Train Valley 2")
 
-    ![GRIME](https://cdn1.epicgames.com/spt-assets/2a14cec8a1fc4ab9a74dd46bf147c9e6/grime-p858i.jpg)
+    ![Train Valley 2](https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-offer-bq0s1.jpg)
 
 
 - ## 下周限免
+
+
+  - ### [Murder by Numbers](https://store.epicgames.com/p/murder-by-numbers "Murder by Numbers")
+
+    原价: CN¥52.00
+
+    购买链接: [https://store.epicgames.com/p/murder-by-numbers](https://store.epicgames.com/p/murder-by-numbers "Murder by Numbers")
+
+    ![Murder by Numbers](https://cdn1.epicgames.com/a0c5d9d8a9a940e8a8f63118c7323210/offer/EGS_MurderbyNumbers_Mediatonic_S1-2560x1440-c20572a6efa8b71deac98ce598f1fc6c.jpg)
 
 
   - ### [Train Valley 2](https://store.epicgames.com/p/train-valley-2-3606da "Train Valley 2")
@@ -22,4 +31,13 @@
     购买链接: [https://store.epicgames.com/p/train-valley-2-3606da](https://store.epicgames.com/p/train-valley-2-3606da "Train Valley 2")
 
     ![Train Valley 2](https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-offer-bq0s1.jpg)
+
+
+  - ### [The Elder Scrolls® Online](https://store.epicgames.com/p/the-elder-scrolls-online "The Elder Scrolls® Online")
+
+    原价: CN¥83.00
+
+    购买链接: [https://store.epicgames.com/p/the-elder-scrolls-online](https://store.epicgames.com/p/the-elder-scrolls-online "The Elder Scrolls® Online")
+
+    ![The Elder Scrolls® Online](https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/EGS_TheElderScrollsOnline_ZeniMaxOnlineStudios_S1_2560x1440-c6c2917d1d80ae3c0e6d78b92445496b)
 
