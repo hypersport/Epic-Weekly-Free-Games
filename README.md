@@ -32,12 +32,3 @@
 
     ![Train Valley 2](https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-offer-bq0s1.jpg)
 
-
-  - ### [The Elder Scrolls® Online](https://store.epicgames.com/p/the-elder-scrolls-online "The Elder Scrolls® Online")
-
-    原价: CN¥83.00
-
-    购买链接: [https://store.epicgames.com/p/the-elder-scrolls-online](https://store.epicgames.com/p/the-elder-scrolls-online "The Elder Scrolls® Online")
-
-    ![The Elder Scrolls® Online](https://cdn1.epicgames.com/offer/27aa2ebdcda14b3bb8a669aab73ca55f/EGS_TheElderScrollsOnline_ZeniMaxOnlineStudios_S1_2560x1440-c6c2917d1d80ae3c0e6d78b92445496b)
-
