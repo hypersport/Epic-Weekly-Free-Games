@@ -21,6 +21,15 @@
     ![Severed Steel](https://cdn1.epicgames.com/offer/5db7394e65044dd1bb083ee983e2b3a5/EGS_SeveredSteel_GreylockStudio_S1_2560x1440-7563487f2c1135a79b72a4d2c198d544)
 
 
+  - ### [Train Valley 2](https://store.epicgames.com/p/train-valley-2-3606da "Train Valley 2")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/train-valley-2-3606da](https://store.epicgames.com/p/train-valley-2-3606da "Train Valley 2")
+
+    ![Train Valley 2](https://cdn1.epicgames.com/spt-assets/6d6a89f661f74d70bdc8be636c577056/train-valley-2-offer-bq0s1.jpg)
+
+
   - ### [The Elder Scrolls Online](https://store.epicgames.com/p/the-elder-scrolls-online "The Elder Scrolls Online")
 
     原价: CN¥83.00
