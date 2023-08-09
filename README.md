@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Black Book](https://store.epicgames.com/p/black-book "Black Book")
+
+    原价: CN¥92.00
+
+    购买链接: [https://store.epicgames.com/p/black-book](https://store.epicgames.com/p/black-book "Black Book")
+
+    ![Black Book](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_BlackBook_Morteshka_S1_2560x1440-97e2dbc3d0e628116fa510efe7f7783f)
+
+
   - ### [Europa Universalis IV](https://store.epicgames.com/p/europa-universalis-iv "Europa Universalis IV")
 
     原价: CN¥148.00
