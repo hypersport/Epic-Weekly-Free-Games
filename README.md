@@ -3,27 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Europa Universalis IV](https://store.epicgames.com/p/europa-universalis-iv "Europa Universalis IV")
-
-    原价: CN¥148.00
-
-    购买链接: [https://store.epicgames.com/p/europa-universalis-iv](https://store.epicgames.com/p/europa-universalis-iv "Europa Universalis IV")
-
-    ![Europa Universalis IV](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_EuropaUniversalisIV_ParadoxDevelopmentStudioParadoxTinto_S3_2560x1440-aa3002ec221d43dcd7e49f5458e74766)
-
-
-  - ### [Orwell: Keeping an Eye on You](https://store.epicgames.com/p/orwell-keeping-an-eye-on-you "Orwell: Keeping an Eye on You")
-
-    原价: CN¥37.00
-
-    购买链接: [https://store.epicgames.com/p/orwell-keeping-an-eye-on-you](https://store.epicgames.com/p/orwell-keeping-an-eye-on-you "Orwell: Keeping an Eye on You")
-
-    ![Orwell: Keeping an Eye on You](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_OrwellKeepinganEyeonYou_OsmoticStudios_S1_2560x1440-df26557fc7586916a5c1d172c44f2232)
-
-
-- ## 下周限免
-
-
   - ### [Black Book](https://store.epicgames.com/p/black-book "Black Book")
 
     原价: CN¥92.00
@@ -40,4 +19,16 @@
     购买链接: [https://store.epicgames.com/p/dodo-peak-159276](https://store.epicgames.com/p/dodo-peak-159276 "Dodo Peak")
 
     ![Dodo Peak](https://cdn1.epicgames.com/spt-assets/f12a1b6884a4432dbd042e98a7eda29c/dodo-peak-19em1.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [Homeworld: Deserts of Kharak](https://store.epicgames.com/p/homeworld-deserts-of-kharak "Homeworld: Deserts of Kharak")
+
+    原价: CN¥133.00
+
+    购买链接: [https://store.epicgames.com/p/homeworld-deserts-of-kharak](https://store.epicgames.com/p/homeworld-deserts-of-kharak "Homeworld: Deserts of Kharak")
+
+    ![Homeworld: Deserts of Kharak](https://cdn1.epicgames.com/offer/e209b2d1d5384f639335f64e3e6c4bb8/EGS_HomeworldDesertsofKharak_BlackbirdInteractive_S1_2560x1440-31319bacd65f25e6eb277bef9c8e8c53)
 
