@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/p/destiny-2 "Destiny 2: Bungie 30th Anniversary Pack")
+
+    原价: CN¥75.00
+
+    购买链接: [https://store.epicgames.com/p/destiny-2](https://store.epicgames.com/p/destiny-2 "Destiny 2: Bungie 30th Anniversary Pack")
+
+    ![Destiny 2: Bungie 30th Anniversary Pack](https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/EGS_Destiny2Bungie30thAnniversaryPack_Bungie_AddOn_S1_2560x1440-40e931364bcfa578a0b3b9daed1774bf)
+
+
   - ### [Homeworld: Deserts of Kharak](https://store.epicgames.com/p/homeworld-deserts-of-kharak "Homeworld: Deserts of Kharak")
 
     原价: CN¥133.00
