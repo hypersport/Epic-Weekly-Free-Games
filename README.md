@@ -32,3 +32,12 @@
 
     ![Cave Story+](https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S1-2560x1440-23b558de8df0be248f4a32654638ca19.jpg)
 
+
+  - ### [Spelldrifter](https://store.epicgames.com/p/spelldrifter "Spelldrifter")
+
+    原价: CN¥60.00
+
+    购买链接: [https://store.epicgames.com/p/spelldrifter](https://store.epicgames.com/p/spelldrifter "Spelldrifter")
+
+    ![Spelldrifter](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Spelldrifter_FreeRangeGames_S1_2560x1440-352ef2771d0e47b849b948dc1299214c)
+
