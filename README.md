@@ -3,6 +3,15 @@
 - ## 本周限免
 
 
+  - ### [Out of Line](https://store.epicgames.com/p/out-of-line-209cbb "Out of Line")
+
+    原价: CN¥25.00
+
+    购买链接: [https://store.epicgames.com/p/out-of-line-209cbb](https://store.epicgames.com/p/out-of-line-209cbb "Out of Line")
+
+    ![Out of Line](https://cdn1.epicgames.com/spt/8b4ecd70-a418-480e-b59c-e7f94f05d449/out-of-line-offer-4a5df3c7.jpg)
+
+
   - ### [Gloomhaven](https://store.epicgames.com/p/gloomhaven-92f741 "Gloomhaven")
 
     原价: CN¥108.00
@@ -21,25 +30,16 @@
     ![Model Builder](https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-ymmta.png)
 
 
-  - ### [911 Operator](https://store.epicgames.com/p/911-operator-585edd "911 Operator")
+  - ### [The Forest Quartet](https://store.epicgames.com/p/forest-quartet-5d03e3 "The Forest Quartet")
 
-    原价: CN¥47.00
+    原价: CN¥31.00
 
-    购买链接: [https://store.epicgames.com/p/911-operator-585edd](https://store.epicgames.com/p/911-operator-585edd "911 Operator")
+    购买链接: [https://store.epicgames.com/p/forest-quartet-5d03e3](https://store.epicgames.com/p/forest-quartet-5d03e3 "The Forest Quartet")
 
-    ![911 Operator](https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-omkv7.jpg)
+    ![The Forest Quartet](https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-ncqa1.jpg)
 
 
 - ## 下周限免
-
-
-  - ### [Out of Line](https://store.epicgames.com/p/out-of-line-209cbb "Out of Line")
-
-    原价: CN¥25.00
-
-    购买链接: [https://store.epicgames.com/p/out-of-line-209cbb](https://store.epicgames.com/p/out-of-line-209cbb "Out of Line")
-
-    ![Out of Line](https://cdn1.epicgames.com/spt/8b4ecd70-a418-480e-b59c-e7f94f05d449/out-of-line-offer-4a5df3c7.jpg)
 
 
   - ### [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/p/destiny-2 "Destiny 2: Bungie 30th Anniversary Pack")
@@ -69,11 +69,11 @@
     ![911 Operator](https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-omkv7.jpg)
 
 
-  - ### [The Forest Quartet](https://store.epicgames.com/p/forest-quartet-5d03e3 "The Forest Quartet")
+  - ### [Soulstice](https://store.epicgames.com/p/soulstice "Soulstice")
 
-    原价: CN¥31.00
+    原价: CN¥128.00
 
-    购买链接: [https://store.epicgames.com/p/forest-quartet-5d03e3](https://store.epicgames.com/p/forest-quartet-5d03e3 "The Forest Quartet")
+    购买链接: [https://store.epicgames.com/p/soulstice](https://store.epicgames.com/p/soulstice "Soulstice")
 
-    ![The Forest Quartet](https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-ncqa1.jpg)
+    ![Soulstice](https://cdn1.epicgames.com/offer/cb8afc06acb14f6a8cf3ab01f4b361ce/EGS_Soulstice_ReplyGameStudios_S1_2560x1440-dd33485a66a99704353c5ab09183612d)
 
