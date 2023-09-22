@@ -69,6 +69,15 @@
     ![911 Operator](https://cdn1.epicgames.com/spt-assets/c06cc46c27954f55974e9e7a4f3b3849/911-operator-omkv7.jpg)
 
 
+  - ### [The Forest Quartet](https://store.epicgames.com/p/forest-quartet-5d03e3 "The Forest Quartet")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/forest-quartet-5d03e3](https://store.epicgames.com/p/forest-quartet-5d03e3 "The Forest Quartet")
+
+    ![The Forest Quartet](https://cdn1.epicgames.com/spt-assets/5f711e24b6534e32981f910a38e20756/the-forest-quartet-ncqa1.jpg)
+
+
   - ### [Soulstice](https://store.epicgames.com/p/soulstice "Soulstice")
 
     原价: CN¥128.00
