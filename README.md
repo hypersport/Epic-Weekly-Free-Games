@@ -12,15 +12,6 @@
     ![Out of Line](https://cdn1.epicgames.com/spt/8b4ecd70-a418-480e-b59c-e7f94f05d449/out-of-line-offer-4a5df3c7.jpg)
 
 
-  - ### [Gloomhaven](https://store.epicgames.com/p/gloomhaven-92f741 "Gloomhaven")
-
-    原价: CN¥108.00
-
-    购买链接: [https://store.epicgames.com/p/gloomhaven-92f741](https://store.epicgames.com/p/gloomhaven-92f741 "Gloomhaven")
-
-    ![Gloomhaven](https://cdn1.epicgames.com/spt-assets/ef2777467a3c49059a076e42fd9b41f0/gloomhaven-offer-1j9mc.jpg)
-
-
   - ### [Model Builder](https://store.epicgames.com/p/model-builder-f9b456 "Model Builder")
 
     原价: CN¥70.00
