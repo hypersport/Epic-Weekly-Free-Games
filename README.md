@@ -33,6 +33,15 @@
 - ## 下周限免
 
 
+  - ### [Tandem: A Tale of Shadows](https://store.epicgames.com/p/tandem-a-tale-of-shadows-c3f55e "Tandem: A Tale of Shadows")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/tandem-a-tale-of-shadows-c3f55e](https://store.epicgames.com/p/tandem-a-tale-of-shadows-c3f55e "Tandem: A Tale of Shadows")
+
+    ![Tandem: A Tale of Shadows](https://cdn1.epicgames.com/spt/c087c527-0c2b-4269-926b-f0d15102de8a/tandem-a-tale-of-shadows-offer-633449e1.jpg)
+
+
   - ### [F.I.S.T.: Forged In Shadow Torch](https://store.epicgames.com/p/fist-forged-in-shadow-torch "F.I.S.T.: Forged In Shadow Torch")
 
     原价: CN¥108.00
