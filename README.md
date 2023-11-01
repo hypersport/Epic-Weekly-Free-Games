@@ -42,15 +42,6 @@
     ![Tandem: A Tale of Shadows](https://cdn1.epicgames.com/spt/c087c527-0c2b-4269-926b-f0d15102de8a/tandem-a-tale-of-shadows-offer-633449e1.jpg)
 
 
-  - ### [F.I.S.T.: Forged In Shadow Torch](https://store.epicgames.com/p/fist-forged-in-shadow-torch "F.I.S.T.: Forged In Shadow Torch")
-
-    原价: CN¥108.00
-
-    购买链接: [https://store.epicgames.com/p/fist-forged-in-shadow-torch](https://store.epicgames.com/p/fist-forged-in-shadow-torch "F.I.S.T.: Forged In Shadow Torch")
-
-    ![F.I.S.T.: Forged In Shadow Torch](https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8)
-
-
   - ### [Turnip Boy Commits Tax Evasion](https://store.epicgames.com/p/turnip-boy-commits-tax-evasion-fb2084 "Turnip Boy Commits Tax Evasion")
 
     原价: CN¥45.00
