@@ -41,12 +41,3 @@
 
     ![Destiny 2: Bungie 30th Anniversary Pack](https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/EGS_Destiny2Bungie30thAnniversaryPack_Bungie_AddOn_S1_2560x1440-40e931364bcfa578a0b3b9daed1774bf)
 
-
-  - ### [EARTHLOCK](https://store.epicgames.com/p/earthlock-e7d979 "EARTHLOCK")
-
-    原价: CN¥93.00
-
-    购买链接: [https://store.epicgames.com/p/earthlock-e7d979](https://store.epicgames.com/p/earthlock-e7d979 "EARTHLOCK")
-
-    ![EARTHLOCK](https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-15ff1.png)
-
