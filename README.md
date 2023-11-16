@@ -12,25 +12,16 @@
     ![Surviving the Aftermath](https://cdn1.epicgames.com/offer/95b4d5a753d042678f775d5e1eb5ab25/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1_2560x1440-61c69731778b92a32a9dbfd7c1a35d72)
 
 
-  - ### [Golden Light](https://store.epicgames.com/p/golden-light-f543b3 "Golden Light")
+  - ### [EARTHLOCK](https://store.epicgames.com/p/earthlock-e7d979 "EARTHLOCK")
 
-    原价: CN¥80.00
+    原价: CN¥93.00
 
-    购买链接: [https://store.epicgames.com/p/golden-light-f543b3](https://store.epicgames.com/p/golden-light-f543b3 "Golden Light")
+    购买链接: [https://store.epicgames.com/p/earthlock-e7d979](https://store.epicgames.com/p/earthlock-e7d979 "EARTHLOCK")
 
-    ![Golden Light](https://cdn1.epicgames.com/spt-assets/d3aec59bfafa4dd392d5c9b01abbaefd/golden-light-n6ioy.jpg)
+    ![EARTHLOCK](https://cdn1.epicgames.com/spt-assets/3fa7dc9ed5df483cb4cba9a1e7d7497c/earthlock-15ff1.png)
 
 
 - ## 下周限免
-
-
-  - ### [Surviving the Aftermath](https://store.epicgames.com/p/surviving-the-aftermath "Surviving the Aftermath")
-
-    原价: CN¥126.00
-
-    购买链接: [https://store.epicgames.com/p/surviving-the-aftermath](https://store.epicgames.com/p/surviving-the-aftermath "Surviving the Aftermath")
-
-    ![Surviving the Aftermath](https://cdn1.epicgames.com/offer/95b4d5a753d042678f775d5e1eb5ab25/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1_2560x1440-61c69731778b92a32a9dbfd7c1a35d72)
 
 
   - ### [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/p/destiny-2 "Destiny 2: Bungie 30th Anniversary Pack")
@@ -40,4 +31,13 @@
     购买链接: [https://store.epicgames.com/p/destiny-2](https://store.epicgames.com/p/destiny-2 "Destiny 2: Bungie 30th Anniversary Pack")
 
     ![Destiny 2: Bungie 30th Anniversary Pack](https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/EGS_Destiny2Bungie30thAnniversaryPack_Bungie_AddOn_S1_2560x1440-40e931364bcfa578a0b3b9daed1774bf)
+
+
+  - ### [Deliver Us Mars](https://store.epicgames.com/p/deliver-us-mars "Deliver Us Mars")
+
+    原价: CN¥115.00
+
+    购买链接: [https://store.epicgames.com/p/deliver-us-mars](https://store.epicgames.com/p/deliver-us-mars "Deliver Us Mars")
+
+    ![Deliver Us Mars](https://cdn1.epicgames.com/offer/53ec6d9f552241549c4d8aa1a42bcb3b/EGS_DeliverUsMars_KeokeNInteractive_S1_2560x1440-b5b36e7ef7feabf180837cc9d15efdae)
 
