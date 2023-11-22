@@ -33,6 +33,15 @@
     ![Destiny 2: Bungie 30th Anniversary Pack](https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/EGS_Destiny2Bungie30thAnniversaryPack_Bungie_AddOn_S1_2560x1440-40e931364bcfa578a0b3b9daed1774bf)
 
 
+  - ### [Jitsu Squad](https://store.epicgames.com/p/jitsu-squad-af3f2f "Jitsu Squad")
+
+    原价: CN¥60.00
+
+    购买链接: [https://store.epicgames.com/p/jitsu-squad-af3f2f](https://store.epicgames.com/p/jitsu-squad-af3f2f "Jitsu Squad")
+
+    ![Jitsu Squad](https://cdn1.epicgames.com/spt-assets/3d32732efa1840208f6488d243407eff/jitsu-squad-offer-5qemb.jpg)
+
+
   - ### [Deliver Us Mars](https://store.epicgames.com/p/deliver-us-mars "Deliver Us Mars")
 
     原价: CN¥115.00
