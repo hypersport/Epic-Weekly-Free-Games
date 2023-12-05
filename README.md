@@ -66,5 +66,5 @@
 
     购买链接: [https://store.epicgames.com/p/predecessor](https://store.epicgames.com/p/predecessor "Predecessor")
 
-    ![Predecessor](https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_Predecessor_OmedaStudios_S1_2560x1440-dbbd785fef3aff87c52c44f156295418)
+    ![Predecessor](https://cdn1.epicgames.com/offer/85f0435aa88347d185dbcb147716609b/EGS_Predecessor_OmedaStudios_S1_2560x1440-9cc93232a68ae80a034f3fb291d788e5)
 
