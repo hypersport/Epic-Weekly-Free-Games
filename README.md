@@ -12,15 +12,6 @@
     ![Mighty Fight Federation](https://cdn1.epicgames.com/offer/651d07f1eee8419e80eb2938f8f44cf0/EGS_MightyFightFederation_KomiGamesInc_S1_2560x1440-36750efe9ee51b49db0e85d4a577e4ff_2560x1440-36750efe9ee51b49db0e85d4a577e4ff)
 
 
-  - ### [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/p/destiny-2 "Destiny 2: Bungie 30th Anniversary Pack")
-
-    原价: CN¥99.00
-
-    购买链接: [https://store.epicgames.com/p/destiny-2](https://store.epicgames.com/p/destiny-2 "Destiny 2: Bungie 30th Anniversary Pack")
-
-    ![Destiny 2: Bungie 30th Anniversary Pack](https://cdn1.epicgames.com/offer/428115def4ca4deea9d69c99c5a5a99e/EGS_Destiny2Bungie30thAnniversaryPack_Bungie_AddOn_S1_2560x1440-40e931364bcfa578a0b3b9daed1774bf)
-
-
   - ### [Jitsu Squad](https://store.epicgames.com/p/jitsu-squad-af3f2f "Jitsu Squad")
 
     原价: CN¥60.00
