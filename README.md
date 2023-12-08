@@ -24,15 +24,6 @@
 - ## 下周限免
 
 
-  - ### [Mighty Fight Federation](https://store.epicgames.com/p/mighty-fight-federation "Mighty Fight Federation")
-
-    原价: CN¥88.00
-
-    购买链接: [https://store.epicgames.com/p/mighty-fight-federation](https://store.epicgames.com/p/mighty-fight-federation "Mighty Fight Federation")
-
-    ![Mighty Fight Federation](https://cdn1.epicgames.com/offer/651d07f1eee8419e80eb2938f8f44cf0/EGS_MightyFightFederation_KomiGamesInc_S1_2560x1440-36750efe9ee51b49db0e85d4a577e4ff_2560x1440-36750efe9ee51b49db0e85d4a577e4ff)
-
-
   - ### [Gloomhaven](https://store.epicgames.com/p/gloomhaven-92f741 "Gloomhaven")
 
     原价: CN¥108.00
