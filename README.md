@@ -3,23 +3,23 @@
 - ## 本周限免
 
 
-  - ### [The Outer Worlds: Spacer's Choice Edition](https://store.epicgames.com "The Outer Worlds: Spacer's Choice Edition")
+  - ### [Human Resource Machine](https://store.epicgames.com "Human Resource Machine")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "The Outer Worlds: Spacer's Choice Edition")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Human Resource Machine")
 
-    ![The Outer Worlds: Spacer's Choice Edition](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-7-teaser_1920x1080-e685b285c9adef69fc763e9aae81b33c)
+    ![Human Resource Machine](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-8-teaser_1920x1080-c31f1e5edde1dd7bbfac692800a81d33)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game Day 8](https://store.epicgames.com "Mystery Game Day 8")
+  - ### [Mystery Game Day 9](https://store.epicgames.com "Mystery Game Day 9")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Day 8")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Day 9")
 
-    ![Mystery Game Day 8](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-8-teaser_1920x1080-c31f1e5edde1dd7bbfac692800a81d33)
+    ![Mystery Game Day 9](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Free-Game-9-teaser_1920x1080-e71ae0041736db5ac259a355cb301116)
 
