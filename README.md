@@ -15,29 +15,11 @@
 - ## 下周限免
 
 
-  - ### [Fallout Tactics: Brotherhood of Steel](https://store.epicgames.com/p/fallout-tactics-brotherhood-of-steel "Fallout Tactics: Brotherhood of Steel")
+  - ### [Super Meat Boy Forever](https://store.epicgames.com/p/super-meat-boy-forever "Super Meat Boy Forever")
 
-    原价: CN¥41.00
+    原价: CN¥60.00
 
-    购买链接: [https://store.epicgames.com/p/fallout-tactics-brotherhood-of-steel](https://store.epicgames.com/p/fallout-tactics-brotherhood-of-steel "Fallout Tactics: Brotherhood of Steel")
+    购买链接: [https://store.epicgames.com/p/super-meat-boy-forever](https://store.epicgames.com/p/super-meat-boy-forever "Super Meat Boy Forever")
 
-    ![Fallout Tactics: Brotherhood of Steel](https://cdn1.epicgames.com/offer/b90be973f6e74975ac1a6ff15dbfd0b3/EGS_FalloutTacticsBrotherhoodofSteel_BethesdaGameStudios_S1_2560x1440-36cd52e1846a29ad9f0cf60dff64d210)
-
-
-  - ### [Fallout 2: A Post Nuclear Role Playing Game](https://store.epicgames.com/p/fallout-2 "Fallout 2: A Post Nuclear Role Playing Game")
-
-    原价: CN¥41.00
-
-    购买链接: [https://store.epicgames.com/p/fallout-2](https://store.epicgames.com/p/fallout-2 "Fallout 2: A Post Nuclear Role Playing Game")
-
-    ![Fallout 2: A Post Nuclear Role Playing Game](https://cdn1.epicgames.com/offer/aae22da1fb884fa395b25bc30dd61faf/EGS_Fallout2APostNuclearRolePlayingGame_BethesdaGameStudios_S1_2560x1440-4cfbea54e590ef00cb9c440ac3b3a36c)
-
-
-  - ### [Fallout: A Post Nuclear Role Playing Game](https://store.epicgames.com/p/fallout "Fallout: A Post Nuclear Role Playing Game")
-
-    原价: CN¥41.00
-
-    购买链接: [https://store.epicgames.com/p/fallout](https://store.epicgames.com/p/fallout "Fallout: A Post Nuclear Role Playing Game")
-
-    ![Fallout: A Post Nuclear Role Playing Game](https://cdn1.epicgames.com/offer/2e412cfcbd954e7180930e9784a47e18/EGS_FalloutAPostNuclearRolePlayingGame_BethesdaGameStudios_S3_2560x1440-548598863fb854e957d7706a24c6d381)
+    ![Super Meat Boy Forever](https://cdn1.epicgames.com/moose/offer/EGS_SuperMeatBoyForever_TeamMeat_S1-2560x1440-76f57fe5321b054665441ce21231961e.jpg)
 
