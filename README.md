@@ -32,3 +32,12 @@
 
     ![Orcs Must Die! 3](https://cdn1.epicgames.com/spt-assets/af503dd7e8b64218b69c22a9003de268/orcs-must-die-3-1puow.jpg)
 
+
+  - ### [Cat Quest II](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/cat-quest-ii-9dbefc](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
+
+    ![Cat Quest II](https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg)
+
