@@ -3,27 +3,6 @@
 - ## 本周限免
 
 
-  - ### [INDUSTRIA](https://store.epicgames.com/p/industria "INDUSTRIA")
-
-    原价: CN¥70.00
-
-    购买链接: [https://store.epicgames.com/p/industria](https://store.epicgames.com/p/industria "INDUSTRIA")
-
-    ![INDUSTRIA](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_INDUSTRIA_Bleakmill_S1_2560x1440-6ac8f445f036547e0f7cc20dd4fd814f)
-
-
-  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
-
-    原价: 0
-
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
-
-    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
-
-
-- ## 下周限免
-
-
   - ### [Orcs Must Die! 3](https://store.epicgames.com/p/combo-a7e03a "Orcs Must Die! 3")
 
     原价: CN¥93.00
@@ -40,4 +19,25 @@
     购买链接: [https://store.epicgames.com/p/cat-quest-ii-9dbefc](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
 
     ![Cat Quest II](https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [Circus Electrique](https://store.epicgames.com/p/circus-electrique "Circus Electrique")
+
+    原价: CN¥79.00
+
+    购买链接: [https://store.epicgames.com/p/circus-electrique](https://store.epicgames.com/p/circus-electrique "Circus Electrique")
+
+    ![Circus Electrique](https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S1_2560x1440-0f035a36376dd51b907662f4cd121553)
+
+
+  - ### [Firestone Free Offer](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Free Offer")
+
+    原价: CN¥690.00
+
+    购买链接: [https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Free Offer")
+
+    ![Firestone Free Offer](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-orbit.png)
 
