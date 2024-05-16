@@ -3,22 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Circus Electrique](https://store.epicgames.com/p/circus-electrique "Circus Electrique")
+  - ### [Dragon Age: Inquisition – Game of the Year Edition](https://store.epicgames.com "Dragon Age: Inquisition – Game of the Year Edition")
 
-    原价: CN¥79.00
+    原价: 0
 
-    购买链接: [https://store.epicgames.com/p/circus-electrique](https://store.epicgames.com/p/circus-electrique "Circus Electrique")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Dragon Age: Inquisition – Game of the Year Edition")
 
-    ![Circus Electrique](https://cdn1.epicgames.com/offer/396a808f269241aba0fe2ad322ebd6d5/EGS_CircusElectrique_ZenStudios_S1_2560x1440-0f035a36376dd51b907662f4cd121553)
-
-
-  - ### [Firestone Free Offer](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Free Offer")
-
-    原价: CN¥690.00
-
-    购买链接: [https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Free Offer")
-
-    ![Firestone Free Offer](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-6k2z9.png)
+    ![Dragon Age: Inquisition – Game of the Year Edition](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/dragon-age-inquisition-game-of-the-year-edition-1ruf7_2560x1440-24b891a8ac072d9b532539047c7a1c23)
 
 
 - ## 下周限免
@@ -33,11 +24,11 @@
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
-  - ### [Mystery Game 1](https://store.epicgames.com "Mystery Game 1")
+  - ### [Mystery Game 2](https://store.epicgames.com "Mystery Game 2")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 1")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 2")
 
-    ![Mystery Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813)
+    ![Mystery Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EN-mega-sale-vault-16x9-asset_1920x1080-a27cf3919dde320a72936374a1d47813)
 
