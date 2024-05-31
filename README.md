@@ -9,7 +9,7 @@
 
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "Chivalry 2")
 
-    ![Chivalry 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_Chivalry2_TornBannerStudios_S1_2560x1440-8950e7206bb0130cb9f72115fc889433_2560x1440-8950e7206bb0130cb9f72115fc889433)
+    ![Chivalry 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/chiv2_wide_2560x1440-4248ed263080045c7cb13960711c5f58)
 
 
 - ## 下周限免
