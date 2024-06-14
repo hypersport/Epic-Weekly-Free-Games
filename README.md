@@ -32,3 +32,21 @@
 
 - ## 下周限免
 
+
+  - ### [Freshly Frosted](https://store.epicgames.com/p/freshly-frosted-c636d0 "Freshly Frosted")
+
+    原价: CN¥30.00
+
+    购买链接: [https://store.epicgames.com/p/freshly-frosted-c636d0](https://store.epicgames.com/p/freshly-frosted-c636d0 "Freshly Frosted")
+
+    ![Freshly Frosted](https://cdn1.epicgames.com/spt-assets/8856ac3296214cc086bc101382ee8ffa/freshly-frosted-offer-1tpl2.jpg)
+
+
+  - ### [Rumble Club - Free Game of the Week Bonus](https://store.epicgames.com/p/rumble-club-674364 "Rumble Club - Free Game of the Week Bonus")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/rumble-club-674364](https://store.epicgames.com/p/rumble-club-674364 "Rumble Club - Free Game of the Week Bonus")
+
+    ![Rumble Club - Free Game of the Week Bonus](https://cdn1.epicgames.com/spt-assets/dcc6ac462e384ff1a3b388fe7be5d51c/rumble-club-nrfyr.png)
+
