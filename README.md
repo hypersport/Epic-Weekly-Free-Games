@@ -3,22 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Idle Champions of the Forgotten Realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+  - ### [Freshly Frosted](https://store.epicgames.com/p/freshly-frosted-c636d0 "Freshly Frosted")
 
-    原价: 0
+    原价: CN¥30.00
 
-    购买链接: [https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+    购买链接: [https://store.epicgames.com/p/freshly-frosted-c636d0](https://store.epicgames.com/p/freshly-frosted-c636d0 "Freshly Frosted")
 
-    ![Idle Champions of the Forgotten Realms](https://cdn1.epicgames.com/offer/7e508f543b05465abe3a935960eb70ac/EpicPromo_May2024_2560x1440FINALENG_2560x1440-bf7bdca100f00221c8e17dab3dcd392b)
-
-
-  - ### [Redout 2](https://store.epicgames.com/p/redout-2 "Redout 2")
-
-    原价: CN¥79.00
-
-    购买链接: [https://store.epicgames.com/p/redout-2](https://store.epicgames.com/p/redout-2 "Redout 2")
-
-    ![Redout 2](https://cdn1.epicgames.com/offer/05ae696a3c5f49af91a7433547460c21/EGS_Redout2_34BigThings_S1_2560x1440-15165db53ba987f704968f8c3e4c0f0b)
+    ![Freshly Frosted](https://cdn1.epicgames.com/spt-assets/8856ac3296214cc086bc101382ee8ffa/freshly-frosted-offer-1tpl2.jpg)
 
 
   - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
@@ -30,18 +21,6 @@
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
-- ## 下周限免
-
-
-  - ### [Freshly Frosted](https://store.epicgames.com/p/freshly-frosted-c636d0 "Freshly Frosted")
-
-    原价: CN¥30.00
-
-    购买链接: [https://store.epicgames.com/p/freshly-frosted-c636d0](https://store.epicgames.com/p/freshly-frosted-c636d0 "Freshly Frosted")
-
-    ![Freshly Frosted](https://cdn1.epicgames.com/spt-assets/8856ac3296214cc086bc101382ee8ffa/freshly-frosted-offer-1tpl2.jpg)
-
-
   - ### [Rumble Club - Free Game of the Week Bonus](https://store.epicgames.com/p/rumble-club-674364 "Rumble Club - Free Game of the Week Bonus")
 
     原价: 0
@@ -49,4 +28,16 @@
     购买链接: [https://store.epicgames.com/p/rumble-club-674364](https://store.epicgames.com/p/rumble-club-674364 "Rumble Club - Free Game of the Week Bonus")
 
     ![Rumble Club - Free Game of the Week Bonus](https://cdn1.epicgames.com/spt-assets/dcc6ac462e384ff1a3b388fe7be5d51c/rumble-club-nrfyr.png)
+
+
+- ## 下周限免
+
+
+  - ### [Sunless Skies: Sovereign Edition](https://store.epicgames.com/p/sunless-skies-bb4947 "Sunless Skies: Sovereign Edition")
+
+    原价: CN¥78.00
+
+    购买链接: [https://store.epicgames.com/p/sunless-skies-bb4947](https://store.epicgames.com/p/sunless-skies-bb4947 "Sunless Skies: Sovereign Edition")
+
+    ![Sunless Skies: Sovereign Edition](https://cdn1.epicgames.com/spt-assets/c940bf4524614968826999d859f79dbd/sunless-skies-1v5ll.jpg)
 
