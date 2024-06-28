@@ -24,6 +24,15 @@
     ![The Falconeer: Standard Edition](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0)
 
 
+  - ### [Model Builder: Complete Edition](https://store.epicgames.com/p/model-builder-f9b456 "Model Builder: Complete Edition")
+
+    原价: CN¥70.00
+
+    购买链接: [https://store.epicgames.com/p/model-builder-f9b456](https://store.epicgames.com/p/model-builder-f9b456 "Model Builder: Complete Edition")
+
+    ![Model Builder: Complete Edition](https://cdn1.epicgames.com/spt-assets/7472ec268e344e77a85e95976c0ffc6d/model-builder-1vfgr.png)
+
+
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
 
     原价: CN¥108.00
