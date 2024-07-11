@@ -3,16 +3,34 @@
 - ## 本周限免
 
 
-  - ### [The Falconeer: Standard Edition](https://store.epicgames.com/p/the-falconeer "The Falconeer: Standard Edition")
+  - ### [Floppy Knights](https://store.epicgames.com/p/floppy-knights-6a735a "Floppy Knights")
 
-    原价: CN¥69.00
+    原价: CN¥62.00
 
-    购买链接: [https://store.epicgames.com/p/the-falconeer](https://store.epicgames.com/p/the-falconeer "The Falconeer: Standard Edition")
+    购买链接: [https://store.epicgames.com/p/floppy-knights-6a735a](https://store.epicgames.com/p/floppy-knights-6a735a "Floppy Knights")
 
-    ![The Falconeer: Standard Edition](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TheFalconeer_TomasSala_S1_2560x1440-42c0d28687b659cdf36d3e3b29cb32e0)
+    ![Floppy Knights](https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-rnv64.png)
 
 
 - ## 下周限免
+
+
+  - ### [Arcade Paradise](https://store.epicgames.com/p/arcade-paradise "Arcade Paradise")
+
+    原价: CN¥60.00
+
+    购买链接: [https://store.epicgames.com/p/arcade-paradise](https://store.epicgames.com/p/arcade-paradise "Arcade Paradise")
+
+    ![Arcade Paradise](https://cdn1.epicgames.com/offer/89b9c510e8d74b9da34c447915b1ffb1/EGS_ArcadeParadise_NosebleedInteractive_S1_2560x1440-5a8ca84efde851f3ca2b0d30b393543e)
+
+
+  - ### [Maid of Sker](https://store.epicgames.com/p/maid-of-sker-2ae24e "Maid of Sker")
+
+    原价: CN¥78.00
+
+    购买链接: [https://store.epicgames.com/p/maid-of-sker-2ae24e](https://store.epicgames.com/p/maid-of-sker-2ae24e "Maid of Sker")
+
+    ![Maid of Sker](https://cdn1.epicgames.com/spt-assets/964693002c1b447c949b155c71727c45/maid-of-sker-1ig0g.jpg)
 
 
   - ### [Model Builder: Complete Edition](https://store.epicgames.com/p/model-builder-complete-edition-f9b456 "Model Builder: Complete Edition")
@@ -40,13 +58,4 @@
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
 
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
-
-
-  - ### [Floppy Knights](https://store.epicgames.com/p/floppy-knights-6a735a "Floppy Knights")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/floppy-knights-6a735a](https://store.epicgames.com/p/floppy-knights-6a735a "Floppy Knights")
-
-    ![Floppy Knights](https://cdn1.epicgames.com/spt-assets/e6d8370167ce4fe99a69d195174f6208/floppy-knights-rnv64.png)
 
