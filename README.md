@@ -51,6 +51,15 @@
     ![F.I.S.T.: Forged In Shadow Torch](https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8)
 
 
+  - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+
+    原价: CN¥12.00
+
+    购买链接: [https://store.epicgames.com/p/lost-castle-abb2e2](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+
+    ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
+
+
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
 
     原价: CN¥108.00
