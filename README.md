@@ -3,11 +3,11 @@
 - ## 本周限免
 
 
-  - ### [F.I.S.T.: Forged In Shadow Torch](https://store.epicgames.com/p/fist-forged-in-shadow-torch "F.I.S.T.: Forged In Shadow Torch")
+  - ### [F.I.S.T.: Forged In Shadow Torch](https://store.epicgames.com "F.I.S.T.: Forged In Shadow Torch")
 
     原价: CN¥108.00
 
-    购买链接: [https://store.epicgames.com/p/fist-forged-in-shadow-torch](https://store.epicgames.com/p/fist-forged-in-shadow-torch "F.I.S.T.: Forged In Shadow Torch")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "F.I.S.T.: Forged In Shadow Torch")
 
     ![F.I.S.T.: Forged In Shadow Torch](https://cdn1.epicgames.com/offer/a7e2a2c51b9149c097b771926ed91877/EGS_FISTForgedInShadowTorch_TiGames_S3_2560x1440-d79b811e274bd49318edf3b7c00b82c8)
 
