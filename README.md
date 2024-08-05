@@ -12,18 +12,6 @@
     ![LumbearJack](https://cdn1.epicgames.com/spt-assets/67b80cb431834a1fa1ec3e69ef2f83f1/lumbearjack-offer-13qa5.jpg)
 
 
-  - ### [RAWMEN: Food Fighter Arena 🍜](https://store.epicgames.com/p/rawmen-03f74e "RAWMEN: Food Fighter Arena 🍜")
-
-    原价: 0
-
-    购买链接: [https://store.epicgames.com/p/rawmen-03f74e](https://store.epicgames.com/p/rawmen-03f74e "RAWMEN: Food Fighter Arena 🍜")
-
-    ![RAWMEN: Food Fighter Arena 🍜](https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-165o9.png)
-
-
-- ## 下周限免
-
-
   - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
 
     原价: CN¥12.00
@@ -40,6 +28,18 @@
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
 
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+
+
+  - ### [RAWMEN: Food Fighter Arena 🍜](https://store.epicgames.com/p/rawmen-03f74e "RAWMEN: Food Fighter Arena 🍜")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/rawmen-03f74e](https://store.epicgames.com/p/rawmen-03f74e "RAWMEN: Food Fighter Arena 🍜")
+
+    ![RAWMEN: Food Fighter Arena 🍜](https://cdn1.epicgames.com/spt-assets/925b89bff456434291f264924ab51443/rawmen-165o9.png)
+
+
+- ## 下周限免
 
 
   - ### [Apex Legends™: Conduit Free Unlock Bundle](https://store.epicgames.com/p/apex-legends-006cde "Apex Legends™: Conduit Free Unlock Bundle")
