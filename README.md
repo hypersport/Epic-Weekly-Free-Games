@@ -48,5 +48,5 @@
 
     购买链接: [https://store.epicgames.com/p/apex-legends-006cde](https://store.epicgames.com/p/apex-legends-006cde "Apex Legends™: Conduit Free Unlock Bundle")
 
-    ![Apex Legends™: Conduit Free Unlock Bundle](https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-wfmde.jpg)
+    ![Apex Legends™: Conduit Free Unlock Bundle](https://cdn1.epicgames.com/spt-assets/5dcd88f4e2094a698ebffa43438edc33/apex-legends-1gerg.jpg)
 
