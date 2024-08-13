@@ -42,6 +42,15 @@
     ![World of Warships — Starter Pack: Albany](https://cdn1.epicgames.com/offer/84c76746bce94effb8e1047fabfd7eb7/EGS_WorldofWarshipsStarterPackAlbany_Wargaming_AddOn_S1_2560x1440-f1fc6756bfdca0304c3cfbbb7da76b15)
 
 
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    原价: CN¥108.00
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+
+
   - ### [Death's Gambit - Afterlife](https://store.epicgames.com/p/deaths-gambit-afterlife-b5f411 "Death's Gambit - Afterlife")
 
     原价: CN¥62.00
