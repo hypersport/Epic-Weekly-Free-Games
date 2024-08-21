@@ -33,6 +33,15 @@
     ![The Callisto Protocol](https://cdn1.epicgames.com/offer/6b0541b5d9aa476cbf407643ab3b1d7d/EGS_TheCallistoProtocol_StrikingDistanceStudios_S1_2560x1440-b99bb2275f932ed9beedefff5ced3baa)
 
 
+  - ### [Wild Card Football](https://store.epicgames.com/p/wild-card-football "Wild Card Football")
+
+    原价: CN¥119.00
+
+    购买链接: [https://store.epicgames.com/p/wild-card-football](https://store.epicgames.com/p/wild-card-football "Wild Card Football")
+
+    ![Wild Card Football](https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S1_2560x1440-8a226b013b7731e5b5d905d82747a1f8)
+
+
   - ### [Gigantic: Rampage Edition](https://store.epicgames.com/p/gigantic-rampage-edition-03f532 "Gigantic: Rampage Edition")
 
     原价: CN¥62.00
