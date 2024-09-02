@@ -24,15 +24,6 @@
 - ## 下周限免
 
 
-  - ### [Wild Card Football](https://store.epicgames.com/p/wild-card-football "Wild Card Football")
-
-    原价: CN¥119.00
-
-    购买链接: [https://store.epicgames.com/p/wild-card-football](https://store.epicgames.com/p/wild-card-football "Wild Card Football")
-
-    ![Wild Card Football](https://cdn1.epicgames.com/offer/3072dbe471f84dac8b2e9ba8af253ee2/EGS_WildCardFootball_SaberInteractive_S1_2560x1440-8a226b013b7731e5b5d905d82747a1f8)
-
-
   - ### [Football Manager 2024](https://store.epicgames.com/p/football-manager-2024 "Football Manager 2024")
 
     原价: CN¥298.00
