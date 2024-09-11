@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+
+    原价: CN¥12.00
+
+    购买链接: [https://store.epicgames.com/p/lost-castle-abb2e2](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+
+    ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
+
+
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
 
     原价: CN¥108.00
