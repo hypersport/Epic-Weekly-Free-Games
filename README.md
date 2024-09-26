@@ -3,22 +3,13 @@
 - ## 本周限免
 
 
-  - ### [TOEM](https://store.epicgames.com/p/toem "TOEM")
+  - ### [The Spirit and the Mouse](https://store.epicgames.com/p/the-spirit-and-the-mouse-42390b "The Spirit and the Mouse")
 
-    原价: CN¥60.00
+    原价: CN¥76.00
 
-    购买链接: [https://store.epicgames.com/p/toem](https://store.epicgames.com/p/toem "TOEM")
+    购买链接: [https://store.epicgames.com/p/the-spirit-and-the-mouse-42390b](https://store.epicgames.com/p/the-spirit-and-the-mouse-42390b "The Spirit and the Mouse")
 
-    ![TOEM](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_TOEM_SomethingWeMade_S1 (1)_2560x1440-8ba2b054cf944aa40a90211650d388b7)
-
-
-  - ### [The Last Stand: Aftermath](https://store.epicgames.com/p/the-last-stand-aftermath "The Last Stand: Aftermath")
-
-    原价: CN¥75.00
-
-    购买链接: [https://store.epicgames.com/p/the-last-stand-aftermath](https://store.epicgames.com/p/the-last-stand-aftermath "The Last Stand: Aftermath")
-
-    ![The Last Stand: Aftermath](https://cdn1.epicgames.com/offer/8d296e80f3ec42a79881f0693f3bded0/EGS_TheLastStandAftermath_ConArtistGames_S1_2560x1440-cbc4b6fe8b2a64436720d45b01148d10)
+    ![The Spirit and the Mouse](https://cdn1.epicgames.com/spt-assets/836b235a73124dff93ad3f6ec12dbaeb/the-spirit-and-the-mouse-offer-ldey6.jpg)
 
 
   - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
@@ -42,11 +33,11 @@
 - ## 下周限免
 
 
-  - ### [The Spirit and the Mouse](https://store.epicgames.com/p/the-spirit-and-the-mouse-42390b "The Spirit and the Mouse")
+  - ### [Bear and Breakfast](https://store.epicgames.com/p/bear-and-breakfast-77c209 "Bear and Breakfast")
 
     原价: CN¥76.00
 
-    购买链接: [https://store.epicgames.com/p/the-spirit-and-the-mouse-42390b](https://store.epicgames.com/p/the-spirit-and-the-mouse-42390b "The Spirit and the Mouse")
+    购买链接: [https://store.epicgames.com/p/bear-and-breakfast-77c209](https://store.epicgames.com/p/bear-and-breakfast-77c209 "Bear and Breakfast")
 
-    ![The Spirit and the Mouse](https://cdn1.epicgames.com/spt-assets/836b235a73124dff93ad3f6ec12dbaeb/the-spirit-and-the-mouse-offer-ldey6.jpg)
+    ![Bear and Breakfast](https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/bear-and-breakfast-offer-1ck44.jpg)
 
