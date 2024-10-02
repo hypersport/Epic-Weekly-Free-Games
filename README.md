@@ -41,3 +41,12 @@
 
     ![Bear and Breakfast](https://cdn1.epicgames.com/spt-assets/9f8b082e3cf84425be6aa563f0ddc2a0/bear-and-breakfast-offer-1ck44.jpg)
 
+
+  - ### [Outliver: Tribulation](https://store.epicgames.com/p/outliver-tribulations-679884 "Outliver: Tribulation")
+
+    原价: CN¥25.00
+
+    购买链接: [https://store.epicgames.com/p/outliver-tribulations-679884](https://store.epicgames.com/p/outliver-tribulations-679884 "Outliver: Tribulation")
+
+    ![Outliver: Tribulation](https://cdn1.epicgames.com/spt-assets/b3880830b9a54ae7bf9262ec56487f2f/outliver--tribulation-1hong.png)
+
