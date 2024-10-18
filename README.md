@@ -3,6 +3,15 @@
 - ## 本周限免
 
 
+  - ### [Moving Out](https://store.epicgames.com/p/moving-out "Moving Out")
+
+    原价: CN¥98.00
+
+    购买链接: [https://store.epicgames.com/p/moving-out](https://store.epicgames.com/p/moving-out "Moving Out")
+
+    ![Moving Out](https://cdn1.epicgames.com/offer/f919a1262081444fb28f0fdef68d6b14/EGS_MovingOut_SMGStudioDevmGames_S1_2560x1440-86272cbdeb4cc4b39f0760ab720ac585)
+
+
   - ### [Kardboard Kings](https://store.epicgames.com/p/kardboard-kings-0962f8 "Kardboard Kings")
 
     原价: CN¥60.00
