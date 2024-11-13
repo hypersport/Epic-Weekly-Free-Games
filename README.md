@@ -41,3 +41,12 @@
 
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
+
+  - ### [Beholder](https://store.epicgames.com/p/beholder-8c3b4c "Beholder")
+
+    原价: CN¥56.00
+
+    购买链接: [https://store.epicgames.com/p/beholder-8c3b4c](https://store.epicgames.com/p/beholder-8c3b4c "Beholder")
+
+    ![Beholder](https://cdn1.epicgames.com/spt-assets/e42eff0761f24bb089fe429611bd2e31/beholder-ud3jm.png)
+
