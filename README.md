@@ -21,13 +21,13 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Vampire Survivors](https://store.epicgames.com "Vampire Survivors")
+  - ### [Astrea Six Sided Oracles](https://store.epicgames.com "Astrea Six Sided Oracles")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Vampire Survivors")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Astrea Six Sided Oracles")
 
-    ![Vampire Survivors](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
+    ![Astrea Six Sided Oracles](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
 
 
 - ## 下周限免
@@ -42,11 +42,11 @@
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
-  - ### [Mystery Game 3](https://store.epicgames.com "Mystery Game 3")
+  - ### [Mystery Game 4](https://store.epicgames.com "Mystery Game 4")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 3")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 4")
 
-    ![Mystery Game 3](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
+    ![Mystery Game 4](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
 
