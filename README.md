@@ -21,13 +21,13 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Dark and Darker - Legendary Status](https://store.epicgames.com "Dark and Darker - Legendary Status")
+  - ### [DREDGE](https://store.epicgames.com "DREDGE")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Dark and Darker - Legendary Status")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "DREDGE")
 
-    ![Dark and Darker - Legendary Status](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
+    ![DREDGE](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
 
 
 - ## 下周限免
@@ -42,11 +42,11 @@
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
-  - ### [Mystery Game 7](https://store.epicgames.com "Mystery Game 7")
+  - ### [Mystery Game 8](https://store.epicgames.com "Mystery Game 8")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 7")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 8")
 
-    ![Mystery Game 7](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
+    ![Mystery Game 8](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
 
