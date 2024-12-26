@@ -21,13 +21,13 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Control](https://store.epicgames.com "Control")
+  - ### [Ghostrunner 2](https://store.epicgames.com "Ghostrunner 2")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Control")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Ghostrunner 2")
 
-    ![Control](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
+    ![Ghostrunner 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
 
 
 - ## 下周限免
@@ -42,11 +42,11 @@
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
-  - ### [Mystery Game 9](https://store.epicgames.com "Mystery Game 9")
+  - ### [Mystery Game 10](https://store.epicgames.com "Mystery Game 10")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 9")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 10")
 
-    ![Mystery Game 9](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
+    ![Mystery Game 10](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_HolidaySale_2024_WrappingPaper_1920x1080_1920x1080-a0f773a33796e48cc1d33e5072271fc8)
 
