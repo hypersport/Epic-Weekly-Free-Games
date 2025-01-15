@@ -23,3 +23,12 @@
 
     ![Escape Academy](https://cdn1.epicgames.com/spt-assets/9da72b3af32d4818b502369a4aac5aac/escape-academy-q97as.png)
 
+
+  - ### [Cat Quest II](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/cat-quest-ii-9dbefc](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
+
+    ![Cat Quest II](https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg)
+
