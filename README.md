@@ -21,18 +21,6 @@
     ![HUMANKIND™ Standard Edition](https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97)
 
 
-- ## 下周限免
-
-
-  - ### [HUMANKIND™ Standard Edition](https://store.epicgames.com/p/humankind "HUMANKIND™ Standard Edition")
-
-    原价: CN¥225.00
-
-    购买链接: [https://store.epicgames.com/p/humankind](https://store.epicgames.com/p/humankind "HUMANKIND™ Standard Edition")
-
-    ![HUMANKIND™ Standard Edition](https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97)
-
-
   - ### [Cat Quest II](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
 
     原价: CN¥47.00
@@ -49,6 +37,18 @@
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
 
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+
+
+- ## 下周限免
+
+
+  - ### [Cat Quest II](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/cat-quest-ii-9dbefc](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
+
+    ![Cat Quest II](https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg)
 
 
   - ### [F1® Manager 2024](https://store.epicgames.com/p/f1-manager-2024-fe51bd "F1® Manager 2024")
