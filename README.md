@@ -18,7 +18,7 @@
 
     购买链接: [https://store.epicgames.com/p/world-war-z](https://store.epicgames.com/p/world-war-z "World War Z Aftermath")
 
-    ![World War Z Aftermath](https://cdn1.epicgames.com/offer/wombat/EGS_WorldWarZ_SaberInteractive_Editions_S1_2560x1440-1555028d9b62f5348df49ad07b4301f0)
+    ![World War Z Aftermath](https://cdn1.epicgames.com/offer/wombat/landscapewwz-aftermath-1248x702_1248x702-43415cb8226261eba181a914f0bc85bc)
 
 
   - ### [Cat Quest II](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
