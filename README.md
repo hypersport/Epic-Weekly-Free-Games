@@ -32,3 +32,12 @@
 
     ![Cat Quest II](https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg)
 
+
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    原价: CN¥108.00
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+
