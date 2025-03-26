@@ -12,9 +12,6 @@
     ![Jurassic World Evolution 2](https://cdn1.epicgames.com/offer/4817ba5c11504724ba4d5817c8995dff/EGS_JurassicWorldEvolution2_FrontierDevelopments_S1_2560x1440-4103be22950c498c9687d9457d9e0815)
 
 
-- ## 下周限免
-
-
   - ### [Cat Quest II](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
 
     原价: CN¥47.00
@@ -22,6 +19,18 @@
     购买链接: [https://store.epicgames.com/p/cat-quest-ii-9dbefc](https://store.epicgames.com/p/cat-quest-ii-9dbefc "Cat Quest II")
 
     ![Cat Quest II](https://cdn1.epicgames.com/spt-assets/fe812f94c42e44e986691a84c796952d/cat-quest-ii-cj318.jpg)
+
+
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    原价: CN¥108.00
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+
+
+- ## 下周限免
 
 
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
