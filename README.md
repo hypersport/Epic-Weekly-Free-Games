@@ -51,11 +51,11 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Arcadgeddon](https://store.epicgames.com/p/arcadegeddon "Arcadgeddon")
+  - ### [Arcadegeddon](https://store.epicgames.com/p/arcadegeddon "Arcadegeddon")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com/p/arcadegeddon](https://store.epicgames.com/p/arcadegeddon "Arcadgeddon")
+    购买链接: [https://store.epicgames.com/p/arcadegeddon](https://store.epicgames.com/p/arcadegeddon "Arcadegeddon")
 
-    ![Arcadgeddon](https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-1rdm8.jpg)
+    ![Arcadegeddon](https://cdn1.epicgames.com/spt-assets/bdf9183a47b8449d99ad5c233ca15a5d/arcadegeddon-1rdm8.jpg)
 
