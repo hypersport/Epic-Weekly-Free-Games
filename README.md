@@ -3,15 +3,6 @@
 - ## 本周限免
 
 
-  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
-
-    原价: CN¥108.00
-
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
-
-    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
-
-
   - ### [Cat Quest II](https://store.epicgames.com "Cat Quest II")
 
     原价: 0
@@ -31,6 +22,15 @@
     购买链接: [https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
 
     ![Idle Champions of the Forgotten Realms](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-jej4c.jpg)
+
+
+  - ### [Firestone Online Idle RPG](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Online Idle RPG")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Online Idle RPG")
+
+    ![Firestone Online Idle RPG](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xjio.png)
 
 
   - ### [River City Girls](https://store.epicgames.com/p/river-city-girls-e6f608 "River City Girls")
