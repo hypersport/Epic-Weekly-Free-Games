@@ -3,25 +3,25 @@
 - ## 本周限免
 
 
-  - ### [CHUCHEL](https://store.epicgames.com/p/chuchel-203808 "CHUCHEL")
+  - ### [Super Space Club](https://store.epicgames.com/p/super-space-club-20adbe "Super Space Club")
 
-    原价: CN¥46.00
+    原价: CN¥47.00
 
-    购买链接: [https://store.epicgames.com/p/chuchel-203808](https://store.epicgames.com/p/chuchel-203808 "CHUCHEL")
+    购买链接: [https://store.epicgames.com/p/super-space-club-20adbe](https://store.epicgames.com/p/super-space-club-20adbe "Super Space Club")
 
-    ![CHUCHEL](https://cdn1.epicgames.com/spt-assets/6109686c842a4bd9b9ef8959ec4d97c6/chuchel-17x3l.jpg)
-
-
-  - ### [Albion Online Free Welcome Gift](https://store.epicgames.com/p/albion-online-7eb24d "Albion Online Free Welcome Gift")
-
-    原价: 0
-
-    购买链接: [https://store.epicgames.com/p/albion-online-7eb24d](https://store.epicgames.com/p/albion-online-7eb24d "Albion Online Free Welcome Gift")
-
-    ![Albion Online Free Welcome Gift](https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-4pxzl.png)
+    ![Super Space Club](https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-t55ij.png)
 
 
 - ## 下周限免
+
+
+  - ### [Touch Type Tale](https://store.epicgames.com/p/touch-type-tale "Touch Type Tale")
+
+    原价: CN¥76.00
+
+    购买链接: [https://store.epicgames.com/p/touch-type-tale](https://store.epicgames.com/p/touch-type-tale "Touch Type Tale")
+
+    ![Touch Type Tale](https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S1_2560x1440-0d3402bfb34e9a73019de6569f6e66b6)
 
 
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
@@ -33,11 +33,11 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Super Space Club](https://store.epicgames.com/p/super-space-club-20adbe "Super Space Club")
+  - ### [Deadtime Defenders](https://store.epicgames.com/p/deadtime-defenders-3e9fc8 "Deadtime Defenders")
 
-    原价: CN¥47.00
+    原价: CN¥31.00
 
-    购买链接: [https://store.epicgames.com/p/super-space-club-20adbe](https://store.epicgames.com/p/super-space-club-20adbe "Super Space Club")
+    购买链接: [https://store.epicgames.com/p/deadtime-defenders-3e9fc8](https://store.epicgames.com/p/deadtime-defenders-3e9fc8 "Deadtime Defenders")
 
-    ![Super Space Club](https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-t55ij.png)
+    ![Deadtime Defenders](https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1r5me.png)
 
