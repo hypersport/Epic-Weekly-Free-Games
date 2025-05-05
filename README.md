@@ -3,15 +3,6 @@
 - ## 本周限免
 
 
-  - ### [LEGO® Star Wars™: The Skywalker Saga](https://store.epicgames.com/p/lego-star-wars-the-skywalker-saga "LEGO® Star Wars™: The Skywalker Saga")
-
-    原价: CN¥248.00
-
-    购买链接: [https://store.epicgames.com/p/lego-star-wars-the-skywalker-saga](https://store.epicgames.com/p/lego-star-wars-the-skywalker-saga "LEGO® Star Wars™: The Skywalker Saga")
-
-    ![LEGO® Star Wars™: The Skywalker Saga](https://cdn1.epicgames.com/offer/9c59efaabb6a48f19b3485d5d9416032/EGS_LEGOStarWarsTheSkywalkerSaga_TTGames_S1_2560x1440-ae89e9c91aec1e461148f93f25b828ed)
-
-
   - ### [Super Space Club](https://store.epicgames.com/p/super-space-club-20adbe "Super Space Club")
 
     原价: CN¥47.00
