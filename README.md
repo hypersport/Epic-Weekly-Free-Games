@@ -3,18 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Super Space Club](https://store.epicgames.com/p/super-space-club-20adbe "Super Space Club")
-
-    原价: CN¥47.00
-
-    购买链接: [https://store.epicgames.com/p/super-space-club-20adbe](https://store.epicgames.com/p/super-space-club-20adbe "Super Space Club")
-
-    ![Super Space Club](https://cdn1.epicgames.com/spt-assets/d23691af8c7d42729f66d929c8609676/super-space-club-t55ij.png)
-
-
-- ## 下周限免
-
-
   - ### [Touch Type Tale](https://store.epicgames.com/p/touch-type-tale "Touch Type Tale")
 
     原价: CN¥76.00
@@ -22,6 +10,18 @@
     购买链接: [https://store.epicgames.com/p/touch-type-tale](https://store.epicgames.com/p/touch-type-tale "Touch Type Tale")
 
     ![Touch Type Tale](https://cdn1.epicgames.com/offer/7029f6353d7f468eb6940bbe6041474e/EGS_TouchTypeTale_PumpernickelStudio_S1_2560x1440-0d3402bfb34e9a73019de6569f6e66b6)
+
+
+  - ### [Deadtime Defenders](https://store.epicgames.com/p/deadtime-defenders-3e9fc8 "Deadtime Defenders")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/deadtime-defenders-3e9fc8](https://store.epicgames.com/p/deadtime-defenders-3e9fc8 "Deadtime Defenders")
+
+    ![Deadtime Defenders](https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1r5me.png)
+
+
+- ## 下周限免
 
 
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
@@ -33,11 +33,20 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Deadtime Defenders](https://store.epicgames.com/p/deadtime-defenders-3e9fc8 "Deadtime Defenders")
+  - ### [Mystery Game 2](https://store.epicgames.com "Mystery Game 2")
 
-    原价: CN¥31.00
+    原价: 0
 
-    购买链接: [https://store.epicgames.com/p/deadtime-defenders-3e9fc8](https://store.epicgames.com/p/deadtime-defenders-3e9fc8 "Deadtime Defenders")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 2")
 
-    ![Deadtime Defenders](https://cdn1.epicgames.com/spt-assets/e2ab063cf7714c29ad3261312a24a264/deadtime-defenders-1r5me.png)
+    ![Mystery Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+
+
+  - ### [Mystery Game 1](https://store.epicgames.com "Mystery Game 1")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 1")
+
+    ![Mystery Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
