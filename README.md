@@ -12,41 +12,41 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Sifu](https://store.epicgames.com "Sifu")
+  - ### [Tiny Tina's Wonderlands](https://store.epicgames.com "Tiny Tina's Wonderlands")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Sifu")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Tiny Tina's Wonderlands")
 
-    ![Sifu](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+    ![Tiny Tina's Wonderlands](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
 
-  - ### [Gigapocalypse](https://store.epicgames.com "Gigapocalypse")
+  - ### [Limbo](https://store.epicgames.com "Limbo")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Gigapocalypse")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Limbo")
 
-    ![Gigapocalypse](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+    ![Limbo](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 6](https://store.epicgames.com "Mystery Game 6")
+  - ### [Mystery Game 8](https://store.epicgames.com "Mystery Game 8")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 6")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 8")
 
-    ![Mystery Game 6](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+    ![Mystery Game 8](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
 
-  - ### [Mystery Game 7](https://store.epicgames.com "Mystery Game 7")
+  - ### [Mystery Game 9](https://store.epicgames.com "Mystery Game 9")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 7")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 9")
 
-    ![Mystery Game 7](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+    ![Mystery Game 9](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
