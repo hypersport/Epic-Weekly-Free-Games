@@ -12,41 +12,41 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Tiny Tina's Wonderlands](https://store.epicgames.com "Tiny Tina's Wonderlands")
+  - ### [Ogu and the Secret Forest](https://store.epicgames.com "Ogu and the Secret Forest")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Tiny Tina's Wonderlands")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Ogu and the Secret Forest")
 
-    ![Tiny Tina's Wonderlands](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+    ![Ogu and the Secret Forest](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
 
-  - ### [Limbo](https://store.epicgames.com "Limbo")
+  - ### [DEATHLOOP](https://store.epicgames.com "DEATHLOOP")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Limbo")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "DEATHLOOP")
 
-    ![Limbo](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+    ![DEATHLOOP](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 8](https://store.epicgames.com "Mystery Game 8")
+  - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
 
-    原价: 0
+    原价: CN¥12.00
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 8")
+    购买链接: [https://store.epicgames.com/p/lost-castle-abb2e2](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
 
-    ![Mystery Game 8](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+    ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
-  - ### [Mystery Game 9](https://store.epicgames.com "Mystery Game 9")
+  - ### [Two Point Hospital](https://store.epicgames.com/p/two-point-hospital "Two Point Hospital")
 
-    原价: 0
+    原价: CN¥198.00
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 9")
+    购买链接: [https://store.epicgames.com/p/two-point-hospital](https://store.epicgames.com/p/two-point-hospital "Two Point Hospital")
 
-    ![Mystery Game 9](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+    ![Two Point Hospital](https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S1_2560x1440-ee16893556f141506d548b32d4cd23cc)
 
