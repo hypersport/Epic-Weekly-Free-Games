@@ -3,16 +3,25 @@
 - ## 本周限免
 
 
-  - ### [Two Point Hospital](https://store.epicgames.com/p/two-point-hospital "Two Point Hospital")
+  - ### [The Operator](https://store.epicgames.com/p/the-operator-b835e9 "The Operator")
 
-    原价: CN¥198.00
+    原价: CN¥47.00
 
-    购买链接: [https://store.epicgames.com/p/two-point-hospital](https://store.epicgames.com/p/two-point-hospital "Two Point Hospital")
+    购买链接: [https://store.epicgames.com/p/the-operator-b835e9](https://store.epicgames.com/p/the-operator-b835e9 "The Operator")
 
-    ![Two Point Hospital](https://cdn1.epicgames.com/offer/0f4a572a3c1541319db70c3737d3a123/EGS_TwoPointHospital_TwoPointStudios_S1_2560x1440-ee16893556f141506d548b32d4cd23cc)
+    ![The Operator](https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png)
 
 
 - ## 下周限免
+
+
+  - ### [Sable](https://store.epicgames.com/p/sable "Sable")
+
+    原价: CN¥87.00
+
+    购买链接: [https://store.epicgames.com/p/sable](https://store.epicgames.com/p/sable "Sable")
+
+    ![Sable](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf)
 
 
   - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
@@ -22,13 +31,4 @@
     购买链接: [https://store.epicgames.com/p/lost-castle-abb2e2](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
 
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
-
-
-  - ### [The Operator](https://store.epicgames.com/p/the-operator-b835e9 "The Operator")
-
-    原价: CN¥47.00
-
-    购买链接: [https://store.epicgames.com/p/the-operator-b835e9](https://store.epicgames.com/p/the-operator-b835e9 "The Operator")
-
-    ![The Operator](https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png)
 
