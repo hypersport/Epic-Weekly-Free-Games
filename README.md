@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [The Operator](https://store.epicgames.com/p/the-operator-b835e9 "The Operator")
+  - ### [Sable](https://store.epicgames.com/p/sable "Sable")
 
-    原价: CN¥47.00
+    原价: CN¥87.00
 
-    购买链接: [https://store.epicgames.com/p/the-operator-b835e9](https://store.epicgames.com/p/the-operator-b835e9 "The Operator")
+    购买链接: [https://store.epicgames.com/p/sable](https://store.epicgames.com/p/sable "Sable")
 
-    ![The Operator](https://cdn1.epicgames.com/spt-assets/65963abab56541eda0887402d505167e/the-operator-4mdnk.png)
+    ![Sable](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf)
 
 
 - ## 下周限免
@@ -22,15 +22,6 @@
     购买链接: [https://store.epicgames.com/p/figment](https://store.epicgames.com/p/figment "Figment")
 
     ![Figment](https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg)
-
-
-  - ### [Sable](https://store.epicgames.com/p/sable "Sable")
-
-    原价: CN¥87.00
-
-    购买链接: [https://store.epicgames.com/p/sable](https://store.epicgames.com/p/sable "Sable")
-
-    ![Sable](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf)
 
 
   - ### [Backpack Hero](https://store.epicgames.com/p/backpack-hero-449c5e "Backpack Hero")
