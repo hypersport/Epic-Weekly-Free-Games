@@ -24,6 +24,24 @@
     ![Figment](https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg)
 
 
+  - ### [Sky Racket](https://store.epicgames.com/p/sky-racket-4cf23a "Sky Racket")
+
+    原价: CN¥45.00
+
+    购买链接: [https://store.epicgames.com/p/sky-racket-4cf23a](https://store.epicgames.com/p/sky-racket-4cf23a "Sky Racket")
+
+    ![Sky Racket](https://cdn1.epicgames.com/spt/39e680de-9f71-4475-b5dd-e25ffc8ed026/sky-racket-offer-30e7f1bd.jpg)
+
+
+  - ### [Figment 2: Creed Valley](https://store.epicgames.com/p/figment2-creed-valley "Figment 2: Creed Valley")
+
+    原价: CN¥77.99
+
+    购买链接: [https://store.epicgames.com/p/figment2-creed-valley](https://store.epicgames.com/p/figment2-creed-valley "Figment 2: Creed Valley")
+
+    ![Figment 2: Creed Valley](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Figment2CreedValley_BedtimeDigitalGames_S1_2560x1440-c799fc78fe47bda5cf8a1bb205ca134f)
+
+
   - ### [Backpack Hero](https://store.epicgames.com/p/backpack-hero-449c5e "Backpack Hero")
 
     原价: CN¥62.00
