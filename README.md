@@ -3,13 +3,22 @@
 - ## 本周限免
 
 
-  - ### [Sable](https://store.epicgames.com/p/sable "Sable")
+  - ### [Figment](https://store.epicgames.com/p/figment "Figment")
 
-    原价: CN¥87.00
+    原价: CN¥58.00
 
-    购买链接: [https://store.epicgames.com/p/sable](https://store.epicgames.com/p/sable "Sable")
+    购买链接: [https://store.epicgames.com/p/figment](https://store.epicgames.com/p/figment "Figment")
 
-    ![Sable](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Sable_Shedworks_S1_2560x1440-64ec090eed8335263a9083de0eb7f5cf)
+    ![Figment](https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg)
+
+
+  - ### [Backpack Hero](https://store.epicgames.com/p/backpack-hero-449c5e "Backpack Hero")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/backpack-hero-449c5e](https://store.epicgames.com/p/backpack-hero-449c5e "Backpack Hero")
+
+    ![Backpack Hero](https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-15jsl.jpg)
 
 
 - ## 下周限免
@@ -40,15 +49,6 @@
     购买链接: [https://store.epicgames.com/p/figment2-creed-valley](https://store.epicgames.com/p/figment2-creed-valley "Figment 2: Creed Valley")
 
     ![Figment 2: Creed Valley](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Figment2CreedValley_BedtimeDigitalGames_S1_2560x1440-c799fc78fe47bda5cf8a1bb205ca134f)
-
-
-  - ### [Backpack Hero](https://store.epicgames.com/p/backpack-hero-449c5e "Backpack Hero")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/backpack-hero-449c5e](https://store.epicgames.com/p/backpack-hero-449c5e "Backpack Hero")
-
-    ![Backpack Hero](https://cdn1.epicgames.com/spt-assets/da842a6b6e324c39b54b16910856bdb3/backpack-hero-15jsl.jpg)
 
 
   - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
