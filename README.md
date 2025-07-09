@@ -33,6 +33,15 @@
     ![Figment](https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg)
 
 
+  - ### [Sid Meier’s Civilization® VI Platinum Edition](https://store.epicgames.com/p/sid-meiers-civilization-vi "Sid Meier’s Civilization® VI Platinum Edition")
+
+    原价: CN¥262.00
+
+    购买链接: [https://store.epicgames.com/p/sid-meiers-civilization-vi](https://store.epicgames.com/p/sid-meiers-civilization-vi "Sid Meier’s Civilization® VI Platinum Edition")
+
+    ![Sid Meier’s Civilization® VI Platinum Edition](https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S1-2560x1440-377e869fc8f4efea4ff996b406859a4f.jpg)
+
+
   - ### [Sky Racket](https://store.epicgames.com/p/sky-racket-4cf23a "Sky Racket")
 
     原价: CN¥45.00
