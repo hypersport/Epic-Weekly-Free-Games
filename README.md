@@ -50,3 +50,12 @@
 
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
+
+  - ### [Legion TD 2](https://store.epicgames.com/p/legion-td-2-a244b9 "Legion TD 2")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/legion-td-2-a244b9](https://store.epicgames.com/p/legion-td-2-a244b9 "Legion TD 2")
+
+    ![Legion TD 2](https://cdn1.epicgames.com/spt-assets/29586d03c1c147569a1991a8616c1413/legion-td-2-1em1j.png)
+
