@@ -3,50 +3,59 @@
 - ## 本周限免
 
 
-  - ### [Sky Racket](https://store.epicgames.com/p/sky-racket-4cf23a "Sky Racket")
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
 
-    原价: CN¥45.00
+    原价: CN¥108.00
 
-    购买链接: [https://store.epicgames.com/p/sky-racket-4cf23a](https://store.epicgames.com/p/sky-racket-4cf23a "Sky Racket")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
 
-    ![Sky Racket](https://cdn1.epicgames.com/spt/39e680de-9f71-4475-b5dd-e25ffc8ed026/sky-racket-offer-30e7f1bd.jpg)
+    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Figment 2: Creed Valley](https://store.epicgames.com/p/figment2-creed-valley "Figment 2: Creed Valley")
+  - ### [Happy Game](https://store.epicgames.com "Happy Game")
 
-    原价: CN¥77.99
+    原价: 0
 
-    购买链接: [https://store.epicgames.com/p/figment2-creed-valley](https://store.epicgames.com/p/figment2-creed-valley "Figment 2: Creed Valley")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Happy Game")
 
-    ![Figment 2: Creed Valley](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Figment2CreedValley_BedtimeDigitalGames_S1_2560x1440-c799fc78fe47bda5cf8a1bb205ca134f)
+    ![Happy Game](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+
+
+  - ### [Dead Island 2](https://store.epicgames.com "Dead Island 2")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Dead Island 2")
+
+    ![Dead Island 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
 
 - ## 下周限免
 
 
-  - ### [Sid Meier’s Civilization® VI Platinum Edition](https://store.epicgames.com/p/sid-meiers-civilization-vi "Sid Meier’s Civilization® VI Platinum Edition")
+  - ### [Mystery Game 3](https://store.epicgames.com "Mystery Game 3")
 
-    原价: CN¥262.00
+    原价: 0
 
-    购买链接: [https://store.epicgames.com/p/sid-meiers-civilization-vi](https://store.epicgames.com/p/sid-meiers-civilization-vi "Sid Meier’s Civilization® VI Platinum Edition")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 3")
 
-    ![Sid Meier’s Civilization® VI Platinum Edition](https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S1-2560x1440-377e869fc8f4efea4ff996b406859a4f.jpg)
-
-
-  - ### [Figment 2: Creed Valley](https://store.epicgames.com/p/figment2-creed-valley "Figment 2: Creed Valley")
-
-    原价: CN¥77.99
-
-    购买链接: [https://store.epicgames.com/p/figment2-creed-valley](https://store.epicgames.com/p/figment2-creed-valley "Figment 2: Creed Valley")
-
-    ![Figment 2: Creed Valley](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_Figment2CreedValley_BedtimeDigitalGames_S1_2560x1440-c799fc78fe47bda5cf8a1bb205ca134f)
+    ![Mystery Game 3](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
 
-  - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+  - ### [Mystery Game 5](https://store.epicgames.com "Mystery Game 5")
 
-    原价: CN¥12.00
+    原价: 0
 
-    购买链接: [https://store.epicgames.com/p/lost-castle-abb2e2](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 5")
 
-    ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
+    ![Mystery Game 5](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
+
+
+  - ### [Mystery Game 4](https://store.epicgames.com "Mystery Game 4")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 4")
+
+    ![Mystery Game 4](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/egs-vault-carousel-mobile-thumbnail-1200x160011_1200x1600-d91e66eade3c5f1b438dcfa9e2de4011)
 
