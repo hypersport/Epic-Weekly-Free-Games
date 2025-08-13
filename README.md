@@ -33,6 +33,15 @@
     ![Totally Reliable Delivery Service Standard Edition](https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-47e6e9562d62705a75ea7b7096d0b8dc.jpg)
 
 
+  - ### [Strange Horticulture](https://store.epicgames.com/p/strange-horticulture-360e80 "Strange Horticulture")
+
+    原价: CN¥45.00
+
+    购买链接: [https://store.epicgames.com/p/strange-horticulture-360e80](https://store.epicgames.com/p/strange-horticulture-360e80 "Strange Horticulture")
+
+    ![Strange Horticulture](https://cdn1.epicgames.com/spt-assets/15e8e3eba65a4763a815d6eae1d763b2/strange-horticulture-offer-2wghv.png)
+
+
   - ### [Hidden Folks](https://store.epicgames.com/p/hidden-folks-239d16 "Hidden Folks")
 
     原价: CN¥47.00
