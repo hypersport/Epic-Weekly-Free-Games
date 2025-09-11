@@ -3,18 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
-
-    原价: CN¥33.00
-
-    购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
-
-    ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
-
-
-- ## 下周限免
-
-
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
@@ -40,4 +28,25 @@
     购买链接: [https://store.epicgames.com/p/monument-valley-2-addd02](https://store.epicgames.com/p/monument-valley-2-addd02 "Monument Valley 2")
 
     ![Monument Valley 2](https://cdn1.epicgames.com/spt-assets/ec6e53ce95cc432d895dfb1285254bfd/monument-valley-2-1wse4.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [Samorost 2](https://store.epicgames.com/p/samorost-2-1b9bb1 "Samorost 2")
+
+    原价: CN¥23.00
+
+    购买链接: [https://store.epicgames.com/p/samorost-2-1b9bb1](https://store.epicgames.com/p/samorost-2-1b9bb1 "Samorost 2")
+
+    ![Samorost 2](https://cdn1.epicgames.com/spt-assets/472b13536da144839f184bd67e9a8e25/samorost-2-1hb4u.jpg)
+
+
+  - ### [Project Winter](https://store.epicgames.com/p/project-winter-3b9e84 "Project Winter")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/project-winter-3b9e84](https://store.epicgames.com/p/project-winter-3b9e84 "Project Winter")
+
+    ![Project Winter](https://cdn1.epicgames.com/spt-assets/8b114e51c13344978e0b8693dea6bb74/project-winter-phsnu.png)
 
