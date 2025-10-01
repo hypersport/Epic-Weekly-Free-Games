@@ -33,6 +33,15 @@
     ![Firestone Online Idle RPG](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1p5r8.png)
 
 
+  - ### [Gravity Circuit](https://store.epicgames.com/p/gravity-circuit-489baa "Gravity Circuit")
+
+    原价: CN¥58.00
+
+    购买链接: [https://store.epicgames.com/p/gravity-circuit-489baa](https://store.epicgames.com/p/gravity-circuit-489baa "Gravity Circuit")
+
+    ![Gravity Circuit](https://cdn1.epicgames.com/spt-assets/c259931bc98344a1a16427cb079f049f/gravity-circuit-offer-4kzn5.jpg)
+
+
   - ### [Nightingale](https://store.epicgames.com/p/nightingale "Nightingale")
 
     原价: CN¥108.00
