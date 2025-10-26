@@ -3,6 +3,15 @@
 - ## 本周限免
 
 
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    原价: CN¥108.00
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+
+
   - ### [Fear the Spotlight](https://store.epicgames.com/p/fear-the-spotlight-97656f "Fear the Spotlight")
 
     原价: CN¥62.00
