@@ -21,16 +21,43 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Fear the Spotlight](https://store.epicgames.com/p/fear-the-spotlight-97656f "Fear the Spotlight")
+  - ### [Bendy and the Ink Machine](https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a "Bendy and the Ink Machine")
 
     原价: CN¥62.00
 
-    购买链接: [https://store.epicgames.com/p/fear-the-spotlight-97656f](https://store.epicgames.com/p/fear-the-spotlight-97656f "Fear the Spotlight")
+    购买链接: [https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a](https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a "Bendy and the Ink Machine")
 
-    ![Fear the Spotlight](https://cdn1.epicgames.com/spt-assets/7440e6952704438cbb2e4f4dff02e00a/fear-the-spotlight-1ioq7.jpg)
+    ![Bendy and the Ink Machine](https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1e8cj.png)
+
+
+  - ### [Five Nights at Freddy's: Into the Pit](https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563 "Five Nights at Freddy's: Into the Pit")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563](https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563 "Five Nights at Freddy's: Into the Pit")
+
+    ![Five Nights at Freddy's: Into the Pit](https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1ng0s.png)
 
 
 - ## 下周限免
+
+
+  - ### [Idle Champions of the Forgotten Realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+
+    ![Idle Champions of the Forgotten Realms](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-v2snm.png)
+
+
+  - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/eternal-threads-197169](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
+
+    ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
 
 
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
@@ -60,20 +87,11 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Bendy and the Ink Machine](https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a "Bendy and the Ink Machine")
+  - ### [Felix The Reaper](https://store.epicgames.com/p/felix-the-reaper-3f7e62 "Felix The Reaper")
 
-    原价: CN¥62.00
+    原价: CN¥59.00
 
-    购买链接: [https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a](https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a "Bendy and the Ink Machine")
+    购买链接: [https://store.epicgames.com/p/felix-the-reaper-3f7e62](https://store.epicgames.com/p/felix-the-reaper-3f7e62 "Felix The Reaper")
 
-    ![Bendy and the Ink Machine](https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1e8cj.png)
-
-
-  - ### [Five Nights at Freddy's: Into the Pit](https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563 "Five Nights at Freddy's: Into the Pit")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563](https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563 "Five Nights at Freddy's: Into the Pit")
-
-    ![Five Nights at Freddy's: Into the Pit](https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1ng0s.png)
+    ![Felix The Reaper](https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-w5lqq.jpg)
 
