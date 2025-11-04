@@ -12,15 +12,6 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
-
-    原价: CN¥33.00
-
-    购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
-
-    ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
-
-
   - ### [Bendy and the Ink Machine](https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a "Bendy and the Ink Machine")
 
     原价: CN¥62.00
