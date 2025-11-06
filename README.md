@@ -3,6 +3,15 @@
 - ## 本周限免
 
 
+  - ### [Idle Champions of the Forgotten Realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+
+    ![Idle Champions of the Forgotten Realms](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1sr4b.png)
+
+
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
 
     原价: CN¥108.00
@@ -12,22 +21,13 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Bendy and the Ink Machine](https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a "Bendy and the Ink Machine")
+  - ### [Felix The Reaper](https://store.epicgames.com/p/felix-the-reaper-3f7e62 "Felix The Reaper")
 
-    原价: CN¥62.00
+    原价: CN¥59.00
 
-    购买链接: [https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a](https://store.epicgames.com/p/bendy-and-the-ink-machine-60cf5a "Bendy and the Ink Machine")
+    购买链接: [https://store.epicgames.com/p/felix-the-reaper-3f7e62](https://store.epicgames.com/p/felix-the-reaper-3f7e62 "Felix The Reaper")
 
-    ![Bendy and the Ink Machine](https://cdn1.epicgames.com/spt-assets/0b1283e5bfa64ad48f3862b79abc20b9/bendy-and-the-ink-machine-1e8cj.png)
-
-
-  - ### [Five Nights at Freddy's: Into the Pit](https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563 "Five Nights at Freddy's: Into the Pit")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563](https://store.epicgames.com/p/five-nights-at-freddys-into-the-pit-99c563 "Five Nights at Freddy's: Into the Pit")
-
-    ![Five Nights at Freddy's: Into the Pit](https://cdn1.epicgames.com/spt-assets/5c65df08b03a43eb8be026116ef8e979/five-nights-at-freddys-into-the-pit-1ng0s.png)
+    ![Felix The Reaper](https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-w5lqq.jpg)
 
 
 - ## 下周限免
@@ -40,15 +40,6 @@
     购买链接: [https://store.epicgames.com/p/scourgebringer](https://store.epicgames.com/p/scourgebringer "Scourgebringer")
 
     ![Scourgebringer](https://cdn1.epicgames.com/c03a3687567a4cf3910ea5ec7279664e/offer/d536fc52-f970-4df6-85ee-8460d24f513e-2560x1440-53ed06898f05cb70a58dcff472a21a25.jpg)
-
-
-  - ### [Idle Champions of the Forgotten Realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
-
-    原价: 0
-
-    购买链接: [https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
-
-    ![Idle Champions of the Forgotten Realms](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1sr4b.png)
 
 
   - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
@@ -87,11 +78,11 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Felix The Reaper](https://store.epicgames.com/p/felix-the-reaper-3f7e62 "Felix The Reaper")
+  - ### [Songs of Silence](https://store.epicgames.com/p/songs-of-silence-778d86 "Songs of Silence")
 
-    原价: CN¥59.00
+    原价: CN¥78.00
 
-    购买链接: [https://store.epicgames.com/p/felix-the-reaper-3f7e62](https://store.epicgames.com/p/felix-the-reaper-3f7e62 "Felix The Reaper")
+    购买链接: [https://store.epicgames.com/p/songs-of-silence-778d86](https://store.epicgames.com/p/songs-of-silence-778d86 "Songs of Silence")
 
-    ![Felix The Reaper](https://cdn1.epicgames.com/spt-assets/582d7a7c91264ee2b68f93e666870a1b/felix-the-reaper-w5lqq.jpg)
+    ![Songs of Silence](https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-1g5aw.jpg)
 
