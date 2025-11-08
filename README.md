@@ -86,3 +86,12 @@
 
     ![Songs of Silence](https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-1g5aw.jpg)
 
+
+  - ### [Zero Hour](https://store.epicgames.com/p/zero-hour-8449a0 "Zero Hour")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/zero-hour-8449a0](https://store.epicgames.com/p/zero-hour-8449a0 "Zero Hour")
+
+    ![Zero Hour](https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-16cus.png)
+
