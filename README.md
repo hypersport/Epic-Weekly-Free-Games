@@ -30,7 +30,7 @@
 
     购买链接: [https://store.epicgames.com/p/scourgebringer](https://store.epicgames.com/p/scourgebringer "Scourgebringer")
 
-    ![Scourgebringer](https://cdn1.epicgames.com/c03a3687567a4cf3910ea5ec7279664e/offer/d536fc52-f970-4df6-85ee-8460d24f513e-2560x1440-53ed06898f05cb70a58dcff472a21a25.jpg)
+    ![Scourgebringer](https://cdn1.epicgames.com/offer/c03a3687567a4cf3910ea5ec7279664e/d536fc52-f970-4df6-85ee-8460d24f513e-2560x1440-53ed06898f05cb70a58dcff472a21a25_2560x1440-53ed06898f05cb70a58dcff472a21a25)
 
 
   - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
