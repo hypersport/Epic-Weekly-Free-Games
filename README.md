@@ -12,6 +12,24 @@
     ![Scourgebringer](https://cdn1.epicgames.com/offer/c03a3687567a4cf3910ea5ec7279664e/d536fc52-f970-4df6-85ee-8460d24f513e-2560x1440-53ed06898f05cb70a58dcff472a21a25_2560x1440-53ed06898f05cb70a58dcff472a21a25)
 
 
+  - ### [Zoeti](https://store.epicgames.com/p/zoeti-3ccef9 "Zoeti")
+
+    原价: CN¥60.00
+
+    购买链接: [https://store.epicgames.com/p/zoeti-3ccef9](https://store.epicgames.com/p/zoeti-3ccef9 "Zoeti")
+
+    ![Zoeti](https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1vjnz.jpg)
+
+
+  - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/eternal-threads-197169](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
+
+    ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
+
+
   - ### [Songs of Silence](https://store.epicgames.com/p/songs-of-silence-778d86 "Songs of Silence")
 
     原价: CN¥78.00
@@ -40,15 +58,6 @@
     购买链接: [https://store.epicgames.com/p/zoeti-3ccef9](https://store.epicgames.com/p/zoeti-3ccef9 "Zoeti")
 
     ![Zoeti](https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1vjnz.jpg)
-
-
-  - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/eternal-threads-197169](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
-
-    ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
 
 
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
