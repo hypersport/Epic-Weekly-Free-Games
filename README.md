@@ -3,15 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Scourgebringer](https://store.epicgames.com/p/scourgebringer "Scourgebringer")
-
-    原价: CN¥58.00
-
-    购买链接: [https://store.epicgames.com/p/scourgebringer](https://store.epicgames.com/p/scourgebringer "Scourgebringer")
-
-    ![Scourgebringer](https://cdn1.epicgames.com/offer/c03a3687567a4cf3910ea5ec7279664e/d536fc52-f970-4df6-85ee-8460d24f513e-2560x1440-53ed06898f05cb70a58dcff472a21a25_2560x1440-53ed06898f05cb70a58dcff472a21a25)
-
-
   - ### [Zoeti](https://store.epicgames.com/p/zoeti-3ccef9 "Zoeti")
 
     原价: CN¥60.00
@@ -30,34 +21,7 @@
     ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
 
 
-  - ### [Songs of Silence](https://store.epicgames.com/p/songs-of-silence-778d86 "Songs of Silence")
-
-    原价: CN¥78.00
-
-    购买链接: [https://store.epicgames.com/p/songs-of-silence-778d86](https://store.epicgames.com/p/songs-of-silence-778d86 "Songs of Silence")
-
-    ![Songs of Silence](https://cdn1.epicgames.com/spt-assets/717e784a701e49bba02e27f7774e966a/songs-of-silence-1g5aw.jpg)
-
-
-  - ### [Zero Hour](https://store.epicgames.com/p/zero-hour-8449a0 "Zero Hour")
-
-    原价: CN¥31.00
-
-    购买链接: [https://store.epicgames.com/p/zero-hour-8449a0](https://store.epicgames.com/p/zero-hour-8449a0 "Zero Hour")
-
-    ![Zero Hour](https://cdn1.epicgames.com/spt-assets/24397552e51f404d8f89e93ed383d35a/zero-hour-16cus.png)
-
-
 - ## 下周限免
-
-
-  - ### [Zoeti](https://store.epicgames.com/p/zoeti-3ccef9 "Zoeti")
-
-    原价: CN¥60.00
-
-    购买链接: [https://store.epicgames.com/p/zoeti-3ccef9](https://store.epicgames.com/p/zoeti-3ccef9 "Zoeti")
-
-    ![Zoeti](https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1vjnz.jpg)
 
 
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
@@ -67,6 +31,15 @@
     购买链接: [https://store.epicgames.com/p/ghostrunner-2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
+
+
+  - ### [Universe for Sale](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/universe-for-sale-05c53e](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
+
+    ![Universe for Sale](https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-xr25c.jpg)
 
 
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
