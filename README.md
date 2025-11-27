@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Zoeti](https://store.epicgames.com/p/zoeti-3ccef9 "Zoeti")
+  - ### [The Jackbox Party Pack 4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
 
-    原价: CN¥60.00
+    原价: CN¥78.00
 
-    购买链接: [https://store.epicgames.com/p/zoeti-3ccef9](https://store.epicgames.com/p/zoeti-3ccef9 "Zoeti")
+    购买链接: [https://store.epicgames.com/p/jackbox-party-pack-4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
 
-    ![Zoeti](https://cdn1.epicgames.com/spt-assets/78af28ae56cb41e69cbca318bbc180e3/zoeti-1vjnz.jpg)
+    ![The Jackbox Party Pack 4](https://cdn1.epicgames.com/offer/snowdrop/PP4_WideImage_2560x1440-af8d584f847d181c0831ad238cfc4076)
 
 
   - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
@@ -21,7 +21,34 @@
     ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
 
 
+  - ### [Universe for Sale](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/universe-for-sale-05c53e](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
+
+    ![Universe for Sale](https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-xr25c.jpg)
+
+
 - ## 下周限免
+
+
+  - ### [The Jackbox Party Pack 4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
+
+    原价: CN¥78.00
+
+    购买链接: [https://store.epicgames.com/p/jackbox-party-pack-4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
+
+    ![The Jackbox Party Pack 4](https://cdn1.epicgames.com/offer/snowdrop/PP4_WideImage_2560x1440-af8d584f847d181c0831ad238cfc4076)
+
+
+  - ### [The Darkside Detective](https://store.epicgames.com/p/the-darkside-detective-02fd5a "The Darkside Detective")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/the-darkside-detective-02fd5a](https://store.epicgames.com/p/the-darkside-detective-02fd5a "The Darkside Detective")
+
+    ![The Darkside Detective](https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-offer-1uv10.jpg)
 
 
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
@@ -31,15 +58,6 @@
     购买链接: [https://store.epicgames.com/p/ghostrunner-2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
-
-
-  - ### [Universe for Sale](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
-
-    原价: CN¥47.00
-
-    购买链接: [https://store.epicgames.com/p/universe-for-sale-05c53e](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
-
-    ![Universe for Sale](https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-xr25c.jpg)
 
 
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
