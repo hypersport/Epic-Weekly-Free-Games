@@ -3,24 +3,6 @@
 - ## 本周限免
 
 
-  - ### [The Jackbox Party Pack 4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
-
-    原价: CN¥78.00
-
-    购买链接: [https://store.epicgames.com/p/jackbox-party-pack-4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
-
-    ![The Jackbox Party Pack 4](https://cdn1.epicgames.com/offer/snowdrop/PP4_WideImage_2560x1440-af8d584f847d181c0831ad238cfc4076)
-
-
-  - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/eternal-threads-197169](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
-
-    ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
-
-
   - ### [Universe for Sale](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
 
     原价: CN¥47.00
