@@ -3,18 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Universe for Sale](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
-
-    原价: CN¥47.00
-
-    购买链接: [https://store.epicgames.com/p/universe-for-sale-05c53e](https://store.epicgames.com/p/universe-for-sale-05c53e "Universe for Sale")
-
-    ![Universe for Sale](https://cdn1.epicgames.com/spt-assets/5159c30d2bba476484db4f9c97beb47e/universe-for-sale-xr25c.jpg)
-
-
-- ## 下周限免
-
-
   - ### [The Jackbox Party Pack 4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
 
     原价: CN¥78.00
@@ -31,6 +19,9 @@
     购买链接: [https://store.epicgames.com/p/the-darkside-detective-02fd5a](https://store.epicgames.com/p/the-darkside-detective-02fd5a "The Darkside Detective")
 
     ![The Darkside Detective](https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-offer-1uv10.jpg)
+
+
+- ## 下周限免
 
 
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
@@ -58,4 +49,13 @@
     购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
+
+
+  - ### [Mystery Game 1](https://store.epicgames.com "Mystery Game 1")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 1")
+
+    ![Mystery Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-2560x1440_2560x1440-bdb583c697524be8ede523d920663f2f)
 
