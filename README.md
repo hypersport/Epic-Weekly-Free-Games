@@ -3,27 +3,6 @@
 - ## 本周限免
 
 
-  - ### [The Jackbox Party Pack 4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
-
-    原价: CN¥78.00
-
-    购买链接: [https://store.epicgames.com/p/jackbox-party-pack-4](https://store.epicgames.com/p/jackbox-party-pack-4 "The Jackbox Party Pack 4")
-
-    ![The Jackbox Party Pack 4](https://cdn1.epicgames.com/offer/snowdrop/PP4_WideImage_2560x1440-af8d584f847d181c0831ad238cfc4076)
-
-
-  - ### [The Darkside Detective](https://store.epicgames.com/p/the-darkside-detective-02fd5a "The Darkside Detective")
-
-    原价: CN¥47.00
-
-    购买链接: [https://store.epicgames.com/p/the-darkside-detective-02fd5a](https://store.epicgames.com/p/the-darkside-detective-02fd5a "The Darkside Detective")
-
-    ![The Darkside Detective](https://cdn1.epicgames.com/spt-assets/f91b4d1e5d1348b4a4ad37de00258464/the-darkside-detective-offer-1uv10.jpg)
-
-
-- ## 下周限免
-
-
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
@@ -51,6 +30,9 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
+- ## 下周限免
+
+
   - ### [Mystery Game 1](https://store.epicgames.com "Mystery Game 1")
 
     原价: 0
@@ -58,4 +40,13 @@
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 1")
 
     ![Mystery Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-2560x1440_2560x1440-bdb583c697524be8ede523d920663f2f)
+
+
+  - ### [Mystery Game 2](https://store.epicgames.com "Mystery Game 2")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 2")
+
+    ![Mystery Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
