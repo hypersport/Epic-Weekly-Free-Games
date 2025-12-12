@@ -30,16 +30,16 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-- ## 下周限免
-
-
-  - ### [Mystery Game 1](https://store.epicgames.com "Mystery Game 1")
+  - ### [Hogwarts Legacy](https://store.epicgames.com "Hogwarts Legacy")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 1")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Hogwarts Legacy")
 
-    ![Mystery Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS-TheGameAwards-breaker-2560x1440_2560x1440-bdb583c697524be8ede523d920663f2f)
+    ![Hogwarts Legacy](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec11_giveaway_2560x1440_2560x1440-05d489c87ee04b6489684ffbbebce43e)
+
+
+- ## 下周限免
 
 
   - ### [Mystery Game 2](https://store.epicgames.com "Mystery Game 2")
