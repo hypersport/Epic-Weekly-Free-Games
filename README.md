@@ -30,23 +30,23 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Jotunnslayer: Hordes of Hel](https://store.epicgames.com "Jotunnslayer: Hordes of Hel")
+  - ### [Eternights](https://store.epicgames.com "Eternights")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Jotunnslayer: Hordes of Hel")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Eternights")
 
-    ![Jotunnslayer: Hordes of Hel](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec18_giveaway_2560x1440_2560x1440-ecb5cd80407b4ddb9aa05407b8da1662)
+    ![Eternights](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec19_giveaway_2560x1440_2560x1440-56414d7af2cc442a8fffeba791625bcd)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 3](https://store.epicgames.com "Mystery Game 3")
+  - ### [Mystery Game 4](https://store.epicgames.com "Mystery Game 4")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 3")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 4")
 
-    ![Mystery Game 3](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+    ![Mystery Game 4](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
