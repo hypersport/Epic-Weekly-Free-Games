@@ -30,23 +30,23 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Blood West](https://store.epicgames.com "Blood West")
+  - ### [Sorry We're Closed](https://store.epicgames.com "Sorry We're Closed")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Blood West")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Sorry We're Closed")
 
-    ![Blood West](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec20_giveaway_2560x1440_2560x1440-a1a37a557bb5425a8e724c57c470ec60)
+    ![Sorry We're Closed](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_2560x14401_2560x1440-1a8c8998966447698da1634d33a23f98)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 5](https://store.epicgames.com "Mystery Game 5")
+  - ### [Mystery Game 6](https://store.epicgames.com "Mystery Game 6")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 5")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 6")
 
-    ![Mystery Game 5](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+    ![Mystery Game 6](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
