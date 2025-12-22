@@ -30,23 +30,23 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Sorry We're Closed](https://store.epicgames.com "Sorry We're Closed")
+  - ### [Paradise Killer](https://store.epicgames.com "Paradise Killer")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Sorry We're Closed")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Paradise Killer")
 
-    ![Sorry We're Closed](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec21_giveaway_2560x14401_2560x1440-1a8c8998966447698da1634d33a23f98)
+    ![Paradise Killer](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec22_giveaway_2560x1440_2560x1440-0165246ad3c9454e887f576036328add)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 6](https://store.epicgames.com "Mystery Game 6")
+  - ### [Mystery Game 7](https://store.epicgames.com "Mystery Game 7")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 6")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 7")
 
-    ![Mystery Game 6](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+    ![Mystery Game 7](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
