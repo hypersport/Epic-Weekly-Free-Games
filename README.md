@@ -30,23 +30,23 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Disco Elysium - The Final Cut](https://store.epicgames.com "Disco Elysium - The Final Cut")
+  - ### [We Were Here Together](https://store.epicgames.com "We Were Here Together")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Disco Elysium - The Final Cut")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "We Were Here Together")
 
-    ![Disco Elysium - The Final Cut](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec25_giveaway_2560x1440_2560x1440-58d80c45b740479dbfa8abe327255bc8)
+    ![We Were Here Together](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec26_giveaway_2560x144011_2560x1440-f07874de2abc47b3a7d2ff9a7fe7d79c)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 10](https://store.epicgames.com "Mystery Game 10")
+  - ### [Mystery Game 11](https://store.epicgames.com "Mystery Game 11")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 10")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 11")
 
-    ![Mystery Game 10](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+    ![Mystery Game 11](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
