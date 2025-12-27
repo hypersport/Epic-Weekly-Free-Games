@@ -30,23 +30,23 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [We Were Here Together](https://store.epicgames.com "We Were Here Together")
+  - ### [Cassette Beasts](https://store.epicgames.com "Cassette Beasts")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "We Were Here Together")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Cassette Beasts")
 
-    ![We Were Here Together](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec26_giveaway_2560x144011_2560x1440-f07874de2abc47b3a7d2ff9a7fe7d79c)
+    ![Cassette Beasts](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec27_giveaway_2560x14401_2560x1440-5f94bf795c3e4e6f8af0c66453261a7b)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 11](https://store.epicgames.com "Mystery Game 11")
+  - ### [Mystery Game 12](https://store.epicgames.com "Mystery Game 12")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 11")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 12")
 
-    ![Mystery Game 11](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+    ![Mystery Game 12](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
