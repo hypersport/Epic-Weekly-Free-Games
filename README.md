@@ -30,23 +30,23 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Cassette Beasts](https://store.epicgames.com "Cassette Beasts")
+  - ### [SKALD Against the Black Priory](https://store.epicgames.com "SKALD Against the Black Priory")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Cassette Beasts")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "SKALD Against the Black Priory")
 
-    ![Cassette Beasts](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec27_giveaway_2560x14401_2560x1440-5f94bf795c3e4e6f8af0c66453261a7b)
+    ![SKALD Against the Black Priory](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec28_giveaway_2560x1440_2560x1440-6e65e3af8d0742b391724579dc4b3822)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 12](https://store.epicgames.com "Mystery Game 12")
+  - ### [Mystery Game 13](https://store.epicgames.com "Mystery Game 13")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 12")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 13")
 
-    ![Mystery Game 12](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+    ![Mystery Game 13](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
