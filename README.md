@@ -30,23 +30,23 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [SKALD Against the Black Priory](https://store.epicgames.com "SKALD Against the Black Priory")
+  - ### [Viewfinder](https://store.epicgames.com "Viewfinder")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "SKALD Against the Black Priory")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Viewfinder")
 
-    ![SKALD Against the Black Priory](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec28_giveaway_2560x1440_2560x1440-6e65e3af8d0742b391724579dc4b3822)
+    ![Viewfinder](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec29_giveaway_2560x1440_2560x1440-ead4f1cf762e477ba1bd89e07eca452b)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 13](https://store.epicgames.com "Mystery Game 13")
+  - ### [Mystery Game 14](https://store.epicgames.com "Mystery Game 14")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 13")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 14")
 
-    ![Mystery Game 13](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+    ![Mystery Game 14](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
