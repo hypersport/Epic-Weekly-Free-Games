@@ -30,23 +30,41 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Trine Classic Collection](https://store.epicgames.com "Trine Classic Collection")
+  - ### [Chivalry 2](https://store.epicgames.com "Chivalry 2")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Trine Classic Collection")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Chivalry 2")
 
-    ![Trine Classic Collection](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec30_giveaway_2560x1440_2560x1440-a3a3c03556904202b2127565527e967f)
+    ![Chivalry 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Dec31_giveaway_2560x14401_2560x1440-d0f16b070b06435bad29ebb36cf5db5d)
 
 
 - ## 下周限免
 
 
-  - ### [Mystery Game 15](https://store.epicgames.com "Mystery Game 15")
+  - ### [Bloons TD 6](https://store.epicgames.com/p/bloons-td-6-bf95a0 "Bloons TD 6")
+
+    原价: CN¥42.00
+
+    购买链接: [https://store.epicgames.com/p/bloons-td-6-bf95a0](https://store.epicgames.com/p/bloons-td-6-bf95a0 "Bloons TD 6")
+
+    ![Bloons TD 6](https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg)
+
+
+  - ### [Mystery Game 17](https://store.epicgames.com "Mystery Game 17")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 15")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 17")
 
-    ![Mystery Game 15](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+    ![Mystery Game 17](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
+
+
+  - ### [Mystery Game 16](https://store.epicgames.com "Mystery Game 16")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 16")
+
+    ![Mystery Game 16](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Holiday25_FreeGames_Teaser_2560x1440_2560x1440-012542ce76be0f7521af765ba97d3453)
 
