@@ -15,6 +15,15 @@
 - ## 下周限免
 
 
+  - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
+
+    原价: CN¥169.00
+
+    购买链接: [https://store.epicgames.com/p/ghostrunner-2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
+
+    ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
+
+
   - ### [Styx: Master of Shadows](https://store.epicgames.com/p/styx-master-of-shadows-4d9ab3 "Styx: Master of Shadows")
 
     原价: CN¥62.00
