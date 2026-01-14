@@ -24,6 +24,15 @@
     ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
 
 
+  - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
+
+    原价: CN¥33.00
+
+    购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
+
+    ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
+
+
   - ### [Styx: Master of Shadows](https://store.epicgames.com/p/styx-master-of-shadows-4d9ab3 "Styx: Master of Shadows")
 
     原价: CN¥62.00
