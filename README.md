@@ -3,13 +3,22 @@
 - ## 本周限免
 
 
-  - ### [Bloons TD 6](https://store.epicgames.com/p/bloons-td-6-bf95a0 "Bloons TD 6")
+  - ### [Styx: Master of Shadows](https://store.epicgames.com/p/styx-master-of-shadows-4d9ab3 "Styx: Master of Shadows")
 
-    原价: CN¥42.00
+    原价: CN¥62.00
 
-    购买链接: [https://store.epicgames.com/p/bloons-td-6-bf95a0](https://store.epicgames.com/p/bloons-td-6-bf95a0 "Bloons TD 6")
+    购买链接: [https://store.epicgames.com/p/styx-master-of-shadows-4d9ab3](https://store.epicgames.com/p/styx-master-of-shadows-4d9ab3 "Styx: Master of Shadows")
 
-    ![Bloons TD 6](https://cdn1.epicgames.com/spt-assets/764b2d57552c436590f50318bd7587f9/bloons-td-6-offer-1jl6n.jpg)
+    ![Styx: Master of Shadows](https://cdn1.epicgames.com/spt-assets/45709e0bb07e43bd9e652991779d4dfa/styx-master-of-shadows-17of4.jpg)
+
+
+  - ### [Styx: Shards of Darkness - Deluxe Edition](https://store.epicgames.com/p/styx-shards-of-darkness-77c030 "Styx: Shards of Darkness - Deluxe Edition")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/styx-shards-of-darkness-77c030](https://store.epicgames.com/p/styx-shards-of-darkness-77c030 "Styx: Shards of Darkness - Deluxe Edition")
+
+    ![Styx: Shards of Darkness - Deluxe Edition](https://cdn1.epicgames.com/spt-assets/6ccdf6a1518741f0842177137adc00b0/styx-shards-of-darkness-1bh52.jpg)
 
 
 - ## 下周限免
@@ -33,20 +42,11 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Styx: Master of Shadows](https://store.epicgames.com/p/styx-master-of-shadows-4d9ab3 "Styx: Master of Shadows")
+  - ### [Rustler - Grand Theft Horse](https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca "Rustler - Grand Theft Horse")
 
-    原价: CN¥62.00
+    原价: CN¥78.00
 
-    购买链接: [https://store.epicgames.com/p/styx-master-of-shadows-4d9ab3](https://store.epicgames.com/p/styx-master-of-shadows-4d9ab3 "Styx: Master of Shadows")
+    购买链接: [https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca](https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca "Rustler - Grand Theft Horse")
 
-    ![Styx: Master of Shadows](https://cdn1.epicgames.com/spt-assets/45709e0bb07e43bd9e652991779d4dfa/styx-master-of-shadows-17of4.jpg)
-
-
-  - ### [Styx: Shards of Darkness](https://store.epicgames.com/p/styx-shards-of-darkness-77c030 "Styx: Shards of Darkness")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/styx-shards-of-darkness-77c030](https://store.epicgames.com/p/styx-shards-of-darkness-77c030 "Styx: Shards of Darkness")
-
-    ![Styx: Shards of Darkness](https://cdn1.epicgames.com/spt-assets/6ccdf6a1518741f0842177137adc00b0/styx-shards-of-darkness-1bh52.jpg)
+    ![Rustler - Grand Theft Horse](https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg)
 
