@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Rustler - Grand Theft Horse](https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca "Rustler - Grand Theft Horse")
+  - ### [Definitely Not Fried Chicken](https://store.epicgames.com/p/definitely-not-fried-chicken-a30160 "Definitely Not Fried Chicken")
 
     原价: CN¥78.00
 
-    购买链接: [https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca](https://store.epicgames.com/p/rustler-grand-theft-horse-21a7ca "Rustler - Grand Theft Horse")
+    购买链接: [https://store.epicgames.com/p/definitely-not-fried-chicken-a30160](https://store.epicgames.com/p/definitely-not-fried-chicken-a30160 "Definitely Not Fried Chicken")
 
-    ![Rustler - Grand Theft Horse](https://cdn1.epicgames.com/spt-assets/a1324ca83bc543ae8747f8d5a99d777a/rustler--grand-theft-horse-1ukey.jpg)
+    ![Definitely Not Fried Chicken](https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png)
 
 
 - ## 下周限免
@@ -42,11 +42,20 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Definitely Not Fried Chicken](https://store.epicgames.com/p/definitely-not-fried-chicken-a30160 "Definitely Not Fried Chicken")
+  - ### [Botany Manor](https://store.epicgames.com/p/botany-manor-e7c456 "Botany Manor")
 
     原价: CN¥78.00
 
-    购买链接: [https://store.epicgames.com/p/definitely-not-fried-chicken-a30160](https://store.epicgames.com/p/definitely-not-fried-chicken-a30160 "Definitely Not Fried Chicken")
+    购买链接: [https://store.epicgames.com/p/botany-manor-e7c456](https://store.epicgames.com/p/botany-manor-e7c456 "Botany Manor")
 
-    ![Definitely Not Fried Chicken](https://cdn1.epicgames.com/spt-assets/a90fa1ecc6fd41b2b98bc04b40b23c71/definitely-not-fried-chicken-thf6o.png)
+    ![Botany Manor](https://cdn1.epicgames.com/spt-assets/42d56a88c22d4eaa8977bf5528a2396b/botany-manor-1f7uq.jpg)
+
+
+  - ### [Poison Retro Set](https://store.epicgames.com/p/pixel-gun-3d-812855 "Poison Retro Set")
+
+    原价: CN¥168.00
+
+    购买链接: [https://store.epicgames.com/p/pixel-gun-3d-812855](https://store.epicgames.com/p/pixel-gun-3d-812855 "Poison Retro Set")
+
+    ![Poison Retro Set](https://cdn1.epicgames.com/spt-assets/65338dc60d204dcb98752745bab52374/pixel-gun-3d-1pp3a.jpg)
 
