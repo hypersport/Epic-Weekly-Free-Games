@@ -53,7 +53,7 @@
 
   - ### [Poison Retro Set](https://store.epicgames.com/p/pixel-gun-3d-812855 "Poison Retro Set")
 
-    原价: CN¥168.00
+    原价: CN¥92.00
 
     购买链接: [https://store.epicgames.com/p/pixel-gun-3d-812855](https://store.epicgames.com/p/pixel-gun-3d-812855 "Poison Retro Set")
 
