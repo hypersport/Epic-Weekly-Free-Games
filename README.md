@@ -3,15 +3,6 @@
 - ## 本周限免
 
 
-  - ### [The Darkside Detective A Fumble in the Dark](https://store.epicgames.com/p/the-darkside-detective-a-fumble-in-the-dark-174fcf "The Darkside Detective A Fumble in the Dark")
-
-    原价: CN¥47.00
-
-    购买链接: [https://store.epicgames.com/p/the-darkside-detective-a-fumble-in-the-dark-174fcf](https://store.epicgames.com/p/the-darkside-detective-a-fumble-in-the-dark-174fcf "The Darkside Detective A Fumble in the Dark")
-
-    ![The Darkside Detective A Fumble in the Dark](https://cdn1.epicgames.com/spt-assets/0638bcc62d9f4ba2a53eb9093c54be31/the-darkside-detective-a-fumble-in-the-dark-offer-501mw.jpg)
-
-
   - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
 
     原价: CN¥62.00
@@ -39,27 +30,6 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Nobody Wants to Die](https://store.epicgames.com/p/nobody-wants-to-die-fe21cd "Nobody Wants to Die")
-
-    原价: CN¥106.80
-
-    购买链接: [https://store.epicgames.com/p/nobody-wants-to-die-fe21cd](https://store.epicgames.com/p/nobody-wants-to-die-fe21cd "Nobody Wants to Die")
-
-    ![Nobody Wants to Die](https://cdn1.epicgames.com/spt-assets/dece0016082647a6af5759dbbedfc8eb/nobody-wants-to-die-13stz.jpg)
-
-
-- ## 下周限免
-
-
-  - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
-
-    原价: CN¥33.00
-
-    购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
-
-    ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
-
-
   - ### [Return to Ash](https://store.epicgames.com/p/return-to-ash-dee3ff "Return to Ash")
 
     原价: CN¥18.00
@@ -76,4 +46,34 @@
     购买链接: [https://store.epicgames.com/p/stalcraft-x-057c4a](https://store.epicgames.com/p/stalcraft-x-057c4a "STALCRAFT: X Starter Edition")
 
     ![STALCRAFT: X Starter Edition](https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1gxje.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [Boxes: Lost Fragments](https://store.epicgames.com/p/boxes-lost-fragments-079041 "Boxes: Lost Fragments")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/boxes-lost-fragments-079041](https://store.epicgames.com/p/boxes-lost-fragments-079041 "Boxes: Lost Fragments")
+
+    ![Boxes: Lost Fragments](https://cdn1.epicgames.com/spt-assets/7f8e5cd71ae04eaeb7d782a5946db16f/boxes-lost-fragments-dbecx.png)
+
+
+  - ### [My Night Job](https://store.epicgames.com/p/my-night-job-a416a6 "My Night Job")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/my-night-job-a416a6](https://store.epicgames.com/p/my-night-job-a416a6 "My Night Job")
+
+    ![My Night Job](https://cdn1.epicgames.com/spt-assets/2f10ff8aadbb413a9f5b26bae07977af/my-night-job-1i7ei.jpg)
+
+
+  - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
+
+    原价: CN¥33.00
+
+    购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
+
+    ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
