@@ -3,27 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Return to Ash](https://store.epicgames.com/p/return-to-ash-dee3ff "Return to Ash")
-
-    原价: CN¥18.00
-
-    购买链接: [https://store.epicgames.com/p/return-to-ash-dee3ff](https://store.epicgames.com/p/return-to-ash-dee3ff "Return to Ash")
-
-    ![Return to Ash](https://cdn1.epicgames.com/spt-assets/07c1bf7c44dc4c2e8567923f03c7d307/return-to-ash-qcdax.png)
-
-
-  - ### [STALCRAFT: X Starter Edition](https://store.epicgames.com/p/stalcraft-x-057c4a "STALCRAFT: X Starter Edition")
-
-    原价: CN¥78.00
-
-    购买链接: [https://store.epicgames.com/p/stalcraft-x-057c4a](https://store.epicgames.com/p/stalcraft-x-057c4a "STALCRAFT: X Starter Edition")
-
-    ![STALCRAFT: X Starter Edition](https://cdn1.epicgames.com/spt-assets/bed02187768e44afb05319f40660d9fa/stalcraft-x-1gxje.jpg)
-
-
-- ## 下周限免
-
-
   - ### [Boxes: Lost Fragments](https://store.epicgames.com/p/boxes-lost-fragments-079041 "Boxes: Lost Fragments")
 
     原价: CN¥47.00
@@ -40,6 +19,27 @@
     购买链接: [https://store.epicgames.com/p/my-night-job-a416a6](https://store.epicgames.com/p/my-night-job-a416a6 "My Night Job")
 
     ![My Night Job](https://cdn1.epicgames.com/spt-assets/2f10ff8aadbb413a9f5b26bae07977af/my-night-job-1i7ei.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [Idle Champions of the Forgotten Realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+
+    ![Idle Champions of the Forgotten Realms](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1dw11.jpg)
+
+
+  - ### [Turnip Boy Robs a Bank](https://store.epicgames.com/p/turnip-boy-robs-a-bank-3fae0e "Turnip Boy Robs a Bank")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/turnip-boy-robs-a-bank-3fae0e](https://store.epicgames.com/p/turnip-boy-robs-a-bank-3fae0e "Turnip Boy Robs a Bank")
+
+    ![Turnip Boy Robs a Bank](https://cdn1.epicgames.com/spt-assets/12f0012342a94c95985afbaa7568b51b/turnip-boy-robs-a-bank-167pk.png)
 
 
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
