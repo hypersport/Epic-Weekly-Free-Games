@@ -30,22 +30,22 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Hyper Echelon](https://store.epicgames.com/p/hyper-echelon-2d23ff "Hyper Echelon")
-
-    原价: CN¥40.00
-
-    购买链接: [https://store.epicgames.com/p/hyper-echelon-2d23ff](https://store.epicgames.com/p/hyper-echelon-2d23ff "Hyper Echelon")
-
-    ![Hyper Echelon](https://cdn1.epicgames.com/spt-assets/866f5f0834324794a87759b5f4854636/hyper-echelon-13b9q.png)
-
-
-  - ### [Havendock](https://store.epicgames.com/p/havendock-64983e "Havendock")
+  - ### [Clone Drone in the Danger Zone](https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e "Clone Drone in the Danger Zone")
 
     原价: CN¥62.00
 
-    购买链接: [https://store.epicgames.com/p/havendock-64983e](https://store.epicgames.com/p/havendock-64983e "Havendock")
+    购买链接: [https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e](https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e "Clone Drone in the Danger Zone")
 
-    ![Havendock](https://cdn1.epicgames.com/spt-assets/180018125def4cbabef241f199a79f35/havendock-r2ivl.png)
+    ![Clone Drone in the Danger Zone](https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png)
+
+
+  - ### [TOMAK: Save the Earth Regeneration](https://store.epicgames.com/p/tomak-save-the-earth-regeneration-c1207c "TOMAK: Save the Earth Regeneration")
+
+    原价: CN¥28.00
+
+    购买链接: [https://store.epicgames.com/p/tomak-save-the-earth-regeneration-c1207c](https://store.epicgames.com/p/tomak-save-the-earth-regeneration-c1207c "TOMAK: Save the Earth Regeneration")
+
+    ![TOMAK: Save the Earth Regeneration](https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png)
 
 
 - ## 下周限免
@@ -60,11 +60,11 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Clone Drone in the Danger Zone](https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e "Clone Drone in the Danger Zone")
+  - ### [Prop Sumo](https://store.epicgames.com/p/propsumo-ca8bd7 "Prop Sumo")
 
-    原价: CN¥62.00
+    原价: CN¥31.00
 
-    购买链接: [https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e](https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e "Clone Drone in the Danger Zone")
+    购买链接: [https://store.epicgames.com/p/propsumo-ca8bd7](https://store.epicgames.com/p/propsumo-ca8bd7 "Prop Sumo")
 
-    ![Clone Drone in the Danger Zone](https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png)
+    ![Prop Sumo](https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg)
 
