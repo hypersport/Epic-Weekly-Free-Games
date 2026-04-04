@@ -45,7 +45,7 @@
 
     购买链接: [https://store.epicgames.com/p/tomak-save-the-earth-regeneration-c1207c](https://store.epicgames.com/p/tomak-save-the-earth-regeneration-c1207c "TOMAK: Save the Earth Regeneration")
 
-    ![TOMAK: Save the Earth Regeneration](https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1cvou.png)
+    ![TOMAK: Save the Earth Regeneration](https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-10jsb.png)
 
 
 - ## 下周限免
