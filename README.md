@@ -3,6 +3,15 @@
 - ## 本周限免
 
 
+  - ### [Nova Lands](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
+
+    原价: CN¥80.00
+
+    购买链接: [https://store.epicgames.com/p/nova-lands-4d1788](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
+
+    ![Nova Lands](https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png)
+
+
   - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
 
     原价: CN¥62.00
