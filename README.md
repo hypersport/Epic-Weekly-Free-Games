@@ -3,15 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Nova Lands](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
-
-    原价: CN¥80.00
-
-    购买链接: [https://store.epicgames.com/p/nova-lands-4d1788](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
-
-    ![Nova Lands](https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png)
-
-
   - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
 
     原价: CN¥62.00
@@ -30,6 +21,15 @@
     ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
 
 
+  - ### [The Stone of Madness](https://store.epicgames.com/p/the-stone-of-madness-7b22f3 "The Stone of Madness")
+
+    原价: CN¥93.00
+
+    购买链接: [https://store.epicgames.com/p/the-stone-of-madness-7b22f3](https://store.epicgames.com/p/the-stone-of-madness-7b22f3 "The Stone of Madness")
+
+    ![The Stone of Madness](https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg)
+
+
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     原价: CN¥33.00
@@ -37,15 +37,6 @@
     购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
-
-
-  - ### [Clone Drone in the Danger Zone](https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e "Clone Drone in the Danger Zone")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e](https://store.epicgames.com/p/clone-drone-in-the-danger-zone-4daf6e "Clone Drone in the Danger Zone")
-
-    ![Clone Drone in the Danger Zone](https://cdn1.epicgames.com/spt-assets/2300be8843b24d9a8abaa663a2b544f8/clone-drone-in-the-danger-zone-1cmlu.png)
 
 
   - ### [TOMAK: Save the Earth Regeneration](https://store.epicgames.com/p/tomak-save-the-earth-regeneration-c1207c "TOMAK: Save the Earth Regeneration")
@@ -57,7 +48,25 @@
     ![TOMAK: Save the Earth Regeneration](https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-10jsb.png)
 
 
+  - ### [Prop Sumo](https://store.epicgames.com/p/propsumo-ca8bd7 "Prop Sumo")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/propsumo-ca8bd7](https://store.epicgames.com/p/propsumo-ca8bd7 "Prop Sumo")
+
+    ![Prop Sumo](https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg)
+
+
 - ## 下周限免
+
+
+  - ### [The Stone of Madness](https://store.epicgames.com/p/the-stone-of-madness-7b22f3 "The Stone of Madness")
+
+    原价: CN¥93.00
+
+    购买链接: [https://store.epicgames.com/p/the-stone-of-madness-7b22f3](https://store.epicgames.com/p/the-stone-of-madness-7b22f3 "The Stone of Madness")
+
+    ![The Stone of Madness](https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg)
 
 
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
@@ -67,13 +76,4 @@
     购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
-
-
-  - ### [Prop Sumo](https://store.epicgames.com/p/propsumo-ca8bd7 "Prop Sumo")
-
-    原价: CN¥31.00
-
-    购买链接: [https://store.epicgames.com/p/propsumo-ca8bd7](https://store.epicgames.com/p/propsumo-ca8bd7 "Prop Sumo")
-
-    ![Prop Sumo](https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg)
 
