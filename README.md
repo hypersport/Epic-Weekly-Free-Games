@@ -3,18 +3,6 @@
 - ## 本周限免
 
 
-  - ### [The Stone of Madness](https://store.epicgames.com/p/the-stone-of-madness-7b22f3 "The Stone of Madness")
-
-    原价: CN¥93.00
-
-    购买链接: [https://store.epicgames.com/p/the-stone-of-madness-7b22f3](https://store.epicgames.com/p/the-stone-of-madness-7b22f3 "The Stone of Madness")
-
-    ![The Stone of Madness](https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg)
-
-
-- ## 下周限免
-
-
   - ### [DOOMBLADE](https://store.epicgames.com/p/doomblade-afdf9a "DOOMBLADE")
 
     原价: CN¥58.00
@@ -24,6 +12,18 @@
     ![DOOMBLADE](https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg)
 
 
+- ## 下周限免
+
+
+  - ### [Firestone Online Idle RPG](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Online Idle RPG")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Online Idle RPG")
+
+    ![Firestone Online Idle RPG](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1vv9i.png)
+
+
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
@@ -31,6 +31,15 @@
     购买链接: [https://store.epicgames.com/p/ghostrunner-2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
+
+
+  - ### [Oddsparks: An Automation Adventure](https://store.epicgames.com/p/oddsparks-58440c "Oddsparks: An Automation Adventure")
+
+    原价: CN¥130.00
+
+    购买链接: [https://store.epicgames.com/p/oddsparks-58440c](https://store.epicgames.com/p/oddsparks-58440c "Oddsparks: An Automation Adventure")
+
+    ![Oddsparks: An Automation Adventure](https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png)
 
 
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
