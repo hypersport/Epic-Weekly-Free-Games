@@ -3,22 +3,22 @@
 - ## 本周限免
 
 
-  - ### [Firestone Online Idle RPG](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Online Idle RPG")
+  - ### [Arranger: A Role-Puzzling Adventure](https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7 "Arranger: A Role-Puzzling Adventure")
 
-    原价: 0
+    原价: CN¥69.00
 
-    购买链接: [https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone Online Idle RPG")
+    购买链接: [https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7](https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7 "Arranger: A Role-Puzzling Adventure")
 
-    ![Firestone Online Idle RPG](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1xeuq.png)
+    ![Arranger: A Role-Puzzling Adventure](https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg)
 
 
-  - ### [Oddsparks: An Automation Adventure](https://store.epicgames.com/p/oddsparks-58440c "Oddsparks: An Automation Adventure")
+  - ### [Trash Goblin](https://store.epicgames.com/p/trash-goblin-cd5fd7 "Trash Goblin")
 
-    原价: CN¥130.00
+    原价: CN¥62.00
 
-    购买链接: [https://store.epicgames.com/p/oddsparks-58440c](https://store.epicgames.com/p/oddsparks-58440c "Oddsparks: An Automation Adventure")
+    购买链接: [https://store.epicgames.com/p/trash-goblin-cd5fd7](https://store.epicgames.com/p/trash-goblin-cd5fd7 "Trash Goblin")
 
-    ![Oddsparks: An Automation Adventure](https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png)
+    ![Trash Goblin](https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png)
 
 
 - ## 下周限免
@@ -69,11 +69,11 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Trash Goblin](https://store.epicgames.com/p/trash-goblin-cd5fd7 "Trash Goblin")
+  - ### [Mystery Game 2](https://store.epicgames.com "Mystery Game 2")
 
-    原价: CN¥62.00
+    原价: 0
 
-    购买链接: [https://store.epicgames.com/p/trash-goblin-cd5fd7](https://store.epicgames.com/p/trash-goblin-cd5fd7 "Trash Goblin")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 2")
 
-    ![Trash Goblin](https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png)
+    ![Mystery Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
 
