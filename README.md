@@ -3,27 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Arranger: A Role-Puzzling Adventure](https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7 "Arranger: A Role-Puzzling Adventure")
-
-    原价: CN¥69.00
-
-    购买链接: [https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7](https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7 "Arranger: A Role-Puzzling Adventure")
-
-    ![Arranger: A Role-Puzzling Adventure](https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg)
-
-
-  - ### [Trash Goblin](https://store.epicgames.com/p/trash-goblin-cd5fd7 "Trash Goblin")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/trash-goblin-cd5fd7](https://store.epicgames.com/p/trash-goblin-cd5fd7 "Trash Goblin")
-
-    ![Trash Goblin](https://cdn1.epicgames.com/spt-assets/113ae486fe9040d89a7fc25a501dc3b9/trash-goblin-9bxry.png)
-
-
-- ## 下周限免
-
-
   - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
 
     原价: CN¥62.00
@@ -51,15 +30,6 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Arranger: A Role-Puzzling Adventure](https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7 "Arranger: A Role-Puzzling Adventure")
-
-    原价: CN¥69.00
-
-    购买链接: [https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7](https://store.epicgames.com/p/arranger-a-rolepuzzling-adventure-dbfde7 "Arranger: A Role-Puzzling Adventure")
-
-    ![Arranger: A Role-Puzzling Adventure](https://cdn1.epicgames.com/spt-assets/fee7dc25f12c4400a5182c864fd89c66/arranger-a-rolepuzzling-adventure-17mu3.jpg)
-
-
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     原价: CN¥33.00
@@ -69,11 +39,41 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Mystery Game 2](https://store.epicgames.com "Mystery Game 2")
+  - ### [The Telltale Batman Shadows Edition](https://store.epicgames.com "The Telltale Batman Shadows Edition")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game 2")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "The Telltale Batman Shadows Edition")
 
-    ![Mystery Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
+    ![The Telltale Batman Shadows Edition](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85_2560x1440-a85c5724ba30499ba5a81a9f2125e5d4)
+
+
+- ## 下周限免
+
+
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    原价: CN¥108.00
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+
+
+  - ### [Mystery Game Week 21 Game 2](https://store.epicgames.com "Mystery Game Week 21 Game 2")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Week 21 Game 2")
+
+    ![Mystery Game Week 21 Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
+
+
+  - ### [Mystery Game Week 21 Game 1](https://store.epicgames.com "Mystery Game Week 21 Game 1")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Week 21 Game 1")
+
+    ![Mystery Game Week 21 Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
 
