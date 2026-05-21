@@ -39,13 +39,22 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [The Telltale Batman Shadows Edition](https://store.epicgames.com "The Telltale Batman Shadows Edition")
+  - ### [Down in Bermuda](https://store.epicgames.com "Down in Bermuda")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "The Telltale Batman Shadows Edition")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Down in Bermuda")
 
-    ![The Telltale Batman Shadows Edition](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85_2560x1440-a85c5724ba30499ba5a81a9f2125e5d4)
+    ![Down in Bermuda](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_wide_2560x1440-a5d54568f32d4df2a0700c89b56f00ae)
+
+
+  - ### [Tomb Raider I-III Remastered Starring Lara Croft](https://store.epicgames.com "Tomb Raider I-III Remastered Starring Lara Croft")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Tomb Raider I-III Remastered Starring Lara Croft")
+
+    ![Tomb Raider I-III Remastered Starring Lara Croft](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Wide_2560x1440-70744ab05bab4e6784a6b206eef2a94c)
 
 
 - ## 下周限免
@@ -60,20 +69,20 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Mystery Game Week 21 Game 2](https://store.epicgames.com "Mystery Game Week 21 Game 2")
+  - ### [Mystery Game Week 22 Game 1](https://store.epicgames.com "Mystery Game Week 22 Game 1")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Week 21 Game 2")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Week 22 Game 1")
 
-    ![Mystery Game Week 21 Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
+    ![Mystery Game Week 22 Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
 
 
-  - ### [Mystery Game Week 21 Game 1](https://store.epicgames.com "Mystery Game Week 21 Game 1")
+  - ### [Mystery Game Week 22 Game 2](https://store.epicgames.com "Mystery Game Week 22 Game 2")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Week 21 Game 1")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Week 22 Game 2")
 
-    ![Mystery Game Week 21 Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
+    ![Mystery Game Week 22 Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
 
