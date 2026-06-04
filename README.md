@@ -39,22 +39,22 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [LONESTAR](https://store.epicgames.com "LONESTAR")
+  - ### [Rogue Waters](https://store.epicgames.com "Rogue Waters")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LONESTAR")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Rogue Waters")
 
-    ![LONESTAR](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/lonestar-31p94_2560x1440-9abfcdf2bc7e4e66a7c181f9bcc7913a)
+    ![Rogue Waters](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/rogue-waters-wide_2560x1440-81c0f87c8e7c4bb09e2d7d9c94213104)
 
 
-  - ### [Calico](https://store.epicgames.com "Calico")
+  - ### [Songs of Conquest](https://store.epicgames.com "Songs of Conquest")
 
     原价: 0
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Calico")
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Songs of Conquest")
 
-    ![Calico](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/EGS_s2_2560x1440-09c1b30be094430b93b53d0ccc07b8f1)
+    ![Songs of Conquest](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s2_2560x1440-5c396b18c3e1460fb4a268cc6bbdfaa2)
 
 
 - ## 下周限免
@@ -78,20 +78,20 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Mystery Game Week 23 Game 2](https://store.epicgames.com "Mystery Game Week 23 Game 2")
+  - ### [The Ouroboros King](https://store.epicgames.com/p/the-ouroboros-king-e1d547 "The Ouroboros King")
 
-    原价: 0
+    原价: CN¥31.00
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Week 23 Game 2")
+    购买链接: [https://store.epicgames.com/p/the-ouroboros-king-e1d547](https://store.epicgames.com/p/the-ouroboros-king-e1d547 "The Ouroboros King")
 
-    ![Mystery Game Week 23 Game 2](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
+    ![The Ouroboros King](https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg)
 
 
-  - ### [Mystery Game Week 23 Game 1](https://store.epicgames.com "Mystery Game Week 23 Game 1")
+  - ### [Warhammer 40K Speed Freeks](https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c "Warhammer 40K Speed Freeks")
 
-    原价: 0
+    原价: CN¥62.00
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "Mystery Game Week 23 Game 1")
+    购买链接: [https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c](https://store.epicgames.com/p/warhammer-40k-speed-freeks-12879c "Warhammer 40K Speed Freeks")
 
-    ![Mystery Game Week 23 Game 1](https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-80a010b5958f4d898f9e454840c790a1)
+    ![Warhammer 40K Speed Freeks](https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg)
 
