@@ -60,6 +60,15 @@
 - ## 下周限免
 
 
+  - ### [Citizen Sleeper](https://store.epicgames.com/p/citizen-sleeper-944858 "Citizen Sleeper")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/citizen-sleeper-944858](https://store.epicgames.com/p/citizen-sleeper-944858 "Citizen Sleeper")
+
+    ![Citizen Sleeper](https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg)
+
+
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
@@ -67,6 +76,15 @@
     购买链接: [https://store.epicgames.com/p/ghostrunner-2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
+
+
+  - ### [ROBOBEAT](https://store.epicgames.com/p/robobeat-5f084b "ROBOBEAT")
+
+    原价: CN¥70.00
+
+    购买链接: [https://store.epicgames.com/p/robobeat-5f084b](https://store.epicgames.com/p/robobeat-5f084b "ROBOBEAT")
+
+    ![ROBOBEAT](https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png)
 
 
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
