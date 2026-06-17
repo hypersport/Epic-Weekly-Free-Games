@@ -59,3 +59,12 @@
 
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
+
+  - ### [Voidwrought](https://store.epicgames.com/p/voidwrought-ce8f4b "Voidwrought")
+
+    原价: CN¥76.00
+
+    购买链接: [https://store.epicgames.com/p/voidwrought-ce8f4b](https://store.epicgames.com/p/voidwrought-ce8f4b "Voidwrought")
+
+    ![Voidwrought](https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg)
+
