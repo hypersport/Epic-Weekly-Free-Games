@@ -3,22 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Citizen Sleeper](https://store.epicgames.com/p/citizen-sleeper-944858 "Citizen Sleeper")
+  - ### [Voidwrought](https://store.epicgames.com/p/voidwrought-ce8f4b "Voidwrought")
 
-    原价: CN¥62.00
+    原价: CN¥76.00
 
-    购买链接: [https://store.epicgames.com/p/citizen-sleeper-944858](https://store.epicgames.com/p/citizen-sleeper-944858 "Citizen Sleeper")
+    购买链接: [https://store.epicgames.com/p/voidwrought-ce8f4b](https://store.epicgames.com/p/voidwrought-ce8f4b "Voidwrought")
 
-    ![Citizen Sleeper](https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg)
-
-
-  - ### [ROBOBEAT](https://store.epicgames.com/p/robobeat-5f084b "ROBOBEAT")
-
-    原价: CN¥70.00
-
-    购买链接: [https://store.epicgames.com/p/robobeat-5f084b](https://store.epicgames.com/p/robobeat-5f084b "ROBOBEAT")
-
-    ![ROBOBEAT](https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png)
+    ![Voidwrought](https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg)
 
 
 - ## 下周限免
@@ -51,11 +42,20 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [Voidwrought](https://store.epicgames.com/p/voidwrought-ce8f4b "Voidwrought")
+  - ### [River City Girls 2](https://store.epicgames.com/p/river-city-girls-2-77af3a "River City Girls 2")
 
-    原价: CN¥76.00
+    原价: CN¥128.00
 
-    购买链接: [https://store.epicgames.com/p/voidwrought-ce8f4b](https://store.epicgames.com/p/voidwrought-ce8f4b "Voidwrought")
+    购买链接: [https://store.epicgames.com/p/river-city-girls-2-77af3a](https://store.epicgames.com/p/river-city-girls-2-77af3a "River City Girls 2")
 
-    ![Voidwrought](https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg)
+    ![River City Girls 2](https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png)
+
+
+  - ### [I Have No Mouth, and I Must Scream](https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2 "I Have No Mouth, and I Must Scream")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2](https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2 "I Have No Mouth, and I Must Scream")
+
+    ![I Have No Mouth, and I Must Scream](https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png)
 
