@@ -3,13 +3,22 @@
 - ## 本周限免
 
 
-  - ### [Voidwrought](https://store.epicgames.com/p/voidwrought-ce8f4b "Voidwrought")
+  - ### [River City Girls 2](https://store.epicgames.com/p/river-city-girls-2-77af3a "River City Girls 2")
 
-    原价: CN¥76.00
+    原价: CN¥128.00
 
-    购买链接: [https://store.epicgames.com/p/voidwrought-ce8f4b](https://store.epicgames.com/p/voidwrought-ce8f4b "Voidwrought")
+    购买链接: [https://store.epicgames.com/p/river-city-girls-2-77af3a](https://store.epicgames.com/p/river-city-girls-2-77af3a "River City Girls 2")
 
-    ![Voidwrought](https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg)
+    ![River City Girls 2](https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png)
+
+
+  - ### [I Have No Mouth, and I Must Scream](https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2 "I Have No Mouth, and I Must Scream")
+
+    原价: CN¥31.00
+
+    购买链接: [https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2](https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2 "I Have No Mouth, and I Must Scream")
+
+    ![I Have No Mouth, and I Must Scream](https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png)
 
 
 - ## 下周限免
@@ -51,20 +60,11 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
-  - ### [River City Girls 2](https://store.epicgames.com/p/river-city-girls-2-77af3a "River City Girls 2")
+  - ### [Tattoo Tycoon](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
 
-    原价: CN¥128.00
+    原价: CN¥130.00
 
-    购买链接: [https://store.epicgames.com/p/river-city-girls-2-77af3a](https://store.epicgames.com/p/river-city-girls-2-77af3a "River City Girls 2")
+    购买链接: [https://store.epicgames.com/p/tattoo-tycoon-b4352c](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
 
-    ![River City Girls 2](https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png)
-
-
-  - ### [I Have No Mouth, and I Must Scream](https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2 "I Have No Mouth, and I Must Scream")
-
-    原价: CN¥31.00
-
-    购买链接: [https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2](https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2 "I Have No Mouth, and I Must Scream")
-
-    ![I Have No Mouth, and I Must Scream](https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png)
+    ![Tattoo Tycoon](https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg)
 
