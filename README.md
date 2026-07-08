@@ -51,6 +51,15 @@
     ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
 
 
+  - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+
+    原价: CN¥12.00
+
+    购买链接: [https://store.epicgames.com/p/lost-castle-abb2e2](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+
+    ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
+
+
   - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
 
     原价: CN¥108.00
@@ -67,4 +76,13 @@
     购买链接: [https://store.epicgames.com/p/tattoo-tycoon-b4352c](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
 
     ![Tattoo Tycoon](https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg)
+
+
+  - ### [Echo Generation: Midnight Edition](https://store.epicgames.com/p/echo-generation-midnight-edition-069026 "Echo Generation: Midnight Edition")
+
+    原价: CN¥78.00
+
+    购买链接: [https://store.epicgames.com/p/echo-generation-midnight-edition-069026](https://store.epicgames.com/p/echo-generation-midnight-edition-069026 "Echo Generation: Midnight Edition")
+
+    ![Echo Generation: Midnight Edition](https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg)
 
