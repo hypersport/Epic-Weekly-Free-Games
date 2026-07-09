@@ -3,22 +3,22 @@
 - ## 本周限免
 
 
-  - ### [River City Girls 2](https://store.epicgames.com/p/river-city-girls-2-77af3a "River City Girls 2")
+  - ### [Nova Lands](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
 
-    原价: CN¥128.00
+    原价: CN¥80.00
 
-    购买链接: [https://store.epicgames.com/p/river-city-girls-2-77af3a](https://store.epicgames.com/p/river-city-girls-2-77af3a "River City Girls 2")
+    购买链接: [https://store.epicgames.com/p/nova-lands-4d1788](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
 
-    ![River City Girls 2](https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png)
+    ![Nova Lands](https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png)
 
 
-  - ### [I Have No Mouth, and I Must Scream](https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2 "I Have No Mouth, and I Must Scream")
+  - ### [Tattoo Tycoon](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
 
-    原价: CN¥31.00
+    原价: CN¥130.00
 
-    购买链接: [https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2](https://store.epicgames.com/p/i-have-no-mouth-and-i-must-scream-95c5c2 "I Have No Mouth, and I Must Scream")
+    购买链接: [https://store.epicgames.com/p/tattoo-tycoon-b4352c](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
 
-    ![I Have No Mouth, and I Must Scream](https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png)
+    ![Tattoo Tycoon](https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg)
 
 
 - ## 下周限免
@@ -67,6 +67,15 @@
     购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
 
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+
+
+  - ### [Luto](https://store.epicgames.com/p/luto-0a4ab3 "Luto")
+
+    原价: CN¥76.00
+
+    购买链接: [https://store.epicgames.com/p/luto-0a4ab3](https://store.epicgames.com/p/luto-0a4ab3 "Luto")
+
+    ![Luto](https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png)
 
 
   - ### [Tattoo Tycoon](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
