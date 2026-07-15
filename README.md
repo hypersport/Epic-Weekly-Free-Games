@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Foretales](https://store.epicgames.com/p/foretales-d6c5bd "Foretales")
+
+    原价: CN¥68.00
+
+    购买链接: [https://store.epicgames.com/p/foretales-d6c5bd](https://store.epicgames.com/p/foretales-d6c5bd "Foretales")
+
+    ![Foretales](https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg)
+
+
   - ### [Nova Lands](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
 
     原价: CN¥80.00
