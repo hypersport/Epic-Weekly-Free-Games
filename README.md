@@ -3,27 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Nova Lands](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
-
-    原价: CN¥80.00
-
-    购买链接: [https://store.epicgames.com/p/nova-lands-4d1788](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
-
-    ![Nova Lands](https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png)
-
-
-  - ### [Tattoo Tycoon](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
-
-    原价: CN¥130.00
-
-    购买链接: [https://store.epicgames.com/p/tattoo-tycoon-b4352c](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
-
-    ![Tattoo Tycoon](https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg)
-
-
-- ## 下周限免
-
-
   - ### [Foretales](https://store.epicgames.com/p/foretales-d6c5bd "Foretales")
 
     原价: CN¥68.00
@@ -31,15 +10,6 @@
     购买链接: [https://store.epicgames.com/p/foretales-d6c5bd](https://store.epicgames.com/p/foretales-d6c5bd "Foretales")
 
     ![Foretales](https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg)
-
-
-  - ### [Nova Lands](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
-
-    原价: CN¥80.00
-
-    购买链接: [https://store.epicgames.com/p/nova-lands-4d1788](https://store.epicgames.com/p/nova-lands-4d1788 "Nova Lands")
-
-    ![Nova Lands](https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png)
 
 
   - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
@@ -69,15 +39,6 @@
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
-  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
-
-    原价: CN¥108.00
-
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
-
-    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
-
-
   - ### [Luto](https://store.epicgames.com/p/luto-0a4ab3 "Luto")
 
     原价: CN¥76.00
@@ -87,15 +48,6 @@
     ![Luto](https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png)
 
 
-  - ### [Tattoo Tycoon](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
-
-    原价: CN¥130.00
-
-    购买链接: [https://store.epicgames.com/p/tattoo-tycoon-b4352c](https://store.epicgames.com/p/tattoo-tycoon-b4352c "Tattoo Tycoon")
-
-    ![Tattoo Tycoon](https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg)
-
-
   - ### [Echo Generation: Midnight Edition](https://store.epicgames.com/p/echo-generation-midnight-edition-069026 "Echo Generation: Midnight Edition")
 
     原价: CN¥78.00
@@ -103,4 +55,25 @@
     购买链接: [https://store.epicgames.com/p/echo-generation-midnight-edition-069026](https://store.epicgames.com/p/echo-generation-midnight-edition-069026 "Echo Generation: Midnight Edition")
 
     ![Echo Generation: Midnight Edition](https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg)
+
+
+- ## 下周限免
+
+
+  - ### [Foretales](https://store.epicgames.com/p/foretales-d6c5bd "Foretales")
+
+    原价: CN¥68.00
+
+    购买链接: [https://store.epicgames.com/p/foretales-d6c5bd](https://store.epicgames.com/p/foretales-d6c5bd "Foretales")
+
+    ![Foretales](https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg)
+
+
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    原价: CN¥108.00
+
+    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
+
+    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
