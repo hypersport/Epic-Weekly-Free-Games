@@ -60,6 +60,15 @@
 - ## 下周限免
 
 
+  - ### [Beacon Pines](https://store.epicgames.com/p/beacon-pines-629fc3 "Beacon Pines")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/beacon-pines-629fc3](https://store.epicgames.com/p/beacon-pines-629fc3 "Beacon Pines")
+
+    ![Beacon Pines](https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg)
+
+
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
