@@ -60,6 +60,15 @@
     ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
 
 
+  - ### [Caravan SandWitch](https://store.epicgames.com/p/caravan-sandwitch-05ff58 "Caravan SandWitch")
+
+    原价: CN¥90.00
+
+    购买链接: [https://store.epicgames.com/p/caravan-sandwitch-05ff58](https://store.epicgames.com/p/caravan-sandwitch-05ff58 "Caravan SandWitch")
+
+    ![Caravan SandWitch](https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg)
+
+
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     原价: CN¥33.00
