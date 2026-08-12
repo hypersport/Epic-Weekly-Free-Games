@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Cardpocalypse Standard Edition](https://store.epicgames.com/p/cardpocalypse "Cardpocalypse Standard Edition")
+
+    原价: CN¥84.00
+
+    购买链接: [https://store.epicgames.com/p/cardpocalypse](https://store.epicgames.com/p/cardpocalypse "Cardpocalypse Standard Edition")
+
+    ![Cardpocalypse Standard Edition](https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df)
+
+
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
