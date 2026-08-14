@@ -42,13 +42,13 @@
     ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
-  - ### [LISA: The Definitive Edition](https://store.epicgames.com "LISA: The Definitive Edition")
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
 
     原价: CN¥108.00
 
-    购买链接: [https://store.epicgames.com](https://store.epicgames.com "LISA: The Definitive Edition")
+    购买链接: [https://store.epicgames.com/p/lisa-the-definitive-edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
 
-    ![LISA: The Definitive Edition](https://cdn1.epicgames.com/offer/ca3a9d16d131478c97fd56c138a6511a/EGS_LISATheDefinitiveEdition_DingalingProductions_Bundles_S1_2560x1440-55b66eb2046507e58eac435c21331bd5)
+    ![LISA: The Definitive Edition](https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg)
 
 
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
