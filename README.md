@@ -3,18 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Caravan SandWitch](https://store.epicgames.com/p/caravan-sandwitch-05ff58 "Caravan SandWitch")
-
-    原价: CN¥90.00
-
-    购买链接: [https://store.epicgames.com/p/caravan-sandwitch-05ff58](https://store.epicgames.com/p/caravan-sandwitch-05ff58 "Caravan SandWitch")
-
-    ![Caravan SandWitch](https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-1uz0l.jpg)
-
-
-- ## 下周限免
-
-
   - ### [Cardpocalypse Standard Edition](https://store.epicgames.com/p/cardpocalypse "Cardpocalypse Standard Edition")
 
     原价: CN¥84.00
@@ -22,6 +10,27 @@
     购买链接: [https://store.epicgames.com/p/cardpocalypse](https://store.epicgames.com/p/cardpocalypse "Cardpocalypse Standard Edition")
 
     ![Cardpocalypse Standard Edition](https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df)
+
+
+  - ### [Epic Mage Bundle](https://store.epicgames.com/p/albion-online-7eb24d "Epic Mage Bundle")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/albion-online-7eb24d](https://store.epicgames.com/p/albion-online-7eb24d "Epic Mage Bundle")
+
+    ![Epic Mage Bundle](https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-7k7df.png)
+
+
+- ## 下周限免
+
+
+  - ### [Breathedge](https://store.epicgames.com/p/breathedge "Breathedge")
+
+    原价: CN¥92.00
+
+    购买链接: [https://store.epicgames.com/p/breathedge](https://store.epicgames.com/p/breathedge "Breathedge")
+
+    ![Breathedge](https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg)
 
 
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
@@ -60,11 +69,11 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Epic Mage Bundle](https://store.epicgames.com/p/albion-online-7eb24d "Epic Mage Bundle")
+  - ### [Rival Stars Horse Racing : Desktop Edition](https://store.epicgames.com/p/rival-stars-horse-racing-dd09de "Rival Stars Horse Racing : Desktop Edition")
 
-    原价: 0
+    原价: CN¥78.00
 
-    购买链接: [https://store.epicgames.com/p/albion-online-7eb24d](https://store.epicgames.com/p/albion-online-7eb24d "Epic Mage Bundle")
+    购买链接: [https://store.epicgames.com/p/rival-stars-horse-racing-dd09de](https://store.epicgames.com/p/rival-stars-horse-racing-dd09de "Rival Stars Horse Racing : Desktop Edition")
 
-    ![Epic Mage Bundle](https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-7k7df.png)
+    ![Rival Stars Horse Racing : Desktop Edition](https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg)
 
