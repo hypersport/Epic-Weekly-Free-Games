@@ -3,22 +3,22 @@
 - ## 本周限免
 
 
-  - ### [Cardpocalypse Standard Edition](https://store.epicgames.com/p/cardpocalypse "Cardpocalypse Standard Edition")
+  - ### [Breathedge](https://store.epicgames.com/p/breathedge "Breathedge")
 
-    原价: CN¥84.00
+    原价: CN¥92.00
 
-    购买链接: [https://store.epicgames.com/p/cardpocalypse](https://store.epicgames.com/p/cardpocalypse "Cardpocalypse Standard Edition")
+    购买链接: [https://store.epicgames.com/p/breathedge](https://store.epicgames.com/p/breathedge "Breathedge")
 
-    ![Cardpocalypse Standard Edition](https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df)
+    ![Breathedge](https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg)
 
 
-  - ### [Epic Mage Bundle](https://store.epicgames.com/p/albion-online-7eb24d "Epic Mage Bundle")
+  - ### [Rival Stars Horse Racing : Desktop Edition](https://store.epicgames.com/p/rival-stars-horse-racing-dd09de "Rival Stars Horse Racing : Desktop Edition")
 
-    原价: 0
+    原价: CN¥78.00
 
-    购买链接: [https://store.epicgames.com/p/albion-online-7eb24d](https://store.epicgames.com/p/albion-online-7eb24d "Epic Mage Bundle")
+    购买链接: [https://store.epicgames.com/p/rival-stars-horse-racing-dd09de](https://store.epicgames.com/p/rival-stars-horse-racing-dd09de "Rival Stars Horse Racing : Desktop Edition")
 
-    ![Epic Mage Bundle](https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-7k7df.png)
+    ![Rival Stars Horse Racing : Desktop Edition](https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg)
 
 
 - ## 下周限免
@@ -69,11 +69,11 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Rival Stars Horse Racing : Desktop Edition](https://store.epicgames.com/p/rival-stars-horse-racing-dd09de "Rival Stars Horse Racing : Desktop Edition")
+  - ### [Alone With You](https://store.epicgames.com/p/alone-with-you-028a15 "Alone With You")
 
-    原价: CN¥78.00
+    原价: CN¥31.00
 
-    购买链接: [https://store.epicgames.com/p/rival-stars-horse-racing-dd09de](https://store.epicgames.com/p/rival-stars-horse-racing-dd09de "Rival Stars Horse Racing : Desktop Edition")
+    购买链接: [https://store.epicgames.com/p/alone-with-you-028a15](https://store.epicgames.com/p/alone-with-you-028a15 "Alone With You")
 
-    ![Rival Stars Horse Racing : Desktop Edition](https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg)
+    ![Alone With You](https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png)
 
