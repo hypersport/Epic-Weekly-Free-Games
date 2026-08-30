@@ -12,6 +12,15 @@
     ![Breathedge](https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg)
 
 
+  - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+
+    原价: CN¥12.00
+
+    购买链接: [https://store.epicgames.com/p/lost-castle-abb2e2](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
+
+    ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
+
+
   - ### [Rival Stars Horse Racing : Desktop Edition](https://store.epicgames.com/p/rival-stars-horse-racing-dd09de "Rival Stars Horse Racing : Desktop Edition")
 
     原价: CN¥78.00
@@ -40,15 +49,6 @@
     购买链接: [https://store.epicgames.com/p/ghostrunner-2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     ![Ghostrunner 2](https://cdn1.epicgames.com/offer/708f57aaa04b42ef885be16c8288f0ac/EGS_Ghostrunner2_OneMoreLevel_S1_2560x1440-15845148fae1d0cfd7f3e98c9b3ba6ba)
-
-
-  - ### [Lost Castle: The Old Ones Awaken](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
-
-    原价: CN¥12.00
-
-    购买链接: [https://store.epicgames.com/p/lost-castle-abb2e2](https://store.epicgames.com/p/lost-castle-abb2e2 "Lost Castle: The Old Ones Awaken")
-
-    ![Lost Castle: The Old Ones Awaken](https://cdn1.epicgames.com/spt-assets/a6d76157ad884f2c9aa470b30da9e2ff/lost-castle-r390n.png)
 
 
   - ### [LISA: The Definitive Edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
