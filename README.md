@@ -3,15 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Astrea Six Sided Oracles](https://store.epicgames.com/p/astrea-six-sided-oracles-33c949 "Astrea Six Sided Oracles")
-
-    原价: CN¥78.00
-
-    购买链接: [https://store.epicgames.com/p/astrea-six-sided-oracles-33c949](https://store.epicgames.com/p/astrea-six-sided-oracles-33c949 "Astrea Six Sided Oracles")
-
-    ![Astrea Six Sided Oracles](https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png)
-
-
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
