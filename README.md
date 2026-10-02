@@ -3,15 +3,6 @@
 - ## 本周限免
 
 
-  - ### [LISA: The Definitive Edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
-
-    原价: CN¥108.00
-
-    购买链接: [https://store.epicgames.com/p/lisa-the-definitive-edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
-
-    ![LISA: The Definitive Edition](https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg)
-
-
   - ### [System Shock 2: 25th Anniversary Remaster](https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9 "System Shock 2: 25th Anniversary Remaster")
 
     原价: CN¥93.00
