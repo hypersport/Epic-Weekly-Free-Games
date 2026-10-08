@@ -3,22 +3,22 @@
 - ## 本周限免
 
 
-  - ### [System Shock 2: 25th Anniversary Remaster](https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9 "System Shock 2: 25th Anniversary Remaster")
+  - ### [Out of Sight](https://store.epicgames.com/p/out-of-sight-b96ca8 "Out of Sight")
 
-    原价: CN¥93.00
+    原价: CN¥53.00
 
-    购买链接: [https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9](https://store.epicgames.com/p/system-shock-2-25th-anniversary-remaster-cb94d9 "System Shock 2: 25th Anniversary Remaster")
+    购买链接: [https://store.epicgames.com/p/out-of-sight-b96ca8](https://store.epicgames.com/p/out-of-sight-b96ca8 "Out of Sight")
 
-    ![System Shock 2: 25th Anniversary Remaster](https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg)
+    ![Out of Sight](https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg)
 
 
-  - ### [BURIED STARS](https://store.epicgames.com/p/buried-stars-d7c88c "BURIED STARS")
+  - ### [TerraScape](https://store.epicgames.com/p/terrascape-2b12b1 "TerraScape")
 
-    原价: CN¥116.00
+    原价: CN¥53.00
 
-    购买链接: [https://store.epicgames.com/p/buried-stars-d7c88c](https://store.epicgames.com/p/buried-stars-d7c88c "BURIED STARS")
+    购买链接: [https://store.epicgames.com/p/terrascape-2b12b1](https://store.epicgames.com/p/terrascape-2b12b1 "TerraScape")
 
-    ![BURIED STARS](https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg)
+    ![TerraScape](https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png)
 
 
 - ## 下周限免
@@ -42,15 +42,6 @@
     ![LISA: The Definitive Edition](https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg)
 
 
-  - ### [Out of Sight](https://store.epicgames.com/p/out-of-sight-b96ca8 "Out of Sight")
-
-    原价: CN¥53.00
-
-    购买链接: [https://store.epicgames.com/p/out-of-sight-b96ca8](https://store.epicgames.com/p/out-of-sight-b96ca8 "Out of Sight")
-
-    ![Out of Sight](https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg)
-
-
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     原价: CN¥33.00
@@ -60,11 +51,20 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [TerraScape](https://store.epicgames.com/p/terrascape-2b12b1 "TerraScape")
+  - ### [Bad Cheese](https://store.epicgames.com/p/bad-cheese-4256d9 "Bad Cheese")
 
-    原价: CN¥53.00
+    原价: CN¥40.00
 
-    购买链接: [https://store.epicgames.com/p/terrascape-2b12b1](https://store.epicgames.com/p/terrascape-2b12b1 "TerraScape")
+    购买链接: [https://store.epicgames.com/p/bad-cheese-4256d9](https://store.epicgames.com/p/bad-cheese-4256d9 "Bad Cheese")
 
-    ![TerraScape](https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png)
+    ![Bad Cheese](https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png)
+
+
+  - ### [Agent A: A puzzle in disguise](https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f "Agent A: A puzzle in disguise")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f](https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f "Agent A: A puzzle in disguise")
+
+    ![Agent A: A puzzle in disguise](https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png)
 
