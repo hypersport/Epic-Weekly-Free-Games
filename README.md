@@ -24,6 +24,15 @@
 - ## 下周限免
 
 
+  - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
+
+    原价: CN¥62.00
+
+    购买链接: [https://store.epicgames.com/p/eternal-threads-197169](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
+
+    ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
+
+
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
