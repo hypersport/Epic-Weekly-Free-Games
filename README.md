@@ -3,22 +3,22 @@
 - ## 本周限免
 
 
-  - ### [Out of Sight](https://store.epicgames.com/p/out-of-sight-b96ca8 "Out of Sight")
+  - ### [Bad Cheese](https://store.epicgames.com/p/bad-cheese-4256d9 "Bad Cheese")
 
-    原价: CN¥53.00
+    原价: CN¥40.00
 
-    购买链接: [https://store.epicgames.com/p/out-of-sight-b96ca8](https://store.epicgames.com/p/out-of-sight-b96ca8 "Out of Sight")
+    购买链接: [https://store.epicgames.com/p/bad-cheese-4256d9](https://store.epicgames.com/p/bad-cheese-4256d9 "Bad Cheese")
 
-    ![Out of Sight](https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg)
+    ![Bad Cheese](https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png)
 
 
-  - ### [TerraScape](https://store.epicgames.com/p/terrascape-2b12b1 "TerraScape")
+  - ### [Agent A: A puzzle in disguise](https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f "Agent A: A puzzle in disguise")
 
-    原价: CN¥53.00
+    原价: CN¥62.00
 
-    购买链接: [https://store.epicgames.com/p/terrascape-2b12b1](https://store.epicgames.com/p/terrascape-2b12b1 "TerraScape")
+    购买链接: [https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f](https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f "Agent A: A puzzle in disguise")
 
-    ![TerraScape](https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png)
+    ![Agent A: A puzzle in disguise](https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png)
 
 
 - ## 下周限免
@@ -51,6 +51,15 @@
     ![LISA: The Definitive Edition](https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg)
 
 
+  - ### [Sker Ritual](https://store.epicgames.com/p/sker-ritual-aac702 "Sker Ritual")
+
+    原价: CN¥78.00
+
+    购买链接: [https://store.epicgames.com/p/sker-ritual-aac702](https://store.epicgames.com/p/sker-ritual-aac702 "Sker Ritual")
+
+    ![Sker Ritual](https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png)
+
+
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     原价: CN¥33.00
@@ -60,20 +69,11 @@
     ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
-  - ### [Bad Cheese](https://store.epicgames.com/p/bad-cheese-4256d9 "Bad Cheese")
+  - ### [Home - A Unique Horror Adventure](https://store.epicgames.com/p/home-19212a "Home - A Unique Horror Adventure")
 
-    原价: CN¥40.00
+    原价: CN¥15.00
 
-    购买链接: [https://store.epicgames.com/p/bad-cheese-4256d9](https://store.epicgames.com/p/bad-cheese-4256d9 "Bad Cheese")
+    购买链接: [https://store.epicgames.com/p/home-19212a](https://store.epicgames.com/p/home-19212a "Home - A Unique Horror Adventure")
 
-    ![Bad Cheese](https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png)
-
-
-  - ### [Agent A: A puzzle in disguise](https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f "Agent A: A puzzle in disguise")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f](https://store.epicgames.com/p/agent-a-a-puzzle-in-disguise-42fe5f "Agent A: A puzzle in disguise")
-
-    ![Agent A: A puzzle in disguise](https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png)
+    ![Home - A Unique Horror Adventure](https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png)
 
