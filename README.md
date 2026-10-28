@@ -18,7 +18,7 @@
 
     购买链接: [https://store.epicgames.com/p/sker-ritual-aac702](https://store.epicgames.com/p/sker-ritual-aac702 "Sker Ritual")
 
-    ![Sker Ritual](https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png)
+    ![Sker Ritual](https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-14x61.jpg)
 
 
   - ### [Sorry We're Closed](https://store.epicgames.com/p/sorry-were-closed-724c86 "Sorry We're Closed")
