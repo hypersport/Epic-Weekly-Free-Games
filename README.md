@@ -12,6 +12,15 @@
     ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
 
 
+  - ### [LISA: The Definitive Edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
+
+    原价: CN¥108.00
+
+    购买链接: [https://store.epicgames.com/p/lisa-the-definitive-edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
+
+    ![LISA: The Definitive Edition](https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg)
+
+
   - ### [Sorry We're Closed](https://store.epicgames.com/p/sorry-were-closed-724c86 "Sorry We're Closed")
 
     原价: CN¥78.00
