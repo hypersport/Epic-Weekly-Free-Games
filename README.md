@@ -3,15 +3,6 @@
 - ## 本周限免
 
 
-  - ### [Eternal Threads](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
-
-    原价: CN¥62.00
-
-    购买链接: [https://store.epicgames.com/p/eternal-threads-197169](https://store.epicgames.com/p/eternal-threads-197169 "Eternal Threads")
-
-    ![Eternal Threads](https://cdn1.epicgames.com/spt-assets/08813e055af64315b8a55b2e521f4e04/eternal-threads-1vm6i.jpg)
-
-
   - ### [LISA: The Definitive Edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
 
     原价: CN¥108.00
@@ -28,15 +19,6 @@
     购买链接: [https://store.epicgames.com/p/sorry-were-closed-724c86](https://store.epicgames.com/p/sorry-were-closed-724c86 "Sorry We're Closed")
 
     ![Sorry We're Closed](https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png)
-
-
-  - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
-
-    原价: CN¥33.00
-
-    购买链接: [https://store.epicgames.com/p/monument-valley-1d99d3](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
-
-    ![Monument Valley](https://cdn1.epicgames.com/spt-assets/e56a7411805046d3b5b7253a6e4e0faa/monument-valley-1gys5.jpg)
 
 
 - ## 下周限免
