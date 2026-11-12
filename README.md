@@ -3,25 +3,25 @@
 - ## 本周限免
 
 
-  - ### [Idle Champions of the Forgotten Realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+  - ### [Knightica](https://store.epicgames.com/p/knightica-3be45c "Knightica")
 
-    原价: 0
+    原价: CN¥47.00
 
-    购买链接: [https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms](https://store.epicgames.com/p/idle-champions-of-the-forgotten-realms "Idle Champions of the Forgotten Realms")
+    购买链接: [https://store.epicgames.com/p/knightica-3be45c](https://store.epicgames.com/p/knightica-3be45c "Knightica")
 
-    ![Idle Champions of the Forgotten Realms](https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1cv5z.jpg)
-
-
-  - ### [Flotsam](https://store.epicgames.com/p/flotsam-266287 "Flotsam")
-
-    原价: CN¥80.00
-
-    购买链接: [https://store.epicgames.com/p/flotsam-266287](https://store.epicgames.com/p/flotsam-266287 "Flotsam")
-
-    ![Flotsam](https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg)
+    ![Knightica](https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png)
 
 
 - ## 下周限免
+
+
+  - ### [Alien: Isolation](https://store.epicgames.com/p/alien-isolation "Alien: Isolation")
+
+    原价: CN¥198.00
+
+    购买链接: [https://store.epicgames.com/p/alien-isolation](https://store.epicgames.com/p/alien-isolation "Alien: Isolation")
+
+    ![Alien: Isolation](https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg)
 
 
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
@@ -42,6 +42,15 @@
     ![LISA: The Definitive Edition](https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg)
 
 
+  - ### [Mark of the Deep](https://store.epicgames.com/p/mark-of-the-deep-f7dc08 "Mark of the Deep")
+
+    原价: CN¥55.00
+
+    购买链接: [https://store.epicgames.com/p/mark-of-the-deep-f7dc08](https://store.epicgames.com/p/mark-of-the-deep-f7dc08 "Mark of the Deep")
+
+    ![Mark of the Deep](https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png)
+
+
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
 
     原价: CN¥33.00
@@ -58,13 +67,4 @@
     购买链接: [https://store.epicgames.com/p/terrascape-2b12b1](https://store.epicgames.com/p/terrascape-2b12b1 "TerraScape")
 
     ![TerraScape](https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png)
-
-
-  - ### [Knightica](https://store.epicgames.com/p/knightica-3be45c "Knightica")
-
-    原价: CN¥47.00
-
-    购买链接: [https://store.epicgames.com/p/knightica-3be45c](https://store.epicgames.com/p/knightica-3be45c "Knightica")
-
-    ![Knightica](https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png)
 
