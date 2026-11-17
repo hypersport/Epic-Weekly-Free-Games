@@ -15,15 +15,6 @@
 - ## 下周限免
 
 
-  - ### [Alien: Isolation](https://store.epicgames.com/p/alien-isolation "Alien: Isolation")
-
-    原价: CN¥198.00
-
-    购买链接: [https://store.epicgames.com/p/alien-isolation](https://store.epicgames.com/p/alien-isolation "Alien: Isolation")
-
-    ![Alien: Isolation](https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg)
-
-
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
