@@ -15,6 +15,15 @@
 - ## 下周限免
 
 
+  - ### [Firestone – Idle Clicker Online RPG](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone – Idle Clicker Online RPG")
+
+    原价: 0
+
+    购买链接: [https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone – Idle Clicker Online RPG")
+
+    ![Firestone – Idle Clicker Online RPG](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-i52vr.jpg)
+
+
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
 
     原价: CN¥169.00
