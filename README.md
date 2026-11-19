@@ -3,13 +3,13 @@
 - ## 本周限免
 
 
-  - ### [Knightica](https://store.epicgames.com/p/knightica-3be45c "Knightica")
+  - ### [Mark of the Deep](https://store.epicgames.com/p/mark-of-the-deep-f7dc08 "Mark of the Deep")
 
-    原价: CN¥47.00
+    原价: CN¥55.00
 
-    购买链接: [https://store.epicgames.com/p/knightica-3be45c](https://store.epicgames.com/p/knightica-3be45c "Knightica")
+    购买链接: [https://store.epicgames.com/p/mark-of-the-deep-f7dc08](https://store.epicgames.com/p/mark-of-the-deep-f7dc08 "Mark of the Deep")
 
-    ![Knightica](https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png)
+    ![Mark of the Deep](https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png)
 
 
 - ## 下周限免
@@ -21,7 +21,16 @@
 
     购买链接: [https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b](https://store.epicgames.com/p/firestone-online-idle-rpg-bfd04b "Firestone – Idle Clicker Online RPG")
 
-    ![Firestone – Idle Clicker Online RPG](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-i52vr.jpg)
+    ![Firestone – Idle Clicker Online RPG](https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg)
+
+
+  - ### [Bread and Fred](https://store.epicgames.com/p/bread-and-fred-1db362 "Bread and Fred")
+
+    原价: CN¥47.00
+
+    购买链接: [https://store.epicgames.com/p/bread-and-fred-1db362](https://store.epicgames.com/p/bread-and-fred-1db362 "Bread and Fred")
+
+    ![Bread and Fred](https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg)
 
 
   - ### [Ghostrunner 2](https://store.epicgames.com/p/ghostrunner-2 "Ghostrunner 2")
@@ -40,15 +49,6 @@
     购买链接: [https://store.epicgames.com/p/lisa-the-definitive-edition](https://store.epicgames.com/p/lisa-the-definitive-edition "LISA: The Definitive Edition")
 
     ![LISA: The Definitive Edition](https://cdn2.unrealengine.com/egs-lisathedefinitiveedition-dingalingproductions-bundles-s1-2560x1440-5be18c558828.jpg)
-
-
-  - ### [Mark of the Deep](https://store.epicgames.com/p/mark-of-the-deep-f7dc08 "Mark of the Deep")
-
-    原价: CN¥55.00
-
-    购买链接: [https://store.epicgames.com/p/mark-of-the-deep-f7dc08](https://store.epicgames.com/p/mark-of-the-deep-f7dc08 "Mark of the Deep")
-
-    ![Mark of the Deep](https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png)
 
 
   - ### [Monument Valley](https://store.epicgames.com/p/monument-valley-1d99d3 "Monument Valley")
